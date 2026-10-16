@@ -6,6 +6,7 @@ authors:
     given-names: Shinji
     affiliation: AQUA LLC
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23426281
 version: 1.0.0
 repository-code: "https://github.com/YUALAB/contextual-retrieval-japanese"
 url: "https://www.aquallc.jp/research/contextual-retrieval-japanese/"

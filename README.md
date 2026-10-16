@@ -1,5 +1,7 @@
 # Data and code: Does Contextual Retrieval Work in Japanese?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23426281.svg)](https://doi.org/10.5281/zenodo.23426281)
+
 Data, results and code for the report
 
 > Shinji Yumura. **Does Contextual Retrieval Work in Japanese? Testing Anthropic's Method Against Structure-Aligned Chunking in a Production Hybrid RAG.** AQUA Research Technical Report 007, AQUA LLC, 2026.
@@ -70,6 +72,10 @@ python code/analyze.py          # writes code/out/analysis.json, identical to an
 * Hybrid (equal RRF): no difference between variants.
 * LLM reranking of the top 50 halves top-20 failures (18.0% → 9.8%) and removes the differences between variants.
 * Production pipeline (document-level, first 25 chunks per article) → chunk-level hybrid + reranking: evidence in context 59.3% → 81.0% (295 q.), 82.0% → 96.7% (150 q.); answers correct 67 → 87 of 100; context ~30,000 → ~4,000 characters; +1.2 s latency.
+
+## Citing the data
+
+Shinji Yumura. *Data and code for: Does Contextual Retrieval Work in Japanese?* (v1.0.0). Zenodo, 2026. <https://doi.org/10.5281/zenodo.23426281>
 
 ## License
 
