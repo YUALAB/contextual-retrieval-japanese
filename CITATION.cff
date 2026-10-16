@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper."
+title: "Data and code for: Does Contextual Retrieval Work in Japanese?"
+authors:
+  - family-names: Yumura
+    given-names: Shinji
+    affiliation: AQUA LLC
+license: CC-BY-4.0
+version: 1.0.0
+repository-code: "https://github.com/YUALAB/contextual-retrieval-japanese"
+url: "https://www.aquallc.jp/research/contextual-retrieval-japanese/"
+date-released: 2026-10-17
+preferred-citation:
+  type: report
+  title: "Does Contextual Retrieval Work in Japanese? Testing Anthropic's Method Against Structure-Aligned Chunking in a Production Hybrid RAG"
+  authors:
+    - family-names: Yumura
+      given-names: Shinji
+  institution:
+    name: AQUA LLC
+  number: "AQUA Research Technical Report 007"
+  year: 2026
+  url: "https://www.aquallc.jp/research/contextual-retrieval-japanese/"

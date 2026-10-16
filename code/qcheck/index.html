@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>問題集の確かめ</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--ink:#1d2330;--sub:#6a7181;--line:#dfe2e8;--accent:#2f6fed;--pick:#e8f0ff;--mark:#fff2a8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.75 -apple-system,"Hiragino Sans",sans-serif}
+header{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--line);padding:12px 20px;display:flex;gap:16px;align-items:center;z-index:2}
+#prog{flex:1;height:6px;background:var(--line);border-radius:3px;overflow:hidden}#bar{height:100%;background:var(--accent);width:0}
+main{max-width:860px;margin:auto;padding:18px 20px 140px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:14px}
+.box small{color:var(--sub);display:block;font-size:12px;margin-bottom:4px}
+.q{font-size:19px;font-weight:600}
+mark{background:var(--mark);padding:0 2px}
+footer{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);padding:12px 16px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.c{border:1px solid var(--line);background:#fff;border-radius:10px;padding:10px 14px;font-size:15px;cursor:pointer}
+.c:hover{border-color:var(--accent)}.c.on{background:var(--pick);border-color:var(--accent);font-weight:600}.c kbd{color:var(--sub);font-size:12px;margin-left:4px}
+.nav{border:0;background:none;color:var(--accent);font-size:15px;cursor:pointer}
+#done{display:none;text-align:center;padding:80px 20px}
+.help{color:var(--sub);font-size:14px}
+</style></head><body>
+<header><b>問題集の確かめ</b><div id="prog"><div id="bar"></div></div><span id="count"></span></header>
+<main id="main">
+<p class="help">AIが作った質問です。「一節」を読んで、質問として自然か、黄色の根拠が答えになっているかを選んでください。キーボードの 1〜4 でも選べます。</p>
+<div class="box"><small>質問</small><div class="q" id="q"></div><small style="margin-top:8px">AIの答え</small><div id="a"></div></div>
+<div class="box"><small id="t"></small><div id="p"></div></div>
+</main>
+<div id="done"><h2>おつかれさまでした！</h2><p>Claude に「終わった」と伝えてください。</p></div>
+<footer id="foot">
+<button class="nav" id="prev">← 前へ</button>
+<button class="c" data-v="ok">良い<kbd>1</kbd></button>
+<button class="c" data-v="unnatural">質問が不自然<kbd>2</kbd></button>
+<button class="c" data-v="wrong">根拠・答えがずれている<kbd>3</kbd></button>
+<button class="c" data-v="unanswerable">一節では答えられない<kbd>4</kbd></button>
+<button class="nav" id="next">次へ →</button>
+</footer>
+<script>
+let S=[],i=0,ans={};const $=id=>document.getElementById(id);
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+function show(){const n=Object.keys(ans).length;$('bar').style.width=(n/S.length*100)+'%';$('count').textContent=n+' / '+S.length;
+ if(i>=S.length){$('main').style.display='none';$('foot').style.display='none';$('done').style.display='block';return}
+ $('main').style.display='';$('foot').style.display='';$('done').style.display='none';
+ const q=S[i];$('q').textContent=(i+1)+'. '+q.question;$('a').textContent=q.answer;$('t').textContent='一節（記事：'+q.title+'）';
+ const p=esc(q.passage),e=esc(q.evidence);$('p').innerHTML=p.includes(e)?p.replace(e,'<mark>'+e+'</mark>'):p+'<br><mark>'+e+'</mark>';
+ document.querySelectorAll('.c').forEach(b=>b.classList.toggle('on',ans[q.id]===b.dataset.v));scrollTo(0,0)}
+async function pick(v){ans[S[i].id]=v;await fetch('/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(ans)});
+ document.querySelectorAll('.c').forEach(b=>b.classList.toggle('on',b.dataset.v===v));setTimeout(()=>{i++;while(i<S.length&&ans[S[i].id])i++;show()},200)}
+document.querySelectorAll('.c').forEach(b=>b.onclick=()=>pick(b.dataset.v));
+$('prev').onclick=()=>{if(i>0){i--;show()}};$('next').onclick=()=>{if(i<S.length){i++;show()}};
+addEventListener('keydown',e=>{const m={'1':'ok','2':'unnatural','3':'wrong','4':'unanswerable'}[e.key];if(m)pick(m)});
+(async()=>{S=await(await fetch('sample.json')).json();ans=await(await fetch('/checks')).json();i=S.findIndex(q=>!ans[q.id]);if(i<0)i=S.length;show()})();
+</script></body></html>

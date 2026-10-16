@@ -1,0 +1,12 @@
+The data in data/ (except the article excerpts noted below) and analysis/ are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Shinji Yumura, AQUA LLC
+
+Article excerpts: the "passage" and "evidence" fields in data/questions/ and data/human-check/
+quote short passages from the AQUA LLC blog (https://www.aquallc.jp/). These excerpts remain
+(c) AQUA LLC and are included only so that the benchmark can be checked; they are not covered by CC BY 4.0.
+The full articles are not redistributed; code/build-corpus.ts re-downloads them from the public WordPress API.
+
+The code/ directory is licensed under the MIT License (see LICENSE).

@@ -1,0 +1,3302 @@
+[
+ {
+  "id": "q001",
+  "doc": "post_2014",
+  "title": "ChatGPTの進化が止まる!? 世界のAI企業が一斉に“ブレーキ”を踏んだ理由 ホワイトハウスでの協定とOpenAIの開発一時停止から再開までを徹底解説",
+  "passage": "出典： Dario Amodei「We Must Pace the Frontier」 冒頭でアモデイ氏は、AIが病気の治療や経済成長に大きく貢献できると強調しています。ご自身のお父様を、亡くなった数年後に治療法が見つかった病気で失った経験にも触れています。そのうえで、 恩恵を確実に手にするためにこそ、開発の速さを調整すべきだ と訴えました。",
+  "question": "Dario Amodei氏は、AIがどのようなことに大きく貢献できると強調していますか？",
+  "answer": "病気の治療や経済成長に大きく貢献できると強調しています。",
+  "evidence": "冒頭でアモデイ氏は、AIが病気の治療や経済成長に大きく貢献できると強調しています。",
+  "usage": {
+   "promptTokenCount": 293,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 1254,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 293
+    }
+   ],
+   "thoughtsTokenCount": 890,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q002",
+  "doc": "post_1993",
+  "title": "数ヶ月以内に世界中のテレビがAIに乗っ取られる!? AIの暴走をAnthropicが警告!! 「自ら広がるAI」の正体と、今すぐできる3つの対策",
+  "passage": "メモを引き継ぐたびに成功率が上がっています。グラフの内容（日本語で説明） 横軸：世代（1〜6）／縦軸：AIを動かす準備に成功した割合 赤い太線： 1世代目は45% → 2世代目以降は61〜84% に上昇 薄い線：20通りの「家系」それぞれの進み具合 部活の先輩が後輩にノートを残すように、前の世代の経験が次の世代に受け継がれていく。研究チームはこれを、親が得た性質が子に伝わる「ラマルク的な進化」にたとえています。",
+  "question": "前の世代の経験が次の世代に受け継がれていく仕組みについて、研究チームは何にたとえていますか？",
+  "answer": "親が得た性質が子に伝わる「ラマルク的な進化」",
+  "evidence": "研究チームはこれを、親が得た性質が子に伝わる「ラマルク的な進化」にたとえています。",
+  "usage": {
+   "promptTokenCount": 339,
+   "candidatesTokenCount": 80,
+   "totalTokenCount": 1101,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 339
+    }
+   ],
+   "thoughtsTokenCount": 682,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q003",
+  "doc": "post_1977",
+  "title": "AIに「心」が現れた!? Claudeの中に見つかった“Jスペース”の衝撃！ 「AIの頭の中」を読む",
+  "passage": "いちばん驚くポイント 禁じられた言葉が浮かんでしまったとき、Jスペースには同時に 「damn（ちくしょう）」「failure（失敗）」 という言葉もよく現れました。まるで、Claude自身が「しまった、考えてしまった」と気づいているかのようです。頭の中の操作にも、人間らしい得意・不得意があるということです。後半の実演では、この「白いクマ」を公開デモで実際に試した画面もお見せします。05 安全に役立つ使い道：「脅迫」「ごまかし」の兆しを見つける Jスペースの発見がいちばん役立つのは、 AIの安全性のチェック です。",
+  "question": "Jスペースの発見は、どのようなことに最も役立ちますか？",
+  "answer": "AIの安全性のチェックに最も役立ちます。",
+  "evidence": "Jスペースの発見がいちばん役立つのは、 AIの安全性のチェック です。",
+  "usage": {
+   "promptTokenCount": 338,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 1071,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 338
+    }
+   ],
+   "thoughtsTokenCount": 676,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q004",
+  "doc": "post_1963",
+  "title": "AIに“ひどいこと”を言うと会話即終了!! 世界が騒然としたClaudeの新ルール解説 AIが本気を出す“魔法の話しかけ方”秘密のプロンプト教えます！",
+  "passage": "公式発表をもとに、一目で分かるように並べました。✅ これまでどおり大丈夫 ⛔ 新ルールの対象 イライラした一言 「また間違えてる！」「早くして」などの不満 目的のない罵倒の繰り返し 答えを求めず、傷つける言葉だけを延々とぶつけ続ける 反論・やり直しの要求 「その答えは違う、もう一度考えて」 残酷さそのものが目的の会話 苦しめる様子を楽しむために、執拗に続ける 暗い題材の創作 ホラー、ミステリー、悪役のセリフづくり 止めても続く執拗な言動 話題を変えようとしても、同じ行為を繰り返す 性能のテストや研究 AIの限界を確かめる質問や実験 創作やテストを装っただけの虐待 目的が見当たらない残酷なやりとり 安心ポイント ふだんの使い方なら、これまでどおり安心して使えます。公式発表でも、 不満、反発、ダークな創作、テストや研究には適用されない とはっきり書かれています。",
+  "question": "AI利用に関する新ルールの公式発表において、適用の対象外とされているのはどのような行為ですか？",
+  "answer": "不満、反発、ダークな創作、テストや研究です。",
+  "evidence": "不満、反発、ダークな創作、テストや研究には適用されない",
+  "usage": {
+   "promptTokenCount": 425,
+   "candidatesTokenCount": 75,
+   "totalTokenCount": 1383,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 425
+    }
+   ],
+   "thoughtsTokenCount": 883,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q005",
+  "doc": "post_1952",
+  "title": "Metaがついに本気を出した!? 最強AI「Muse Wonder」誕生！ “Metaが放つ新AI”の正体を徹底解説",
+  "passage": "InstagramやWhatsAppでおなじみのMetaが、 「これまでで最も高性能」 と胸を張る新しいAIを発表しました。その名は 「Muse Wonder（ミューズ・ワンダー）」 。保険の請求、賃貸の契約書、家計の整理といった、暮らしの面倒な手続きまで“任せられる”ことを目指したAIです。この記事では、Muse Wonderで何ができるのか、性能の数字をどう読めばよいのか、日本でいつ使えそうなのかを、Metaの公式発表と信頼できる報道をもとに分かりやすく解説します。",
+  "question": "Metaが発表したAI「Muse Wonder」は、どのようなことを目指して作られたAIですか？",
+  "answer": "保険の請求や賃貸の契約書、家計の整理といった暮らしの面倒な手続きまで任せられることを目指しています。",
+  "evidence": "保険の請求、賃貸の契約書、家計の整理といった、暮らしの面倒な手続きまで“任せられる”ことを目指したAIです。",
+  "usage": {
+   "promptTokenCount": 321,
+   "candidatesTokenCount": 98,
+   "totalTokenCount": 1062,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 321
+    }
+   ],
+   "thoughtsTokenCount": 643,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q006",
+  "doc": "post_1939",
+  "title": "ChatGPTは大丈夫？Character.AI破綻の衝撃と、OpenAIが進める「AIとの“付き合い方”の新常識」",
+  "passage": "Character.AIはキャラクターとの会話そのものが主役で、ChatGPTは調べものや文章作成などの実用が主役です。そのうえでOpenAIは、感情的なやりとりにも備える安全策を、次の3つの柱で進めています。ChatGPTの安全設計 3つの柱 🩺 専門家と作る回答 2025年10月 170名以上の臨床医と協力し、苦しさの兆候を見つけて現実の支えへつなぐよう回答を改善。",
+  "question": "OpenAIはChatGPTの安全策として、170名以上の臨床医と協力してどのような回答の改善を行いましたか？",
+  "answer": "苦しさの兆候を見つけて現実の支えへつなぐような改善を行いました。",
+  "evidence": "170名以上の臨床医と協力し、苦しさの兆候を見つけて現実の支えへつなぐよう回答を改善。",
+  "usage": {
+   "promptTokenCount": 315,
+   "candidatesTokenCount": 92,
+   "totalTokenCount": 1137,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 315
+    }
+   ],
+   "thoughtsTokenCount": 730,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q007",
+  "doc": "post_1903",
+  "title": "ついに来た“日本生まれ”のAI!! 無料の国産AI「Sarashina」vs 「Claude」vs「ChatGPT」暮らしの3番勝負でわかった意外な結末",
+  "passage": "最新情報の検索がなかった分、1点差です。ChatGPT 5点 条件の確認、公式情報の出典、予算、聞き返しまで完璧でした。第3戦 小学4年生の自由研究、1日でできるテーマ お願い： 小学4年生の自由研究で、家にあるもので 1日でできる テーマを3つ、理由つきで提案してください。",
+  "question": "ChatGPTが5点と評価された際、どのような点が完璧だったとされていますか？",
+  "answer": "条件の確認、公式情報の出典、予算、聞き返しまでが完璧だったとされています。",
+  "evidence": "ChatGPT 5点 条件の確認、公式情報の出典、予算、聞き返しまで完璧でした。",
+  "usage": {
+   "promptTokenCount": 278,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1062,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 278
+    }
+   ],
+   "thoughtsTokenCount": 714,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q008",
+  "doc": "post_1890",
+  "title": "Codex完全攻略ガイド【2026年10月版】GPT-6.1 Sol対応 ChatGPTで頼むだけでアプリが完成！料金・始め方・実践テクまで徹底解説",
+  "passage": "4分16秒 家計簿アプリの完成までにかかった時間 5分24秒 予算・警告機能を追加した時間 148行 2回目の依頼で追加されたコード $20〜 Codexを本格的に使えるPlusの月額 01 なぜ今Codexなのか：2026年10月の3つの変化 Codexは2025年に登場して以来、毎月のように機能が増えてきました。2026年9月から10月にかけての変化は、特に大きなものです。6.1 GPT-6.1 Solに対応 9月29日から。",
+  "question": "Codexが登場したのは何年ですか？",
+  "answer": "2025年です。",
+  "evidence": "Codexは2025年に登場して以来、毎月のように機能が増えてきました。",
+  "usage": {
+   "promptTokenCount": 333,
+   "candidatesTokenCount": 49,
+   "totalTokenCount": 1132,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 333
+    }
+   ],
+   "thoughtsTokenCount": 750,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q009",
+  "doc": "post_1870",
+  "title": "海外で話題の２つのゲームを混ぜる【ゲーム融合MOD】「AIマッシュアップ」とは？Claude Codeでどこまで作れる？合法・違法の線引きまで徹底解説",
+  "passage": "盛り上がりと反発が同時に広がっている点も、このトレンドの特徴です。03 仕組み：MeltyとClaude Codeの役割 動画で「Melty’s instructions」として映っていたのが、米国のスタートアップStella Montisが2026年10月に公開した Melty（メルティ） です。公式サイトでは、Y Combinatorの支援を受けていることを明記しています。Windows用の無料アプリで、融合MODを探す・遊ぶ・作るの3つをまとめて扱えます。",
+  "question": "Melty（メルティ）とはどのようなアプリですか？",
+  "answer": "融合MODを探す・遊ぶ・作るの3つをまとめて扱えるWindows用の無料アプリです。",
+  "evidence": "Windows用の無料アプリで、融合MODを探す・遊ぶ・作るの3つをまとめて扱えます。",
+  "usage": {
+   "promptTokenCount": 310,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1085,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 310
+    }
+   ],
+   "thoughtsTokenCount": 705,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q010",
+  "doc": "post_1864",
+  "title": "Gemini 4 Argonのエージェント機能を徹底解説｜タスク・40超のアプリ連携・Antigravity・APIで何ができる？",
+  "passage": "Google「Gemini 4 Argon comes to the Gemini app.」（2026年10月13日）より引用。公表ページを見る 2. Argonは4つの場所で動く 今回の発表で一番迷いやすいのは、「Argonが使える」と言っても、場所によって できること と 必要な契約 が違う点です。同じモデルの話なのに、アプリの会員、開発者、企業の担当者では、見ている画面がまったく違います。Googleの公式発表・リリースノート・API資料（2026年10月13〜14日）をもとに整理 場所 主な使い手 必要な契約 エージェントとしてできること Geminiアプリ 一般の利用者 Google AI Pro・Ultra 「タスク」に切り替えて、PCを離れていても作業を続けさせる。",
+  "question": "Geminiアプリにおいて、Argonはエージェントとしてどのようなことができますか？",
+  "answer": "「タスク」に切り替えることで、PCから離れていても作業を継続させることができます。",
+  "evidence": "「タスク」に切り替えて、PCを離れていても作業を続けさせる。",
+  "usage": {
+   "promptTokenCount": 375,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1471,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 375
+    }
+   ],
+   "thoughtsTokenCount": 1026,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q011",
+  "doc": "post_1859",
+  "title": "スマホの次は「かける端末」へ…もう画面は持ち歩かない【Meta VR Glasses】が描く次世代の暮らし",
+  "passage": "ここで重要なのは、仕事の中身を新しい端末へ移し替えなくてよい点。会社の文書も、使い慣れた表計算ソフトも、引き続きPCで開きます。文章を直す手はキーボードに置いたまま、参照資料を別の位置に表示できれば、何度も窓を重ねる手間が減ります。Meta AIに作業画面の配置を頼む構想も紹介されています。声、視線、手という操作を組み合わせることで、画面を増やしても管理が煩雑にならないようにする狙いです。",
+  "question": "作業画面の配置において、声や視線、手といった操作を組み合わせることにはどのような狙いがありますか？",
+  "answer": "画面を増やしても管理が煩雑にならないようにする狙いがあります。",
+  "evidence": "声、視線、手という操作を組み合わせることで、画面を増やしても管理が煩雑にならないようにする狙いです。",
+  "usage": {
+   "promptTokenCount": 315,
+   "candidatesTokenCount": 80,
+   "totalTokenCount": 1130,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 315
+    }
+   ],
+   "thoughtsTokenCount": 735,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q012",
+  "doc": "post_1848",
+  "title": "離れた家族が目の前に？Meta VR Glassesがもたらす「現実」が交錯する…ホログラム通話の世界",
+  "passage": "スマートフォンでセルフ撮影し、通話に使うデジタルの姿を準備します。2 通話を始める。Meta VR Glassesを着け、対応する通話アプリから相手につながります。3 相手を見る。グラスの映像に相手が空間的に現れ、声もその方向から聞こえます。",
+  "question": "Meta VR Glassesを使った通話では、相手の姿や声はどのように見えたり聞こえたりしますか？",
+  "answer": "グラスの映像に相手が空間的に現れ、その方向から声が聞こえます。",
+  "evidence": "グラスの映像に相手が空間的に現れ、声もその方向から聞こえます。",
+  "usage": {
+   "promptTokenCount": 268,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 793,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 268
+    }
+   ],
+   "thoughtsTokenCount": 449,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q013",
+  "doc": "post_1840",
+  "title": "【2027年春発売予定】Meta VR Glasses、約100gの「メガネ型」は世界を変える!? 没入体験の新未来",
+  "passage": "そのどちらにも手を伸ばせるなら、VRは特別な休日の道具から、普段の画面へ近づきます。2．約100gはどう生まれた？本体とパックを分ける 軽量化の仕組みは、役割を分けたことです。",
+  "question": "約100gへの軽量化はどのような仕組みで実現されましたか？",
+  "answer": "本体とパックを分け、役割を分担させることによって実現されました。",
+  "evidence": "本体とパックを分ける 軽量化の仕組みは、役割を分けたことです。",
+  "usage": {
+   "promptTokenCount": 254,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 822,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 254
+    }
+   ],
+   "thoughtsTokenCount": 504,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q014",
+  "doc": "post_1830",
+  "title": "Claude新機能 Dashboards・Motion徹底解説｜グラフが“生きて”、説明が“動く”",
+  "passage": "公式の例は「四半期レポートを全社会議向けの30秒の説明動画に」。伝えたい内容をClaudeへ渡すと、短いアニメーションの初稿を作ります。起動はチャットの出力メニューで 「Motion」 を選ぶ方法と、ArtifactsのMotionテンプレートから始める方法があります。公式発表にある「/motion」の画面もその入口の一例です。公式の起動画面。",
+  "question": "ClaudeでMotionを起動するにはどのような方法がありますか？",
+  "answer": "チャットの出力メニューで「Motion」を選ぶ方法や、ArtifactsのMotionテンプレートから始める方法などがあります。",
+  "evidence": "起動はチャットの出力メニューで 「Motion」 を選ぶ方法と、ArtifactsのMotionテンプレートから始める方法があります。",
+  "usage": {
+   "promptTokenCount": 290,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 1094,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 290
+    }
+   ],
+   "thoughtsTokenCount": 728,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q015",
+  "doc": "post_1822",
+  "title": "ChatGPT無料版、もうここまでできる!? GPT-6時代の0円完全ガイド【2026年10月版】",
+  "passage": "ニュース、店の営業時間、交通など変わる情報を聞く時に便利です。候補が多ければ「駅から近い順に」と続けるだけで絞れます。画像・資料 写真を見せて内容を説明してもらう、PDFの要点を抜き出す、表の傾向を聞く。画像作成も利用できます。添付や生成にはそれぞれ上限があります。",
+  "question": "画像や資料を扱う機能では、具体的にどのようなことができますか？",
+  "answer": "写真の内容を説明してもらう、PDFの要点を抜き出す、表の傾向を聞くといった活用や、画像作成が利用できます。",
+  "evidence": "写真を見せて内容を説明してもらう、PDFの要点を抜き出す、表の傾向を聞く。画像作成も利用できます。",
+  "usage": {
+   "promptTokenCount": 274,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1023,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 274
+    }
+   ],
+   "thoughtsTokenCount": 664,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q016",
+  "doc": "post_1814",
+  "title": "Windows 11が“AIの仕事場”になる!? Microsoftが発表したPC新時代の全貌",
+  "passage": "1. Windowsに何が起きる？これまでのPCでは、人がアプリを開き、ファイルを探し、操作をつなげてきました。Microsoftはそこに、 AIが状況を読み取って作業できる場所 としての役割を加えようとしています。",
+  "question": "MicrosoftはこれからのPCにどのような新しい役割を加えようとしていますか？",
+  "answer": "AIが状況を読み取って作業できる場所としての役割を加えようとしています。",
+  "evidence": "Microsoftはそこに、 AIが状況を読み取って作業できる場所 としての役割を加えようとしています。",
+  "usage": {
+   "promptTokenCount": 255,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 790,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 255
+    }
+   ],
+   "thoughtsTokenCount": 464,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q017",
+  "doc": "post_1808",
+  "title": "Seedance 2.5完全ガイド【2026年10月版】｜最大30秒・参考素材50点・部分編集。2.0との違い、料金、使える場所、商用利用の注意点",
+  "passage": "短い動画を何本もつなぐと、つなぎ目で人物の顔や服が変わってしまう「ぶれ」が起きがちでした。1本で長く作れることで、この手間が減ります。② 参考素材は最大50点 渡せる参考素材は、 画像30点・動画10点・音声10点の合計50点 です。2.0（画像9・動画3・音声3の合計12点）の4倍以上になりました。登場人物の見た目、商品の写真、背景、声の雰囲気などをまとめて渡せるので、広告やシリーズものの動画で見た目をそろえやすくなります。",
+  "question": "渡せる参考素材の内訳はどのようになっていますか？",
+  "answer": "画像30点、動画10点、音声10点の合計50点です。",
+  "evidence": "渡せる参考素材は、 画像30点・動画10点・音声10点の合計50点 です。",
+  "usage": {
+   "promptTokenCount": 341,
+   "candidatesTokenCount": 80,
+   "totalTokenCount": 1680,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 341
+    }
+   ],
+   "thoughtsTokenCount": 1259,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q018",
+  "doc": "post_1805",
+  "title": "AIチャットの「考え中」から秘密が漏れる？最新研究で分かった“思考の漏えい”と、導入企業が確認すべき7つのこと",
+  "passage": "さらに、 考える量を増やすほど漏れも増える ことが分かっています。著者らは「安全対策は、出力だけでなくAIの内側の考えにまで広げなければならない」と結論づけています。2026年3月 Safer Reasoning Traces：考えの過程からの漏えいを測り、減らす ミュンヘン工科大学のチームが、11種類の個人情報について、考えの過程からどれだけ漏れるかを測りました。",
+  "question": "ミュンヘン工科大学のチームは、何種類の個人情報について考えの過程からの漏えいを測定しましたか？",
+  "answer": "11種類",
+  "evidence": "ミュンヘン工科大学のチームが、11種類の個人情報について、考えの過程からどれだけ漏れるかを測りました。",
+  "usage": {
+   "promptTokenCount": 303,
+   "candidatesTokenCount": 75,
+   "totalTokenCount": 1308,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 303
+    }
+   ],
+   "thoughtsTokenCount": 930,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q019",
+  "doc": "post_1798",
+  "title": "相次ぐ不正アクセスは「AIエージェント」の仕業か？見えてきた証拠と反対の見方、“預け先”から広がる連鎖被害",
+  "passage": "コミューン社によると、攻撃者は非公開コミュニティの招待リンクを不正に手に入れて一般会員として登録したほか、 管理者になりすまして会員情報の閲覧・取得やデータの上書き を行いました。漏えいの可能性： 約30.7万人 （推計）。メールアドレスを含む情報が約12.6万人、含まない情報が約18.1万人 本人の操作なしにパスワードを仮のものへ変えられた会員：144名 10月6日に全コミュニティを止めたが、 10月7日にも残っていた経路を突かれ、2回目の漏えい が起きた 再発防止策として「ログイン用の署名鍵の更新」をあげている 利用企業のちとせグループは、コミューン社の調査として、攻撃者が 「全コミュニティ共通のログイン用の署名鍵」 を手に入れていたと告知しています。署名鍵は「この人は本物の管理者です」と証明するための合鍵のようなものです。",
+  "question": "コミューン社における情報漏えい問題で、再発防止策として何が挙げられていますか？",
+  "answer": "ログイン用の署名鍵の更新です。",
+  "evidence": "再発防止策として「ログイン用の署名鍵の更新」をあげている",
+  "usage": {
+   "promptTokenCount": 415,
+   "candidatesTokenCount": 63,
+   "totalTokenCount": 1315,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 415
+    }
+   ],
+   "thoughtsTokenCount": 837,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q020",
+  "doc": "post_1790",
+  "title": "個人情報保護委員会の「新しい漏えい対策」を中小企業向けに解説｜2027年の基準を先取り、今やるべきこと",
+  "passage": "別紙では、次の5つに分けて書かれています。個人情報保護委員会「大規模な漏えい等事案を踏まえた対応について（注意喚起）」別紙より引用。右の列が中小規模事業者向けの例です。",
+  "question": "個人情報保護委員会「大規模な漏えい等事案を踏まえた対応について（注意喚起）」の別紙において、中小規模事業者向けの例はどの列に記載されていますか？",
+  "answer": "右の列です。",
+  "evidence": "個人情報保護委員会「大規模な漏えい等事案を踏まえた対応について（注意喚起）」別紙より引用。右の列が中小規模事業者向けの例です。",
+  "usage": {
+   "promptTokenCount": 255,
+   "candidatesTokenCount": 99,
+   "totalTokenCount": 1168,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 255
+    }
+   ],
+   "thoughtsTokenCount": 814,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q021",
+  "doc": "post_1773",
+  "title": "大手企業が次々と不正アクセス被害！焼肉きんぐ・タイムズカー・大和証券…狙われた“アプリの裏口”と世界標準の守り方【2026年10月】",
+  "passage": "公表ページを見る 同じ日に改訂された「WARNING～不正アクセスによる個人データ漏えい防止のための注意喚起～」には、 「事例9 APIが悪用される事例」 が載っています。ログイン後に番号などを書き換えると他の利用者の情報が取れてしまう、という、この記事の3章で説明した手口そのものです。対策例として、APIの定期的な棚卸し、毎回の権限の確認、会員番号を推測しにくい値にすること、回数の制限が挙げられています。10月9日には経済産業省も、事業者に向けて 注意喚起と情報提供への協力を依頼 しています。",
+  "question": "「WARNING～不正アクセスによる個人データ漏えい防止のための注意喚起～」において、APIが悪用される事例への対策例としてどのようなものが挙げられていますか？",
+  "answer": "APIの定期的な棚卸し、毎回の権限の確認、会員番号を推測しにくい値にすること、回数の制限が挙げられています。",
+  "evidence": "対策例として、APIの定期的な棚卸し、毎回の権限の確認、会員番号を推測しにくい値にすること、回数の制限が挙げられています。",
+  "usage": {
+   "promptTokenCount": 338,
+   "candidatesTokenCount": 119,
+   "totalTokenCount": 1338,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 338
+    }
+   ],
+   "thoughtsTokenCount": 881,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q022",
+  "doc": "post_1763",
+  "title": "写真１枚から「30秒の映画」が完成！最新Kling 4.0完全ガイド【2026年10月版】",
+  "passage": "2026年10月9日時点で本体はクローズドベータ、一般向けの提供拡大は10月予定。先行提供の Kling 4.0 Flashは最大20秒・720p で、Ultra年間プランの対象者から利用できます。Kling AI公式発表 1. Kling 4.0で何が変わる？",
+  "question": "先行提供されているKling 4.0 Flashは誰から利用できますか？",
+  "answer": "Ultra年間プランの対象者から利用できます。",
+  "evidence": "先行提供の Kling 4.0 Flashは最大20秒・720p で、Ultra年間プランの対象者から利用できます。",
+  "usage": {
+   "promptTokenCount": 281,
+   "candidatesTokenCount": 72,
+   "totalTokenCount": 1188,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 281
+    }
+   ],
+   "thoughtsTokenCount": 835,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q023",
+  "doc": "post_1756",
+  "title": "日本人がノーベル化学賞！Claudeで触れる、「鏡の中の分子」の大発見",
+  "passage": "「形を選んで作る」ことが、今回の化学賞を理解する第一歩です。3．発見の核心は「小さな差が、大きな差になる」 カガンさんが示した 非線形効果 は、材料にある左右の小さな偏りよりも、でき上がった分子の偏りが大きくなり得るという発見です。硤合さんが示した 自己触媒 は、できた分子が、次に同じ側の分子を作る反応を助ける仕組みです。",
+  "question": "硤合さんが示した自己触媒とはどのような仕組みですか？",
+  "answer": "できた分子が、次に同じ側の分子を作る反応を助ける仕組みです。",
+  "evidence": "硤合さんが示した 自己触媒 は、できた分子が、次に同じ側の分子を作る反応を助ける仕組みです。",
+  "usage": {
+   "promptTokenCount": 296,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 860,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 296
+    }
+   ],
+   "thoughtsTokenCount": 493,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q024",
+  "doc": "post_1745",
+  "title": "衝撃!! ChatGPTが“使える画面”を作り始めた！質問ひとつで動く新機能を大解説",
+  "passage": "提供条件の出典：ChatGPT更新情報 3. 開発者が注目したい「画面を生成する仕組み」 技術面で目を引くのは、 回答の内容だけでなく、画面の構成もモデルが選ぶ 点です。OpenAIによると、GPT-6はネイティブの部品群から画面を組み立て、コンパイラが生成途中の出力を処理します。そのため完成を待たずに画面が段階的に現れます。テキストが適切な質問には、テキストを選ぶ設計です。",
+  "question": "GPT-6において、画面が完成を待たずに段階的に現れるのはなぜですか？",
+  "answer": "ネイティブの部品群から画面を組み立て、コンパイラが生成途中の出力を処理するためです。",
+  "evidence": "GPT-6はネイティブの部品群から画面を組み立て、コンパイラが生成途中の出力を処理します。",
+  "usage": {
+   "promptTokenCount": 304,
+   "candidatesTokenCount": 83,
+   "totalTokenCount": 1116,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 304
+    }
+   ],
+   "thoughtsTokenCount": 729,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q025",
+  "doc": "post_1663",
+  "title": "【完全解説】Geminiが「自分専用」に変わる新機能「Skills」とは？もう同じお願いを繰り返さない！",
+  "passage": "Googleの日本語ヘルプが示すSkillsの基本機能。公式ヘルプを見る 2．誰が、どこで使える？使う場所 2026年10月時点の案内 個人のGeminiアプリ 18歳以上の個人Googleアカウント、 アクティビティの保存 が必要。ウェブ、モバイル、Macアプリに対応。Googleは10月13日からの段階展開を案内しています。",
+  "question": "個人のGeminiアプリでSkillsを利用するには、どのような条件や設定が必要ですか？",
+  "answer": "18歳以上の個人Googleアカウントと、アクティビティの保存が必要です。",
+  "evidence": "18歳以上の個人Googleアカウント、 アクティビティの保存 が必要。",
+  "usage": {
+   "promptTokenCount": 289,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 930,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 289
+    }
+   ],
+   "thoughtsTokenCount": 576,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q026",
+  "doc": "post_1650",
+  "title": "Claudeの「速い頭脳」がついに来た！新モデル【Haiku 5.5】とは？徹底解説",
+  "passage": "長い資料を繰り返し渡す使い方では、この境目が費用を左右します。公式のモデル仕様・料金 。2. どのClaudeを選ぶ？名前が増えても、選ぶ基準はシンプルです。",
+  "question": "Claudeのモデルの種類が増えていますが、選ぶ基準はどのようになっていますか？",
+  "answer": "選ぶ基準はシンプルです。",
+  "evidence": "名前が増えても、選ぶ基準はシンプルです。",
+  "usage": {
+   "promptTokenCount": 246,
+   "candidatesTokenCount": 50,
+   "totalTokenCount": 798,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 246
+    }
+   ],
+   "thoughtsTokenCount": 502,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q027",
+  "doc": "post_1642",
+  "title": "トリプル台風の衝撃！年々増加する気象被害――AI天気予測の最前線とChatGPTで備える台風24時",
+  "passage": "豪雨や猛暑――年々増加する気象被害に対し、進化する AI天気予測の最前線 を追います。そして身近な ChatGPT を活用し、備蓄から通勤まで、台風が迫る24時間の対策を考えます。気象庁は 極端な大雨の発生頻度の増加 を示し、IPCCは 気候に関連する損失・被害の拡大 を報告しています。先に、二つの要点 予測技術： 欧州と米国ではAI気象モデルが運用に入り、進路に加えて風や波も扱っています。",
+  "question": "欧州や米国で運用が始まっているAI気象モデルは、進路のほかに何を扱っていますか？",
+  "answer": "風や波も扱っています。",
+  "evidence": "欧州と米国ではAI気象モデルが運用に入り、進路に加えて風や波も扱っています。",
+  "usage": {
+   "promptTokenCount": 328,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 1043,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 328
+    }
+   ],
+   "thoughtsTokenCount": 644,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q028",
+  "doc": "post_1640",
+  "title": "AIとAmazonを並べてイヤホン選び｜ChatGPT・Claude・Geminiの答えをiPhone Duoで答え合わせ",
+  "passage": "価格がAmazonの表示とそろっていたのは9件中6件でした。EarFun Air Pro 4は3つのAIすべてが選び、P42iは2つが選んでいます。逆に言えば、AIに聞くだけでも候補選びの出発点としては十分役に立ちました。問題は、数字の細部です。価格のずれ：AIが言うのはセール前の値段かもしれない ChatGPTは「約9,990円」。",
+  "question": "EarFun Air Pro 4はいくつのAIに選ばれましたか？",
+  "answer": "3つのAIすべてに選ばれました。",
+  "evidence": "EarFun Air Pro 4は3つのAIすべてが選び、P42iは2つが選んでいます。",
+  "usage": {
+   "promptTokenCount": 297,
+   "candidatesTokenCount": 66,
+   "totalTokenCount": 1178,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 297
+    }
+   ],
+   "thoughtsTokenCount": 815,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q029",
+  "doc": "post_1634",
+  "title": "ChatGPT・Claude・GeminiはiPhone Duoの二画面で使える？Web版をシミュレータで試した",
+  "passage": "ChatGPTとClaudeは、閉じても答えの生成が止まらず、外側の画面でそのまま続きを読めました。Claudeは「応答したときに通知を受け取りますか」と尋ねてきたので、閉じて待つ使い方とも相性がよさそうです。Geminiも答えの生成は続いていましたが、画面が狭くなった瞬間に「Geminiアプリをもっと活用しよう」という案内が下半分を覆いました。「ブラウザで続ける」を押せば消えますが、閉じるたびに出ると手間です。",
+  "question": "Geminiの画面を狭くしたときに、画面の下半分を覆うように表示される案内は何ですか？",
+  "answer": "「Geminiアプリをもっと活用しよう」という案内です。",
+  "evidence": "画面が狭くなった瞬間に「Geminiアプリをもっと活用しよう」という案内が下半分を覆いました。",
+  "usage": {
+   "promptTokenCount": 315,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1247,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 315
+    }
+   ],
+   "thoughtsTokenCount": 858,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q030",
+  "doc": "post_1627",
+  "title": "iPhone Duo向けAIアプリをシミュレータで作って分かった5つのこと｜折り目・開閉・端末内AI",
+  "passage": "Apple Developerサイトから無料で入手 シミュレータ iPhone Duo、iOS 27.1（24A94232）。iOS 27.0ではDuoを作れなかった Mac MacBook Pro（M1 Max、メモリ32GB）、macOS 27.0、Apple Intelligenceはオン アプリ SwiftUI製。架空の提案書を左に出し、端末内AI（Foundation Models）に「見落としやすい条件を3つ、根拠の引用付きで」と頼んで右に出す Xcode 27では、シミュレータが「Device Hub」というアプリに変わりました。画面下のボタンで、閉じる・半分折る・全開を切り替えられます。",
+  "question": "Xcode 27では、シミュレータは何という名称のアプリに変更されましたか？",
+  "answer": "Device Hub",
+  "evidence": "Xcode 27では、シミュレータが「Device Hub」というアプリに変わりました。",
+  "usage": {
+   "promptTokenCount": 355,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 984,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 355
+    }
+   ],
+   "thoughtsTokenCount": 572,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q031",
+  "doc": "post_1608",
+  "title": "Claude無料版 0円でここまでできる!? 最新【2026年10月完全ガイド】",
+  "passage": "画像やPDFには形式・ページ数などの条件があります。作成・編集するファイル 最大30MB／ファイル 文書・表・スライドの作成は通常のチャットより共通枠を多く使います。音声・Web検索・Artifacts 会話と共通の利用枠 機能ごとの「1日○回」は公式に公表されていません。",
+  "question": "作成・編集できるファイルの容量制限はどのくらいですか？",
+  "answer": "1ファイルあたり最大30MBまでです。",
+  "evidence": "作成・編集するファイル 最大30MB／ファイル",
+  "usage": {
+   "promptTokenCount": 278,
+   "candidatesTokenCount": 47,
+   "totalTokenCount": 921,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 278
+    }
+   ],
+   "thoughtsTokenCount": 596,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q032",
+  "doc": "post_1601",
+  "title": "衝撃のMeta VR Glasses発表 「現実」という常識が消える日。Meta VR Glassesが見せる現実の向こう側の世界",
+  "passage": "友人の前では長い指示を口にしたくない。だから、視線と手だけでも快適に進められるかが大切です。操作を一種類に頼らない設計は、多くの場所で使う道具に欠かせません。発売後には静かな場所、雑音のある場所、周囲に人がいる場所で、使いやすさを比べてみたいと思います。",
+  "question": "多くの場所で使う道具にはどのような設計が欠かせませんか？",
+  "answer": "操作を一種類に頼らない設計です。",
+  "evidence": "操作を一種類に頼らない設計は、多くの場所で使う道具に欠かせません。",
+  "usage": {
+   "promptTokenCount": 274,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 690,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 274
+    }
+   ],
+   "thoughtsTokenCount": 361,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q033",
+  "doc": "post_1591",
+  "title": "ChatGPTが「買う前の自分」を見せてくれる!? 話題の新機能で、服選びはどこまで変わる？",
+  "passage": "黒とネイビーのどちらを選ぶか、いま持っているパンツに合うか。写真のモデルを何度見ても、自分の朝の姿までは見えてきません。OpenAIの 2026年10月1日のリリースノート は、ChatGPT内の商品一覧から衣服・アクセサリーを仮想的に試せるようになったと説明しています。商品カードの「Try on／試着」ボタンを押し、写真を撮るかアップロードすると、ChatGPT Imagesが着用イメージを作ります。同じ日に、商品をお気に入りやフォルダへ保存する機能も発表されました。",
+  "question": "ChatGPTで衣服やアクセサリーの着用イメージを作成するにはどうすればよいですか？",
+  "answer": "商品カードの「Try on／試着」ボタンを押し、写真を撮るかアップロードします。",
+  "evidence": "商品カードの「Try on／試着」ボタンを押し、写真を撮るかアップロードすると、ChatGPT Imagesが着用イメージを作ります。",
+  "usage": {
+   "promptTokenCount": 320,
+   "candidatesTokenCount": 81,
+   "totalTokenCount": 1380,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 320
+    }
+   ],
+   "thoughtsTokenCount": 979,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q034",
+  "doc": "post_1583",
+  "title": "Claudeを自分専用に改造できる!? 新機能「Mods」で、AIの使い方はどこまで変わる",
+  "passage": "日本語で利用する場合、Modの仕組みを調べる入口として公式ドキュメントの日本語版が使えます。一方、プログラムのファイル名や /plugin などのコマンドは英語表記のままです。翻訳された説明文を読んでから、入力するコマンドだけは文字を一つずつ確認してください。画面の言語設定が違っても、英語のサンプル名を日本語に翻訳して入力するわけではありません。",
+  "question": "Modの仕組みを日本語で調べるには、何を入口として使えますか？",
+  "answer": "公式ドキュメントの日本語版が利用できます。",
+  "evidence": "Modの仕組みを調べる入口として公式ドキュメントの日本語版が使えます。",
+  "usage": {
+   "promptTokenCount": 287,
+   "candidatesTokenCount": 60,
+   "totalTokenCount": 907,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 287
+    }
+   ],
+   "thoughtsTokenCount": 560,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q035",
+  "doc": "post_1576",
+  "title": "マイクラに14年ぶりの新次元が来た！衝撃!! AIに「自分だけの拠点」を設計させたら、どこまで建てられる？",
+  "passage": "家を建てる実例に使うのは、現在のJava版または統合版の通常のMinecraft。AIはゲーム外のチャットで設計を考える役です。公式がAI建築ボタンを追加したわけではありません。やりたいこと 2026年10月5日時点 この記事での扱い 『Minecraft Dungeons II』でSiftを体験する 9月29日発売の作品で可能 ニュースの背景として紹介 通常版のワールドで拠点を建てる 現在のJava版・統合版で可能 この記事の実践例 通常版のSiftで建築する 新次元の追加は2027年予定 現時点の実践手順には含めない 公式のAIに自動建築させる 今回の発表にその機能はない ゲーム外AIによる設計補助を紹介 この整理は、少し夢を冷ますかもしれません。でも、できることを正確に分けると遊び方がむしろ広がります。",
+  "question": "Minecraftで家を建てる実例において、AIはどのような役割を担当していますか？",
+  "answer": "ゲーム外のチャットを使って設計を考える役割を担当しています。",
+  "evidence": "AIはゲーム外のチャットで設計を考える役です。公式がAI建築ボタンを追加したわけではありません。",
+  "usage": {
+   "promptTokenCount": 392,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 980,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 392
+    }
+   ],
+   "thoughtsTokenCount": 519,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q036",
+  "doc": "post_1566",
+  "title": "最新claudeアップデート完全版 日常でどう使える？旅行も仕事も！あなたの生活は激変する！ あなたはもう claudeなしには戻れない・・・",
+  "passage": "ここでは、同行者に見せるための任意の使い方として試します。Claude Slidesの公式説明では、メモや資料からスライドを作り、Claude内で編集・発表し、PowerPointまたはPDFへ書き出せるとされています。出典：Artifacts公式ヘルプ 。Claude公式ページのSlides紹介。",
+  "question": "Claude Slidesでは作成したスライドをどのようなファイル形式で書き出すことができますか？",
+  "answer": "PowerPointまたはPDF形式で書き出すことができます。",
+  "evidence": "メモや資料からスライドを作り、Claude内で編集・発表し、PowerPointまたはPDFへ書き出せるとされています。",
+  "usage": {
+   "promptTokenCount": 263,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1013,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 263
+    }
+   ],
+   "thoughtsTokenCount": 683,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q037",
+  "doc": "post_1557",
+  "title": "400万点から何を買う？プライム感謝祭2026をAIで賢く回る方法",
+  "passage": "公式メーカーサイトにも型番と付属品が載っていれば照らし合わせます。AIに商品URLを渡すだけでは不十分です。サービスによってはリンク先を読めず、古い検索結果を基に価格を話すことがあります。読めたとしても、ログイン状態や配送先によって表示条件が変わる可能性があります。",
+  "question": "AIに商品URLを渡すだけでは不十分とされるのはなぜですか？",
+  "answer": "リンク先を読めずに古い検索結果を基に価格を話す場合があるほか、読めたとしてもログイン状態や配送先によって表示条件が変わる可能性があるためです。",
+  "evidence": "サービスによってはリンク先を読めず、古い検索結果を基に価格を話すことがあります。読めたとしても、ログイン状態や配送先によって表示条件が変わる可能性があります。",
+  "usage": {
+   "promptTokenCount": 270,
+   "candidatesTokenCount": 104,
+   "totalTokenCount": 1089,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 270
+    }
+   ],
+   "thoughtsTokenCount": 715,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q038",
+  "doc": "post_1548",
+  "title": "Galaxy Tab S12 Ultraは何が違う？進化した最新タブレット×AIの可能性と使いこなし方",
+  "passage": "最初の一日はSamsung NotesとSペンだけ。次にノートアシストを試し、最後に必要な外部AIを一つ追加する。最初から五つのサービスを並べると、どの機能が役立ったのか分からなくなります。自分に必要な道具だけ残す方が、更新や料金の管理も簡単です。",
+  "question": "利用するツールを自分に必要なものだけに絞って残すことには、どのようなメリットがありますか？",
+  "answer": "更新や料金の管理が簡単になるというメリットがあります。",
+  "evidence": "自分に必要な道具だけ残す方が、更新や料金の管理も簡単です。",
+  "usage": {
+   "promptTokenCount": 267,
+   "candidatesTokenCount": 63,
+   "totalTokenCount": 1341,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 267
+    }
+   ],
+   "thoughtsTokenCount": 1011,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q039",
+  "doc": "post_1535",
+  "title": "iPhone DuoをAIでどう使い倒す？二画面の仕事術とアプリ開発、発売前に知るべきこと",
+  "passage": "4. 写真や現場の記録：見たことと判断を分ける 現場で撮った設備の写真、店頭の表示、イベントの案内。左に画像を開き、右ではAIに「写真に読める文字だけを列挙」「不鮮明で判断できない箇所を示す」と頼む。物体の状態や価格、在庫の有無まで勝手に断定させないのがコツです。Appleは ビジュアルインテリジェンス や画面上の内容に基づく操作を案内していますが、AIが見落とす文字や反射は実際にあります。",
+  "question": "現場で撮った写真などの記録をAIに確認させるとき、どのようなコツがありますか？",
+  "answer": "物体の状態や価格、在庫の有無までAIに勝手に断定させないことです。",
+  "evidence": "物体の状態や価格、在庫の有無まで勝手に断定させないのがコツです。",
+  "usage": {
+   "promptTokenCount": 319,
+   "candidatesTokenCount": 73,
+   "totalTokenCount": 851,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 319
+    }
+   ],
+   "thoughtsTokenCount": 459,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q040",
+  "doc": "post_1525",
+  "title": "Gemini 4 Argonはいつ使える？100万出力トークン・料金・性能表を公式資料から読み解く",
+  "passage": "たとえばDeepSWE v1.1のArgon値はGoogleが特定のエージェント環境で計測し、比較相手の値は公開リーダーボードや各社の資料から取ったと方法書にあります。OSWorld-2.0はオンライン・オフラインの全体ではなく、オフラインの一部について部分点を報告しています。こうした注記を読むと、表の数字は「どんな場面なら試す価値がありそうか」を探す手がかりにはなっても、自社での成功率の約束にはならないと分かります。外部の Vals AIによるモデルページ にもArgonの評価が掲載されています。",
+  "question": "DeepSWE v1.1のArgon値はどのように計測されていますか？",
+  "answer": "Googleが特定のエージェント環境で計測し、比較対象の値は公開リーダーボードや各社の資料から取得されています。",
+  "evidence": "Googleが特定のエージェント環境で計測し、比較相手の値は公開リーダーボードや各社の資料から取ったと方法書にあります。",
+  "usage": {
+   "promptTokenCount": 329,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 1239,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 329
+    }
+   ],
+   "thoughtsTokenCount": 823,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q041",
+  "doc": "post_1515",
+  "title": "Claude Sonnet 5.5は何が変わった？料金・使い方・Opusとの違いを仕事目線で解説",
+  "passage": "公式資料を見る Claudeの個人向けプラン：2026年10月1日の日本語表示 プラン 画面で確認した表示 使い方の目安 注意 Free 0米ドル 短い用事で試す 利用枠とモデル表示を確認 Pro 年払い換算18米ドル／月、月払い22米ドル 日常の文書とClaude Code 年払いは一括請求の条件を確認 Max 110米ドル／月から 利用量が多い人 複数の枠と条件を確認 APIの費用はどう見積もるか APIの基本式は、入力トークン数÷100万×入力単価＋出力トークン数÷100万×出力単価です。Sonnet 5.5なら入力2ドル・出力10ドル、Opus 5.5なら入力4ドル・出力20ドル。100万トークン当たりの価格なので、「100万トークン使わないと課金されない」という意味ではありません。",
+  "question": "ClaudeのAPI費用を見積もるための基本式を教えてください。",
+  "answer": "入力トークン数÷100万×入力単価＋出力トークン数÷100万×出力単価で計算します。",
+  "evidence": "APIの基本式は、入力トークン数÷100万×入力単価＋出力トークン数÷100万×出力単価です。",
+  "usage": {
+   "promptTokenCount": 408,
+   "candidatesTokenCount": 94,
+   "totalTokenCount": 1399,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 408
+    }
+   ],
+   "thoughtsTokenCount": 897,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q042",
+  "doc": "post_1503",
+  "title": "ChatGPT Spaceとは？共有ページの作り方と、AIとチームで使う前に知りたいこと",
+  "passage": "勝手に予約したり、参加者へ確定日として送ったりしないよう、最初の範囲を小さくします。会場から返事が来たら、担当者が原文とページの数字を照らし、未確定を確定へ動かす。その変更が他の人にも見える。ChatGPTには案内文の下書きを頼みますが、送信前には担当者が日時と費用をもう一度確認する。ここで私が期待するのは、AIが全員の代わりに決めることではなく、 誰が次に確認するかがページから消えないこと です。",
+  "question": "ChatGPTに案内文の下書きを頼む際、送信前に担当者は何を確認する必要がありますか？",
+  "answer": "日時と費用をもう一度確認します。",
+  "evidence": "ChatGPTには案内文の下書きを頼みますが、送信前には担当者が日時と費用をもう一度確認する。",
+  "usage": {
+   "promptTokenCount": 313,
+   "candidatesTokenCount": 68,
+   "totalTokenCount": 1082,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 313
+    }
+   ],
+   "thoughtsTokenCount": 701,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q043",
+  "doc": "post_1491",
+  "title": "OpenAI「dots」は何ができる？日本での利用条件と、仕事を任せる前に知りたいこと",
+  "passage": "出来上がった文章を受け取れば、その会話はいったん終わり。翌日に参加者が増え、会場が変わったら、もう一度事情を伝えることが多いでしょう。dotsに任せるのは、これより少し長い単位の仕事です。「来月のイベントの準備を見守り、変更があったら資料を直し、決めるべきことを教えて」と、 続いていく責任 を渡します。ただし、dotがあなたの生活や職場を最初から全部知っているわけではありません。",
+  "question": "dotsにはどのような単位の仕事を任せることになりますか？",
+  "answer": "少し長い単位の仕事です。",
+  "evidence": "dotsに任せるのは、これより少し長い単位の仕事です。",
+  "usage": {
+   "promptTokenCount": 301,
+   "candidatesTokenCount": 48,
+   "totalTokenCount": 1234,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 301
+    }
+   ],
+   "thoughtsTokenCount": 885,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q044",
+  "doc": "post_1483",
+  "title": "写真から「歩ける世界」を作るAI｜World LabsのAtlasとMarble、今できること",
+  "passage": "公式Marble解説の編集例。AQUAの実測結果ではありません。2026年9月30日取得。元の資料を見る とはいえ、編集という言葉から、3Dモデリングソフトのように全ての寸法を正確に制御できると期待しない方がよいでしょう。公式例はAIによる編集や世界の拡張であり、建築図面の代わりになるという案内ではありません。",
+  "question": "公式Marble解説で示されている編集例は、どのようなものとされていますか？",
+  "answer": "AIによる編集や世界の拡張であり、建築図面の代わりになるようなものではありません。",
+  "evidence": "公式例はAIによる編集や世界の拡張であり、建築図面の代わりになるという案内ではありません。",
+  "usage": {
+   "promptTokenCount": 283,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 979,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 283
+    }
+   ],
+   "thoughtsTokenCount": 627,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q045",
+  "doc": "post_1475",
+  "title": "Midjourney V8.2の画像編集が進化｜「ここだけ直す」使い方と料金",
+  "passage": "次の文章は、その用途を説明するための自作例です。日本語でイメージを整理し、必要なら短い英語へ言い換えて使う方法もあります。公式が日本語と英語で同じ結果を保証しているという意味ではありません。朝の自然光が入る静かな部屋。",
+  "question": "日本語でイメージを整理した後は、どのような工夫をして使う方法がありますか？",
+  "answer": "必要なら短い英語へ言い換えて使う方法があります。",
+  "evidence": "日本語でイメージを整理し、必要なら短い英語へ言い換えて使う方法もあります。",
+  "usage": {
+   "promptTokenCount": 260,
+   "candidatesTokenCount": 61,
+   "totalTokenCount": 819,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 260
+    }
+   ],
+   "thoughtsTokenCount": 498,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q046",
+  "doc": "post_1467",
+  "title": "Eleven v4でAI音声が変わる｜日本語ナレーション・料金・Turboとの違い",
+  "passage": "落ち着いた説明を元気いっぱいに読まれても、肝心な情報が頭に入りにくい。逆に、休日の小さな発見を紹介する動画なら、少し明るい声が似合うかもしれません。私なら、最初に試すのは長い台本ではなく、いつも書いている紹介文の冒頭です。声にしたとき、自分の文章がどう聞こえるのか。",
+  "question": "休日の小さな発見を紹介する動画には、どのようなトーンの声が似合いますか？",
+  "answer": "少し明るい声が似合います。",
+  "evidence": "休日の小さな発見を紹介する動画なら、少し明るい声が似合うかもしれません。",
+  "usage": {
+   "promptTokenCount": 280,
+   "candidatesTokenCount": 60,
+   "totalTokenCount": 698,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 280
+    }
+   ],
+   "thoughtsTokenCount": 358,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q047",
+  "doc": "post_1458",
+  "title": "Suno v6で「自分の一曲」を作る｜無料版・料金・歌詞の直し方【2026年9月】",
+  "passage": "2026年９月29日に日本からChromeで公式料金ページを確認したところ、月払い表示はProが1,500円、Premierが4,500円でした。年払いを選んだときの月換算表示は、それぞれ1,200円、3,600円です。税は決済時に計算されると案内されています。Sunoのプラン比較：2026年９月29日に確認したWeb表示 項目 Free Pro Premier 月払いの表示額 0円 1,500円／月 4,500円／月 年払いを選んだ月換算表示 ― 1,200円／月相当 3,600円／月相当 生成クレジット 50／日 2,500／月 10,000／月 通常の曲の月間ダウンロード 月間枠なし。試用枠は登録時期で異なる 20曲／月 60曲／月 使えるv6世代モデル v6-mini v6・wild・mini v6・wild・mini 部分編集のReplace Section 対象外 利用可能 利用可能 Suno Studio 対象外 対象外 利用可能。",
+  "question": "SunoのProプランとPremierプランの月払い料金はそれぞれいくらですか？",
+  "answer": "Proが1,500円、Premierが4,500円です。",
+  "evidence": "月払い表示はProが1,500円、Premierが4,500円でした。",
+  "usage": {
+   "promptTokenCount": 463,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1183,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 463
+    }
+   ],
+   "thoughtsTokenCount": 646,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q048",
+  "doc": "post_1445",
+  "title": "AIグラス最前線｜Ray-Ban Meta AudioとGen 3の違い・日本発売・選び方【2026年9月】",
+  "passage": "12MP写真・3K動画 音楽・通話・音声AI 音声中心の設計 音声に加えて撮影も可能 レンズ内の画面 なし なし 本体の最大駆動時間 12時間 9時間 フレーム Clubmaster／Burbank Aviator／Zena／Wayfarer 日本での展開 2027年予定 2026年9月24日発売 発表時の開始価格 349米ドルから。日本価格未発表 税込参考価格78,980円から スマホでは表を横にスクロールできます。出典： Audioの公式仕様 ／ Gen 3の公式仕様 ／ Meta公式発表 ／ Gen 3の国内発売情報 日本ではGen 3が発売済み。Audioは2027年予定 ここは、購入を考えるなら最初に押さえておきたいところです。Gen 3は2026年9月24日に日本で発売。",
+  "question": "Gen 3の日本での発売日はいつですか？",
+  "answer": "2026年9月24日です。",
+  "evidence": "Gen 3は2026年9月24日に日本で発売。",
+  "usage": {
+   "promptTokenCount": 405,
+   "candidatesTokenCount": 55,
+   "totalTokenCount": 1033,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 405
+    }
+   ],
+   "thoughtsTokenCount": 573,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q049",
+  "doc": "post_1435",
+  "title": "AI推論インフラはなぜ急拡大するのか｜2026年9月の実績・メモリ・電力・コストを読む",
+  "passage": "利用者が同時に増えたとき、入力が長くなったときの余裕を計上しなければ、平常時には動いてもピーク時に条件を満たさない案になり得ます。必要容量の説明には、どの条件で算出したかを添えるべきです。容量の単位がGBかGiBかにも注意します。数字の見た目が同じでも、単位の定義が異なれば厳密な比較には調整が必要です。",
+  "question": "必要容量を説明する際には、どのような情報を添えるべきですか？",
+  "answer": "どの条件で算出したかという情報です。",
+  "evidence": "必要容量の説明には、どの条件で算出したかを添えるべきです。",
+  "usage": {
+   "promptTokenCount": 287,
+   "candidatesTokenCount": 54,
+   "totalTokenCount": 839,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 287
+    }
+   ],
+   "thoughtsTokenCount": 498,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q050",
+  "doc": "post_1427",
+  "title": "ChatGPT Workの使い方・料金完全ガイド【2026年9月】仕事を任せる実践テンプレート",
+  "passage": "クラウドなら、アプリを閉じたりPCを切った後も作業を続ける用途が案内されています。出典： ローカルとクラウドの選択 。判断の順番は、作業の難しさより資料の場所です。公開Webの調査ならクラウドで完結できる可能性があります。",
+  "question": "ローカルとクラウドを選択するときは、何を基準にどのような順番で判断すればよいですか？",
+  "answer": "作業の難しさよりも資料の場所を優先して判断します。",
+  "evidence": "判断の順番は、作業の難しさより資料の場所です。",
+  "usage": {
+   "promptTokenCount": 259,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 737,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 259
+    }
+   ],
+   "thoughtsTokenCount": 416,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q051",
+  "doc": "post_1424",
+  "title": "GPT-6 Astra・Sol・Luna徹底比較【2026年最新】料金・使い方・Claude Opus 5.5との違い",
+  "passage": "OpenAIはAstraを最高性能、Solを難しい仕事と反復作業のバランス型、Lunaを低コスト・高スループット型として位置づけています。公式発表は GPT-6 Astraの公式ページ と Sol／Lunaの公式発表 で確認できます。重要なのは、3モデルが「良い・普通・悪い」という序列ではない点です。例えば、毎日10万件の商品説明を分類する仕事にAstraを使うと品質は高くても費用が膨らみます。一方、法務判断を伴う複雑な契約レビューをLunaだけに任せると、安くても再確認の工数が増える可能性があります。",
+  "question": "OpenAIのモデル「Sol」はどのように位置づけられていますか？",
+  "answer": "難しい仕事と反復作業のバランス型として位置づけられています。",
+  "evidence": "OpenAIはAstraを最高性能、Solを難しい仕事と反復作業のバランス型、Lunaを低コスト・高スループット型として位置づけています。",
+  "usage": {
+   "promptTokenCount": 339,
+   "candidatesTokenCount": 81,
+   "totalTokenCount": 1037,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 339
+    }
+   ],
+   "thoughtsTokenCount": 617,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q052",
+  "doc": "post_1399",
+  "title": "Google Stitch「Vibe Design」完全ガイド【2026年最新】Figma株8%急落の衝撃・AIデザインツールの全貌と使い方",
+  "passage": "Stitchとの最も深い統合 Codex、OpenCode — MCP互換で接続可能 コミュニティ製の stitch-mcp CLI （GitHub: davideast/stitch-mcp）や、 Stitch Skills ライブラリ（GitHub: google-labs-code/stitch-skills）も公開されており、主要なコーディングエージェントと互換性があります。筆者の見解 — 「 Vibe Coding + Vibe Design」の融合 ここが今回のアップデートの 本当の核心 です。Stitchは単体のデザインツールではなく、 AI駆動の開発パイプラインの入口 として設計されています。ワークフローはこうなります: Stitchで「Vibe Design」→ DESIGN.mdをエクスポート → Claude CodeやCursorが読み取ってコード生成 → デプロイ。",
+  "question": "Stitchを用いたAI駆動の開発パイプラインでは、どのようなワークフローになりますか？",
+  "answer": "Stitchで「Vibe Design」を行ってDESIGN.mdをエクスポートし、それをClaude CodeやCursorが読み取ってコードを生成した上でデプロイします。",
+  "evidence": "Stitchで「Vibe Design」→ DESIGN.mdをエクスポート → Claude CodeやCursorが読み取ってコード生成 → デプロイ。",
+  "usage": {
+   "promptTokenCount": 362,
+   "candidatesTokenCount": 101,
+   "totalTokenCount": 1420,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 362
+    }
+   ],
+   "thoughtsTokenCount": 957,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q053",
+  "doc": "post_1395",
+  "title": "Claude Dispatch完全ガイド【2026年最新】スマホからAIを遠隔操作・セットアップから活用法まで徹底解説",
+  "passage": "つまり、Cowork自体の能力というよりmacOSのサンドボックス制約に起因する失敗です。「Connector経由の情報取得」に限定すれば、成功率は 6/7（約85%） に跳ね上がります。MacStoriesも「rough around the edges」と評しつつ、情報取得タスクに絞って使えば実用的であることを認めています。50%という見出しに釣られるべきではないというのが筆者の見解です。構造的な制約 成功率とは別に、Dispatchには設計上の制約があります。",
+  "question": "Coworkにおいて「Connector経由の情報取得」に限定した場合の成功率はどのくらいですか？",
+  "answer": "成功率は6/7（約85%）です。",
+  "evidence": "「Connector経由の情報取得」に限定すれば、成功率は 6/7（約85%） に跳ね上がります。",
+  "usage": {
+   "promptTokenCount": 320,
+   "candidatesTokenCount": 84,
+   "totalTokenCount": 1167,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 320
+    }
+   ],
+   "thoughtsTokenCount": 763,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q054",
+  "doc": "post_1387",
+  "title": "Claude Cowork 企業導入完全ガイド【2026年最新】｜管理機能・プラグイン統制・部門別活用からClaude Codeとの使い分けまで",
+  "passage": "誰がCoworkで作成しても同じ品質の報告書が出る。上の実例のように、色分けルールやグラフ形式まで指定できる メール文面テンプレート ：顧客対応メールのトーン・構成・禁止表現をSkillsに記述。新入社員でもベテランと同等のメール品質を実現。「謝罪メールではまず事実を述べ、次に影響範囲、最後に再発防止策」のような構成ルールが有効 データ分析手法の標準化 ：KPIの定義（「月間アクティブユーザーとは30日以内にログインしたユニークユーザー数」等）、分析手順、グラフフォーマットをSkillsで統一。",
+  "question": "メール文面テンプレートを作成する際、謝罪メールにはどのような構成ルールが有効ですか？",
+  "answer": "まず事実を述べ、次に影響範囲、最後に再発防止策を述べるという構成ルールが有効です。",
+  "evidence": "「謝罪メールではまず事実を述べ、次に影響範囲、最後に再発防止策」のような構成ルールが有効",
+  "usage": {
+   "promptTokenCount": 331,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 788,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 331
+    }
+   ],
+   "thoughtsTokenCount": 375,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q055",
+  "doc": "post_1375",
+  "title": "Nemotron-3-Super 完全ガイド【2026年3月】｜NVIDIAが放つ120Bパラメータで12Bしか動かないMoEモデルの全貌",
+  "passage": "従来のTransformerのAttentionはシーケンス長の2乗に比例してコストが増大しますが、Mamba-2はどれだけ長い入力でも計算量が線形にしか増えません。これが 100万トークンのコンテキストウィンドウ を実現する基盤です。2. Transformer Attentionレイヤー ──Mambaだけでは「特定の情報をピンポイントで検索する」能力（連想記憶）が弱いため、従来型のAttentionレイヤーも組み込んでいます。長文中の特定の事実を正確に参照する必要がある場面で威力を発揮します。3. LatentMoEレイヤー ──NVIDIAが独自に開発したMoEの改良版です。",
+  "question": "Mambaだけでなく従来型のAttentionレイヤーも組み込まれているのはなぜですか？",
+  "answer": "Mambaだけでは特定の情報をピンポイントで検索する連想記憶能力が弱いためです。",
+  "evidence": "Mambaだけでは「特定の情報をピンポイントで検索する」能力（連想記憶）が弱いため、従来型のAttentionレイヤーも組み込んでいます。",
+  "usage": {
+   "promptTokenCount": 344,
+   "candidatesTokenCount": 83,
+   "totalTokenCount": 1268,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 344
+    }
+   ],
+   "thoughtsTokenCount": 841,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q056",
+  "doc": "post_1371",
+  "title": "Gemini Embedding 2 完全ガイド【2026年3月】｜Googleが放つ初のマルチモーダル埋め込みモデルの全貌",
+  "passage": "コードベンチマークの84.0は、コード検索や技術文書の検索を構築する開発者にとって非常に心強い数字です。ただし、公平に見る必要がある点もあります。2026年3月時点のMTEBリーダーボード では、NVIDIAのNV-Embed-v2（72.31）やQwen3-Embedding-8B（70.58）がMTEB全体の平均スコアではGeminiを上回っています。ただしこれらはレガシーMTEB（56タスク）での評価であり、評価基準が異なる点は留意が必要です。",
+  "question": "NV-Embed-v2やQwen3-Embedding-8BがMTEBの平均スコアでGeminiを上回っているという評価には、どのような留意点がありますか？",
+  "answer": "レガシーMTEB（56タスク）による評価であり、評価基準が異なる点です。",
+  "evidence": "これらはレガシーMTEB（56タスク）での評価であり、評価基準が異なる点は留意が必要です。",
+  "usage": {
+   "promptTokenCount": 333,
+   "candidatesTokenCount": 103,
+   "totalTokenCount": 2284,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 333
+    }
+   ],
+   "thoughtsTokenCount": 1848,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q057",
+  "doc": "post_1360",
+  "title": "Claude Code 企業導入セキュリティガイド【2026年最新】｜データ保護・権限管理・コンプライアンスを完全網羅",
+  "passage": "❸ 国際認証取得済み SOC 2 Type II、ISO 27001、ISO/IEC 42001（AI管理）、HIPAA BAA対応。第三者監査で検証されたセキュリティ基盤です。→ 詳細は以下の各セクションで、データフロー・権限管理・コンプライアンス・規制業種対応まで網羅的に解説しています。",
+  "question": "取得済みの国際認証や対応しているセキュリティ基準にはどのようなものがありますか？",
+  "answer": "SOC 2 Type II、ISO 27001、ISO/IEC 42001（AI管理）を取得しており、HIPAA BAAにも対応しています。",
+  "evidence": "SOC 2 Type II、ISO 27001、ISO/IEC 42001（AI管理）、HIPAA BAA対応。",
+  "usage": {
+   "promptTokenCount": 285,
+   "candidatesTokenCount": 101,
+   "totalTokenCount": 1300,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 285
+    }
+   ],
+   "thoughtsTokenCount": 914,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q058",
+  "doc": "post_1352",
+  "title": "Claude Codeの使い方 超入門【2026年最新】｜プログラミング未経験でもAIと一緒にアプリが作れる完全ガイド",
+  "passage": "これをあなたが作ったのです！さらにカスタマイズしてみよう Claude Codeはまだ待機中です。続けて指示を出してみましょう。背景色を水色にして、趣味の部分にかわいい絵文字を追加して。変更したらブラウザで開き直して またブラウザが開いて、デザインが変わったページが表示されます。",
+  "question": "Claude Codeに続けて変更の指示を出してブラウザで開き直すよう伝えると、どのような結果になりますか？",
+  "answer": "ブラウザが再度開き、デザインが変更されたページが表示されます。",
+  "evidence": "またブラウザが開いて、デザインが変わったページが表示されます。",
+  "usage": {
+   "promptTokenCount": 266,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 897,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 266
+    }
+   ],
+   "thoughtsTokenCount": 566,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q059",
+  "doc": "post_1348",
+  "title": "Claude Agent SDK 完全ガイド【2026年最新】｜Python・TypeScriptでAIエージェントを構築する実践手法",
+  "passage": "\", \"hookSpecificOutput\": { \"hookEventName\": \"PreToolUse\", \"permissionDecision\": \"deny\", \"permissionDecisionReason\": f\"Blocked pattern: {pattern}\", }, } return {} options = ClaudeAgentOptions( hooks={ \"PreToolUse\": [ HookMatcher(matcher=\"Bash\", hooks=[block_dangerous_commands]) ] } ) パターン2：監査ログ（PostToolUse） すべてのファイル変更操作をタイムスタンプ付きでログに記録します。TypeScript版： import { query, HookCallback } from \"@anthropic-ai/claude-agent-sdk\"; import { appendFile } from \"fs/promises\"; const auditLogger: HookCallback = async (input, toolUseID, { signal }) => { const filePath = (input as any).tool_input?.file_path ?? \"unknown\"; const logEntry = `${new Date().toISOString()} | ${input.tool_name} | ${filePath}\\n`; await appendFile(\"./agent-audit.log\", logEntry); return {}; }; for await (const message of query({ prompt: \"Refactor the authentication module\", options: { permissionMode: \"acceptEdits\", hooks: { PostToolUse: [{ matcher: \"Edit|Write\", hooks: [auditLogger] }] } } })) { if (\"result\" in message) console.log(message.result); } パターン3：.envファイルの保護 機密情報を含む .env ファイルへの書き込みを自動ブロックします。async def protect_env_files(input_data, tool_use_id, context): file_path = input_data[\"tool_input\"].get(\"file_path\", \"\") if file_path.split(\"/\")[-1] == \".env\": return { \"hookSpecificOutput\": { \"hookEventName\": input_data[\"hook_event_name\"], \"permissionDecision\": \"deny\", \"permissionDecisionReason\": \"Cannot modify .env files\", } } return {} options = ClaudeAgentOptions( hooks={ \"PreToolUse\": [ HookMatcher(matcher=\"Write|Edit\", hooks=[protect_env_files]) ] } ) Hooksは配列内の順序で実行されます。単一責任の原則に従い、 1つのHookに1つの責務 を持たせ、複数のHookをチェーンすることを推奨します。",
+  "question": "Hookを設計する際、単一責任の原則に従うにはどのような実装が推奨されていますか？",
+  "answer": "1つのHookに1つの責務を持たせ、複数のHookをチェーンすることが推奨されています。",
+  "evidence": "単一責任の原則に従い、 1つのHookに1つの責務 を持たせ、複数のHookをチェーンすることを推奨します。",
+  "usage": {
+   "promptTokenCount": 684,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1470,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 684
+    }
+   ],
+   "thoughtsTokenCount": 701,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q060",
+  "doc": "post_1335",
+  "title": "Physical AI（フィジカルAI）2026年最新動向｜CES発表からロボット実用化の最前線まで徹底解説",
+  "passage": "1,999ドル（1,000台単価） 6ドメインAIポートフォリオ Clara（医療）、Earth-2（気候）、Nemotron（推論）、Cosmos（ロボ）、GR00T（具現化知能）、Alpamayo（自動運転） NVIDIAが「AIの横展開プラットフォーム企業」であることを明示 オープンソースデータ大量公開 10兆言語トークン、50万ロボティクス軌跡、45.5万タンパク質構造、100TBの車両センサーデータ Hugging Faceに公開。オープン戦略でエコシステムを囲い込む Axiosの報道 によれば、ファンCEOは「Physical AIのChatGPTモーメントが来る」と述べ、 CNBCはアナリストの楽観論が加速した と報じています。ここで冷静に指摘しておくべきことがあります。NVIDIAのPhysical AI売上は 全売上の3%未満 です。",
+  "question": "NVIDIAの全売上において、Physical AIの売上はどれくらいの割合を占めていますか？",
+  "answer": "全売上の3%未満です。",
+  "evidence": "NVIDIAのPhysical AI売上は 全売上の3%未満 です。",
+  "usage": {
+   "promptTokenCount": 400,
+   "candidatesTokenCount": 60,
+   "totalTokenCount": 1307,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 400
+    }
+   ],
+   "thoughtsTokenCount": 847,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q061",
+  "doc": "post_1330",
+  "title": "AI×サイバーセキュリティ2026年最新動向｜攻撃の進化と防御の最前線を徹底解説",
+  "passage": "つまり、AIフィッシング問題の根本は「AIが賢くなった」ことではなく、 「1970年代に設計されたメールプロトコルの上に、2026年のビジネスが乗っている」 という構造的な欠陥です。フィッシング訓練で従業員を教育する努力は大切ですが、それは「壊れた鍵のドアに、住人が気をつけましょうと言い聞かせている」ようなものです。本質的な解決は、パスキーやゼロトラストなど 仕組みレベル の改革にあります。日本への影響： 日本語フィッシングメールの品質が劇的に向上しています。以前は「日本語が不自然だからフィッシングだと分かった」という防御ラインが完全に崩壊。",
+  "question": "AIフィッシング問題の本質的な解決には、どのような改革が求められますか？",
+  "answer": "パスキーやゼロトラストをはじめとする、仕組みレベルの改革が求められます。",
+  "evidence": "本質的な解決は、パスキーやゼロトラストなど 仕組みレベル の改革にあります。",
+  "usage": {
+   "promptTokenCount": 351,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 1306,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 351
+    }
+   ],
+   "thoughtsTokenCount": 886,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q062",
+  "doc": "post_1322",
+  "title": "GPT-5.4徹底解説｜GPT-5.3-Codexとの違い・料金・使い分けまで完全整理",
+  "passage": "文書・表計算・資料が主戦場 computer use OSWorld 75.0% 人間 72.4% を超える。UIをまたぐ長い実務で価値が出る tool use BrowseComp 82.7% tool search で総トークン使用量 47%削減。調査系で強い coding は留保 SWE 57.7 / Terminal 75.1 純CLIは GPT-5.3-Codex 77.3% が上。",
+  "question": "tool searchを導入することで、総トークン使用量はどの程度削減できますか？",
+  "answer": "47%削減できます。",
+  "evidence": "tool search で総トークン使用量 47%削減。",
+  "usage": {
+   "promptTokenCount": 310,
+   "candidatesTokenCount": 51,
+   "totalTokenCount": 1291,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 310
+    }
+   ],
+   "thoughtsTokenCount": 930,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q063",
+  "doc": "post_1299",
+  "title": "MacBook Air M5 AI開発レビュー｜Claude Code・ローカルLLM・MLXを1.23kgで使い倒す",
+  "passage": "だがAirで32GBならPro検討も ※ Docker: コンテナ2-3個想定 / Chrome: タブ15個想定 / LLM: Q4_K_M量子化 ※ 実際の消費量はワークロードにより変動。スワップはSSD速度2倍により影響軽減 ※上図の数値はActivity Monitorでの一般的な実測目安。macOS: カーネル+WindowServer+Spotlight等のデーモン合計。Docker: OrbStackでWebアプリ用コンテナ2-3個起動時。Chrome: 拡張機能5-6個+タブ15個。",
+  "question": "Activity MonitorにおけるmacOSのメモリ消費の実測目安には、何が含まれていますか？",
+  "answer": "カーネル、WindowServer、Spotlightなどのデーモンの合計が含まれています。",
+  "evidence": "macOS: カーネル+WindowServer+Spotlight等のデーモン合計。",
+  "usage": {
+   "promptTokenCount": 327,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 986,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 327
+    }
+   ],
+   "thoughtsTokenCount": 595,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q064",
+  "doc": "post_1306",
+  "title": "Claude Codeで会計事務所の業務を革命する完全ガイド【2026年最新】｜仕訳自動化・MCP連携・無人化まで徹底解説",
+  "passage": "2. CLAUDE.mdで「事務所の全ノウハウ」を言語化する Claude Codeの最大の武器の一つが CLAUDE.md です。これはプロジェクトのルートに置くマークダウンファイルで、Claude Codeが 毎回の起動時に自動的に読み込む「永続的な指示書」 です。一般的なAIの指示機能は文字数制限がありますが、CLAUDE.mdには実質的な制限がなく、事務所の全ノウハウを詳細に記述できます。しかしCLAUDE.mdの本当の力は「指示書」としての機能ではなく、 「自己改善するルールブック」 としての機能です。",
+  "question": "Claude CodeにおけるCLAUDE.mdとは、どのような役割を持つファイルですか？",
+  "answer": "プロジェクトのルートに配置され、起動時に毎回自動で読み込まれる永続的な指示書です。",
+  "evidence": "プロジェクトのルートに置くマークダウンファイルで、Claude Codeが 毎回の起動時に自動的に読み込む「永続的な指示書」 です。",
+  "usage": {
+   "promptTokenCount": 336,
+   "candidatesTokenCount": 84,
+   "totalTokenCount": 1153,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 336
+    }
+   ],
+   "thoughtsTokenCount": 733,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q065",
+  "doc": "post_1291",
+  "title": "10万円以下でAI開発環境が完成｜MacBook NeoでClaude Code・Codex CLI・Gemini CLIを使い倒す！プログラミングはできるのか？",
+  "passage": "項目 MacBook Neo MacBook Air (M5) 開発者への影響 価格 99,800円〜 164,800円〜 6.5万円の差。学割なら8万円差 チップ A18 Pro M5 シングルコアは近い。マルチで大差 メモリ 8GB（固定） 16GB〜32GB 最大の差。Docker/Xcode重い作業に直結 ストレージ 256GB / 512GB 256GB〜2TB Neoは最大512GBの天井あり Thunderbolt 非対応 対応 外部ディスプレイ接続・高速データ転送に影響 外部ディスプレイ 1台（左USB-Cのみ） 最大2台 デュアルモニター派は注意 キーボードバックライト なし あり 暗い場所でコーディングする人は不便 Touch ID 512GBモデルのみ 全モデル sudo認証、Git署名にTouch IDが使える MagSafe充電 なし あり 充電中にUSB-Cが1つ塞がる メモリ帯域幅 60 GB/s 153 GB/s AI推論・大規模データ処理で2.5倍の差 結論：予算に余裕があるならMacBook Air一択 です。",
+  "question": "MacBook NeoでTouch IDが搭載されているのはどのモデルですか？",
+  "answer": "512GBモデルのみに搭載されています。",
+  "evidence": "Touch ID 512GBモデルのみ 全モデル sudo認証、Git署名にTouch IDが使える",
+  "usage": {
+   "promptTokenCount": 468,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 1790,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 468
+    }
+   ],
+   "thoughtsTokenCount": 1253,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q066",
+  "doc": "post_1283",
+  "title": "エージェンティックエンジニアリング完全ガイド【2026年最新】｜Vibe Codingの次を行くAI開発の実践戦略",
+  "passage": "このファイル自体がチームの「生きたドキュメント」であり、コードレビューの対象にすべきです。また、コンテキストの 階層設計 も重要です。プロジェクトルートのCLAUDE.mdにはグローバルなルールを、サブディレクトリのCLAUDE.mdにはそのモジュール固有のルールを記述します。たとえば、 src/api/CLAUDE.md にはAPI設計の原則やレスポンスフォーマットを、 src/components/CLAUDE.md にはUIコンポーネントの命名規約やアクセシビリティ要件を定義できます。",
+  "question": "CLAUDE.mdの階層設計において、プロジェクトルートとサブディレクトリにはそれぞれどのような内容を記述しますか？",
+  "answer": "プロジェクトルートにはグローバルなルールを、サブディレクトリにはそのモジュール固有のルールを記述します。",
+  "evidence": "プロジェクトルートのCLAUDE.mdにはグローバルなルールを、サブディレクトリのCLAUDE.mdにはそのモジュール固有のルールを記述します。",
+  "usage": {
+   "promptTokenCount": 329,
+   "candidatesTokenCount": 95,
+   "totalTokenCount": 1256,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 329
+    }
+   ],
+   "thoughtsTokenCount": 832,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q067",
+  "doc": "post_1263",
+  "title": "iPhoneからMacのターミナルを遠隔操作できるシステムを作った",
+  "passage": "CORS: 信頼オリジンのみ許可（動的設定）。X-Frame-Options: DENY（クリックジャッキング対策）。→ セッション乗っ取り・XSS・CSRFを防御 レイヤー1: Cloudflare Tunnel — 攻撃面をゼロにする 最も根本的な防御は、 ポートを開けないこと だ。mac-remoteのサーバーはlocalhost（127.0.0.1）でしか待ち受けない。",
+  "question": "mac-remoteのサーバーはどのホストで接続を待ち受けますか？",
+  "answer": "localhost（127.0.0.1）でのみ待ち受けます。",
+  "evidence": "mac-remoteのサーバーはlocalhost（127.0.0.1）でしか待ち受けない。",
+  "usage": {
+   "promptTokenCount": 297,
+   "candidatesTokenCount": 73,
+   "totalTokenCount": 1057,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 297
+    }
+   ],
+   "thoughtsTokenCount": 687,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q068",
+  "doc": "post_1165",
+  "title": "Codex実務導入ガイド【2026年最新】AGENTS.md設計から運用改善まで完全公開",
+  "passage": "これが複数タスクで積み重なると、レビュー工数が先に限界を迎えます。AGENTS.md導入後に改善したのは、速度よりも意思決定品質です。何を守るべきか、どこまでやるべきか、完了定義は何か、を毎回合意し直さなくて済むようになりました。結果として修正回数が減り、作業完了までの往復が短くなります。",
+  "question": "AGENTS.mdを導入することで、作業速度よりも何が改善されますか？",
+  "answer": "意思決定品質が改善されます。",
+  "evidence": "AGENTS.md導入後に改善したのは、速度よりも意思決定品質です。",
+  "usage": {
+   "promptTokenCount": 283,
+   "candidatesTokenCount": 54,
+   "totalTokenCount": 1038,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 283
+    }
+   ],
+   "thoughtsTokenCount": 701,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q069",
+  "doc": "post_1172",
+  "title": "Google Gemini無料版でできること完全ガイド【2026年3月最新】｜無料でここまで使えるAIの実力",
+  "passage": "CSVファイルをアップロードして「このデータを分析して」と指示すると、Pythonコードを生成・実行し、グラフ付きの分析結果を返してくれます。プログラミング初心者にも Gemini CLI と合わせておすすめの機能です。4-9. Google検索統合（リアルタイム情報） Geminiは Google検索と連携 して、最新の情報をリアルタイムで取得できます。",
+  "question": "Geminiは何と連携して最新の情報をリアルタイムで取得しますか？",
+  "answer": "Google検索です。",
+  "evidence": "Geminiは Google検索と連携 して、最新の情報をリアルタイムで取得できます。",
+  "usage": {
+   "promptTokenCount": 280,
+   "candidatesTokenCount": 53,
+   "totalTokenCount": 1178,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 280
+    }
+   ],
+   "thoughtsTokenCount": 845,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q070",
+  "doc": "post_1139",
+  "title": "ChatGPT Apps SDK完全ガイド｜App Directory公開までの実装・審査・運用【2026年最新】",
+  "passage": "2枚目は「ユーザージャーニー」。どの会話でどのツールが起動し、どの確認導線で意思決定するか。3枚目は「リスクマップ」。誤発火、誤更新、権限逸脱、データ漏洩などの発生点と回避策を整理します。",
+  "question": "リスクマップではどのような内容を整理しますか？",
+  "answer": "誤発火、誤更新、権限逸脱、データ漏洩などの発生点と回避策を整理します。",
+  "evidence": "誤発火、誤更新、権限逸脱、データ漏洩などの発生点と回避策を整理します。",
+  "usage": {
+   "promptTokenCount": 261,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1023,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 261
+    }
+   ],
+   "thoughtsTokenCount": 688,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q071",
+  "doc": "post_1125",
+  "title": "NotebookLM 完全ガイド【2026年最新】｜無料で使えるGoogle製AIリサーチ＆学習ツール",
+  "passage": "」など） Studio機能の有効化 ：ソースが追加されたことで、Studioパネルの9つの生成機能がアクティブに ソース追加から上記すべての処理が完了するまで、わずか数秒でした。この即座のレスポンスは非常に印象的です。従来であれば、長文のテキストを読み込み、要約を作成し、重要なトピックを抽出するという作業は人間が行えば数十分かかる作業ですが、NotebookLMはこれを一瞬で完了させます。検証2：URLソース 次に、URL形式で既存のブログ記事（aquallc.jp/gemini-cli-guide/）を追加しました。NotebookLMはURLにアクセスしてページの内容を自動取得し、テキスト貼り付けと同様の処理（要約、トピックタグ、推奨質問の生成）を実行しました。",
+  "question": "NotebookLMにURL形式でソースを追加すると、どのような処理が実行されますか？",
+  "answer": "ページの内容が自動取得され、要約、トピックタグ、推奨質問の生成が行われます。",
+  "evidence": "NotebookLMはURLにアクセスしてページの内容を自動取得し、テキスト貼り付けと同様の処理（要約、トピックタグ、推奨質問の生成）を実行しました。",
+  "usage": {
+   "promptTokenCount": 373,
+   "candidatesTokenCount": 88,
+   "totalTokenCount": 1423,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 373
+    }
+   ],
+   "thoughtsTokenCount": 962,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q072",
+  "doc": "post_1122",
+  "title": "Gemini CLI 完全ガイド【2026年最新】｜無料で使えるGoogle製AIコーディングエージェント",
+  "passage": "たとえば、デザインモックアップの画像を渡して「このデザインをReactコンポーネントとして実装して」と指示したり、仕様書のPDFを読み込ませて「この仕様に基づいたAPIを実装して」と指示することが可能です。これにより、従来はテキストベースの指示に限られていたAIコーディングの可能性が大きく広がります。競合ツールとの比較も重要です。",
+  "question": "仕様書のPDFをAIに読み込ませる場合、具体的にどのような実装の指示を出すことができますか？",
+  "answer": "「この仕様に基づいたAPIを実装して」といった指示を出すことができます。",
+  "evidence": "仕様書のPDFを読み込ませて「この仕様に基づいたAPIを実装して」と指示することが可能です。",
+  "usage": {
+   "promptTokenCount": 283,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 1346,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 283
+    }
+   ],
+   "thoughtsTokenCount": 987,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q073",
+  "doc": "post_1119",
+  "title": "Assistants API終了前にやること全部入り｜Responses API移行完全ガイド【2026年最新】",
+  "passage": "2026年2月時点では、期限判断は最新のDevelopers Docsを基準にし、Help Centerは補助情報として扱うのが安全です。期限・差分定義: Developers DocsのMigration Guide 課金判断: OpenAI API Pricing 補足: FAQ・リリースノート この優先順位をチームで合意しておくだけで、会議のやり直しが大幅に減ります。3. Assistants APIとResponses APIの違い Assistants API Assistants / Threads / Runs / Run steps API中心で状態を保持 暗黙の実行モデルが多い Responses API Prompts / Conversations / Responses / Items 入力と出力を明示的に扱う ツールループをアプリで管理 Migration Guideで提示される対応は次の通りです。Assistants → Prompts Threads → Conversations Runs → Responses Run steps → Items ここで見落とされやすいのは、名前の置換ではなく 責務の置き場所 が変わる点です。",
+  "question": "2026年2月時点において、期限の判断を行う際は何を基準にするのが安全ですか？",
+  "answer": "最新のDevelopers Docsを基準にし、Help Centerは補助情報として扱うのが安全です。",
+  "evidence": "期限判断は最新のDevelopers Docsを基準にし、Help Centerは補助情報として扱うのが安全です。",
+  "usage": {
+   "promptTokenCount": 393,
+   "candidatesTokenCount": 77,
+   "totalTokenCount": 1437,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 393
+    }
+   ],
+   "thoughtsTokenCount": 967,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q074",
+  "doc": "post_1113",
+  "title": "OpenAI API料金完全ガイド【2026年最新】",
+  "passage": "原因はシンプルで、 課金ポイントが複数レイヤーに分かれている からです。モデルの入力・出力トークン単価だけ見ていると、Web Search、File Search、Containersの課金で見積もりが崩れます。この記事では、実務でそのまま使えるように次の順番で整理します。",
+  "question": "モデルの入力・出力トークン単価だけを見ている場合、どのような機能の課金で見積もりが崩れてしまいますか？",
+  "answer": "Web Search、File Search、Containersの課金です。",
+  "evidence": "モデルの入力・出力トークン単価だけ見ていると、Web Search、File Search、Containersの課金で見積もりが崩れます。",
+  "usage": {
+   "promptTokenCount": 268,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1191,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 268
+    }
+   ],
+   "thoughtsTokenCount": 838,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q075",
+  "doc": "post_425",
+  "title": "Claude Code vs Codex 徹底比較【2026年最新】｜実際にチャットボットを作らせてみた",
+  "passage": "ローカル環境でプロジェクト全体を読み込み、計画（Plan Mode）を立て、サブエージェントを活用して作業を分担する。作業の各ステップが可視化され、なぜその判断をしたかを説明してくれる。200Kトークンという巨大なコンテキストウィンドウにより、大規模なコードベースでも全体像を把握した上で的確な修正を行える。",
+  "question": "大規模なコードベースにおいて、全体像を把握した上で的確な修正を行える理由は何ですか？",
+  "answer": "200Kトークンという巨大なコンテキストウィンドウを備えているためです。",
+  "evidence": "200Kトークンという巨大なコンテキストウィンドウにより、大規模なコードベースでも全体像を把握した上で的確な修正を行える。",
+  "usage": {
+   "promptTokenCount": 283,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 729,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 283
+    }
+   ],
+   "thoughtsTokenCount": 361,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q076",
+  "doc": "post_1080",
+  "title": "Claude Codeを完全無料で使う方法【2026年最新】｜Ollama連携3モデル実機テスト",
+  "passage": "クラウド実行ではサクサク応答が返ってきます。ただし、コードの品質は開発者目線では微妙でした。動くコードは書けますが、細かい設計判断やエッジケースの処理に不満が残ります。",
+  "question": "クラウド実行で作成されるコードについて、開発者目線ではどのような点に不満が残りますか？",
+  "answer": "動くコードは書けるものの、細かい設計判断やエッジケースの処理に不満が残る点です。",
+  "evidence": "動くコードは書けますが、細かい設計判断やエッジケースの処理に不満が残ります。",
+  "usage": {
+   "promptTokenCount": 253,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 738,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 253
+    }
+   ],
+   "thoughtsTokenCount": 398,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q077",
+  "doc": "post_1076",
+  "title": "Agent Skills 完全ガイド【2026年最新】｜仕組み・導入・実践まで徹底解説",
+  "passage": "上級パターン — マルチスキル連携とエンタープライズ設計 基本的なスキル作成をマスターしたら、次は複数のスキルを組み合わせた高度なパターンに挑戦しましょう。パターン1：スキルチェーニング 複数のスキルを連鎖的に実行し、前のスキルの出力を次のスキルの入力にするパターンです。# .claude/skills/full-pr-workflow.md --- name: full-pr-workflow description: PR作成からレビュー、マージまでの完全ワークフロー command: /pr-full --- # 完全PRワークフロー ## 実行手順 1. /review を実行してコードレビュー 2. レビュー結果がAPPROVEなら /test で自動テスト実行 3. テスト通過なら /changelog でCHANGELOG更新 4. 最終確認後、PRをマージ ## 中断条件 - /review でCriticalが1件以上 → 停止して報告 - /test で失敗 → 失敗テストの修正案を提示 パターン2：条件付きローディング プロジェクトの状態に応じて、異なるスキルを動的にロードするパターンです。",
+  "question": "スキルチェーニングとはどのような連携パターンですか？",
+  "answer": "複数のスキルを連鎖的に実行し、前のスキルの出力を次のスキルの入力として活用するパターンです。",
+  "evidence": "複数のスキルを連鎖的に実行し、前のスキルの出力を次のスキルの入力にするパターンです。",
+  "usage": {
+   "promptTokenCount": 426,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1190,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 426
+    }
+   ],
+   "thoughtsTokenCount": 694,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q078",
+  "doc": "post_1067",
+  "title": "SaaS 2.0完全ガイド【2026年最新】｜OpenClaw × Salesforce CLIから見えた”SaaS is not Dead, SaaS is just a Data Warehouse”",
+  "passage": "具体的にできるようになったこと 操作 従来のワークフロー OpenClaw × SF CLI 今月の商談一覧 SFにログイン → レポート画面 → フィルター設定 → 表示 Slackで「今月のパイプライン見せて」 特定顧客の履歴確認 SF → 取引先検索 → 活動タブ → スクロール 「○○社の直近3ヶ月の活動まとめて」 週次営業レポート SF → レポートビルダー → エクスポート → 整形 → 共有 「先週の営業サマリー作って#salesに投稿」 データの転記・更新 SFを開く → レコード検索 → 編集 → 保存 「○○社のステージをNegotiationに更新」 クロス分析 SF → エクスポート → スプレッドシート → ピボット 「業種別の受注率を分析して」 重要なのは、 これらすべてがコードゼロで実現できた という点だ。OpenClawの接続設定とSalesforce CLIの認証設定だけ。プログラミングスキルは不要だった。ワークフロー比較 BEFORE（従来） 1 SaaSにログイン 2分 2 レポート画面へ 1分 3 フィルター設定 3分 4 CSVエクスポート 2分 5 手動で整形 4分 合計: 5ステップ / 12分 AFTER（AI時代） Slack OpenClaw SF CLI 「先月の売上トップ10を出して」 → Slackで一言入力するだけ 1 ステップのみ 合計: 1ステップ / 15秒 所要時間の比較 BEFORE 12分（720秒） AFTER 15秒 ⏱ 98%短縮! セットアップの実際——30分で完了、つまづきポイントは1つだけ 「コードゼロ」と書くと懐疑的になる読者もいるだろう。セットアップの全手順を正直に書く。",
+  "question": "OpenClawとSalesforce CLIの連携をコードを書かずに実現するには、どのような設定が必要ですか？",
+  "answer": "OpenClawの接続設定とSalesforce CLIの認証設定を行うだけで実現できます。",
+  "evidence": "OpenClawの接続設定とSalesforce CLIの認証設定だけ。プログラミングスキルは不要だった。",
+  "usage": {
+   "promptTokenCount": 590,
+   "candidatesTokenCount": 77,
+   "totalTokenCount": 1759,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 590
+    }
+   ],
+   "thoughtsTokenCount": 1092,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q079",
+  "doc": "post_1064",
+  "title": "Claude Code × MCP 実践活用ガイド【2026年最新】｜導入・設定・自作・セキュリティまで完全網羅",
+  "passage": "{ \"mcpServers\": { \"claude-code\": { \"type\": \"stdio\", \"command\": \"claude\", \"args\": [\"mcp\", \"serve\"] } } } 💡 パスに関する注意 claude コマンドにパスが通っていない場合は、 which claude で得られたフルパス（例: /usr/local/bin/claude ）を \"command\" に指定してください。nvm等でNode.jsを管理している場合、シェルの初期化スクリプトが読み込まれないことがあるため、フルパス指定が確実です。この設定により、Claude Desktop（メインエージェント）はClaude Code（サブエージェント）の全ツールにアクセスできるようになります。",
+  "question": "MCPサーバーの設定でclaudeコマンドにパスが通っていない場合、\"command\"には何を指定すればよいですか？",
+  "answer": "which claude で得られたフルパスを指定します。",
+  "evidence": "which claude で得られたフルパス（例: /usr/local/bin/claude ）を \"command\" に指定してください。",
+  "usage": {
+   "promptTokenCount": 353,
+   "candidatesTokenCount": 78,
+   "totalTokenCount": 1216,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 353
+    }
+   ],
+   "thoughtsTokenCount": 785,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q080",
+  "doc": "post_1059",
+  "title": "Claude Code テスト駆動開発 完全ガイド【2026年最新】｜AI×TDDで品質と速度を両立する実装戦略",
+  "passage": "トリガーが広すぎると、コード変更を伴わないタスク（ドキュメント更新、設定変更など）でもTDD Skillが発動し、不要なオーバーヘッドが生じる。トリガーが狭すぎると、コード変更タスクでSkillが発動せず、TDDが適用されない。実務的には、やや広めに設定しておき、Skill本文の冒頭で「このタスクがコード実装を含まない場合は、このワークフローをスキップしてよい」という脱出条件を記述するのが効果的だ。以下に、TDD統合Skillの完全なテンプレートを示す。",
+  "question": "TDD Skillのトリガーが広すぎると、どのような問題が生じますか？",
+  "answer": "コード変更を伴わないタスクでもSkillが発動してしまい、不要なオーバーヘッドが生じます。",
+  "evidence": "トリガーが広すぎると、コード変更を伴わないタスク（ドキュメント更新、設定変更など）でもTDD Skillが発動し、不要なオーバーヘッドが生じる。",
+  "usage": {
+   "promptTokenCount": 329,
+   "candidatesTokenCount": 103,
+   "totalTokenCount": 3275,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 329
+    }
+   ],
+   "thoughtsTokenCount": 2843,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q081",
+  "doc": "post_1050",
+  "title": "バイブコーディング完全ガイド【2026年最新】｜Claude Codeで始める”話すだけ開発”からAgentic Engineeringまで",
+  "passage": "プロのエンジニアが本番プロダクトを作るなら 、Claude CodeまたはCursorが最有力です。とくにClaude Codeは、ターミナルから離れずにファイル編集・Git操作・テスト実行まで完結する 唯一のエージェント型ツール であり、大規模プロジェクトのリファクタリングやCI/CD自動化で圧倒的な生産性を発揮します。非エンジニアがアイデアを形にしたいなら 、BoltまたはLovableから始めるのがおすすめです。環境構築やデプロイの知識が不要で、「こんなアプリが欲しい」と伝えるだけで動くプロトタイプが手に入ります。",
+  "question": "Claude Codeはどのような作業において高い生産性を発揮しますか？",
+  "answer": "大規模プロジェクトのリファクタリングやCI/CD自動化において高い生産性を発揮します。",
+  "evidence": "大規模プロジェクトのリファクタリングやCI/CD自動化で圧倒的な生産性を発揮します。",
+  "usage": {
+   "promptTokenCount": 330,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 1513,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 330
+    }
+   ],
+   "thoughtsTokenCount": 1114,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q082",
+  "doc": "post_988",
+  "title": "Claude Codeで稼ぐ完全ガイド【2026年最新】｜初心者が月30万円を達成する最短ロードマップ",
+  "passage": "HTMLファイルをブラウザ上にドラッグ&ドロップするだけで公開でき、FTP設定もDNS設定も不要です。無料枠でも商用利用可能なので、Vercelの規約問題を回避できます。この記事で作るLPは全て「HTMLファイル1つ」で完結しています。",
+  "question": "無料枠でも商用利用が可能な場合、どのような問題を回避できますか？",
+  "answer": "Vercelの規約問題を回避できます。",
+  "evidence": "無料枠でも商用利用可能なので、Vercelの規約問題を回避できます。",
+  "usage": {
+   "promptTokenCount": 263,
+   "candidatesTokenCount": 59,
+   "totalTokenCount": 803,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 263
+    }
+   ],
+   "thoughtsTokenCount": 481,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q083",
+  "doc": "post_985",
+  "title": "Kling 3.0完全ガイド【2026年最新】｜マルチショット・4K・音声同期で映像制作革命",
+  "passage": "プロモーション利用： Kling AIはユーザーのコンテンツをプロモーションや研究目的で補償なく使用できます。機密性の高いプロジェクトではPro以上のプライベートモードを活用してください。データ処理の所在地： Kuaishouは北京を拠点とする企業であり、データ処理は中国国内のサーバーで行われる可能性があります。",
+  "question": "Kling AIで機密性の高いプロジェクトを扱う場合、どのような対策をとるべきですか？",
+  "answer": "Pro以上のプライベートモードを活用することです。",
+  "evidence": "機密性の高いプロジェクトではPro以上のプライベートモードを活用してください。",
+  "usage": {
+   "promptTokenCount": 268,
+   "candidatesTokenCount": 57,
+   "totalTokenCount": 1138,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 268
+    }
+   ],
+   "thoughtsTokenCount": 813,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q084",
+  "doc": "post_971",
+  "title": "Claude Code 上級テクニック完全ガイド【2026年最新】｜Hooks・サブエージェント・CI/CD自動化からコスト最適化まで",
+  "passage": "Claude Codeは reason の内容を読み取り、別のアプローチ（環境変数の使用など）を自動で提案します。例3：コンテキスト圧縮後にプロジェクトルールを再注入（SessionStart） 長時間のセッションでコンテキストウィンドウが圧縮（compaction）されると、序盤に伝えた指示が失われることがあります。このHookは、圧縮後に重要なルールを自動で再注入します。{ \"hooks\": { \"SessionStart\": [{ \"matcher\": \"compact\", \"hooks\": [{ \"type\": \"command\", \"command\": \"echo 'Reminder: use Bun, not npm. Run bun test before committing. Current branch: '$(git branch --show-current)'. Last commit: '$(git log --oneline -1)''\" }] }] } } matcher に \"compact\" を指定することで、セッション開始時ではなくcompaction後にのみ発火します。Gitのブランチ名や最終コミット情報を動的に取得して注入している点がポイントです。",
+  "question": "SessionStartのHookをセッション開始時ではなくcompaction後にのみ発火させたい場合、matcherには何を指定すればよいですか？",
+  "answer": "\"compact\" を指定します。",
+  "evidence": "matcher に \"compact\" を指定することで、セッション開始時ではなくcompaction後にのみ発火します。",
+  "usage": {
+   "promptTokenCount": 406,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1321,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 406
+    }
+   ],
+   "thoughtsTokenCount": 845,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q085",
+  "doc": "post_968",
+  "title": "AIエージェント導入ロードマップ【2026年最新】｜スモールスタートから全社展開まで完全ガイド",
+  "passage": "月末の集中処理時期の残業削減に直結するため、経理部門での導入効果が高い。ただし、金額の誤認識リスクがあるため、人間による最終確認フローは残す設計が必要だ。5. 採用書類の自動生成・スクリーニング 求人票の作成支援、応募書類の一次スクリーニング、面接質問の生成などをAIが担う。数百件の応募から要件に合致する候補者を抽出する作業が数分で完了する。ただし、採用判断にはバイアスのリスクが伴うため、AIはあくまで「絞り込み支援」として使い、最終判断は人間が行う運用設計が不可欠だ。",
+  "question": "採用業務にAIを導入する際、どのようなリスクに配慮して運用を設計すべきですか？",
+  "answer": "採用判断にバイアスのリスクがあるため、AIは絞り込み支援にとどめ、最終判断は人間が行う運用設計にする必要があります。",
+  "evidence": "採用判断にはバイアスのリスクが伴うため、AIはあくまで「絞り込み支援」として使い、最終判断は人間が行う運用設計が不可欠だ。",
+  "usage": {
+   "promptTokenCount": 347,
+   "candidatesTokenCount": 103,
+   "totalTokenCount": 1286,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 347
+    }
+   ],
+   "thoughtsTokenCount": 836,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q086",
+  "doc": "post_963",
+  "title": "Claude Code 実践ワークフロー完全ガイド【2026年最新】｜現場で差がつく使いこなし術",
+  "passage": "初心者と中級者の差は、ツールの知識量ではありません。ワークフロー（作業の進め方） の違いです。同じClaude Codeを使っていても、進め方次第で成果物の品質もスピードもまったく変わります。この記事では、Claude Codeの公式ベストプラクティスと実務で効果が実証されたテクニックを体系的にまとめました。",
+  "question": "初心者と中級者の差は何ですか？",
+  "answer": "ツールの知識量ではなく、ワークフロー（作業の進め方）の違いです。",
+  "evidence": "初心者と中級者の差は、ツールの知識量ではありません。ワークフロー（作業の進め方） の違いです。",
+  "usage": {
+   "promptTokenCount": 280,
+   "candidatesTokenCount": 68,
+   "totalTokenCount": 1078,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 280
+    }
+   ],
+   "thoughtsTokenCount": 730,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q087",
+  "doc": "post_959",
+  "title": "Claude Code 初心者完全ガイド【2026年最新】｜インストールから実践まで丁寧に解説",
+  "passage": "また、Anthropic ConsoleでAPIキーを取得し、 従量課金（Pay-as-you-go） で使うことも可能です。使った分だけ支払いたい方や、CI/CDに組み込みたい方はこちらが適しています。4. インストール方法（3分で完了） Claude Codeのインストールは驚くほど簡単です。2026年現在、 ネイティブインストーラー が推奨されており、Node.jsすら不要です。macOS / Linux / WSL ターミナルを開いて、以下のコマンドを1行実行するだけです。",
+  "question": "Claude CodeをAPIキーによる従量課金で利用するのが適しているのはどのような人ですか？",
+  "answer": "使った分だけ支払いたい人や、CI/CDに組み込みたい人です。",
+  "evidence": "使った分だけ支払いたい方や、CI/CDに組み込みたい方はこちらが適しています。",
+  "usage": {
+   "promptTokenCount": 325,
+   "candidatesTokenCount": 75,
+   "totalTokenCount": 1387,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 325
+    }
+   ],
+   "thoughtsTokenCount": 987,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q088",
+  "doc": "post_945",
+  "title": "Google Flow完全ガイド【2026年最新】｜Geminiの動画制限を解決！Veo 3.1でAI動画を作る方法",
+  "passage": "初回アクセス時は、メインの作業画面である Scenebuilderインターフェース が表示されます。Step 3：プロンプトを入力して生成 画面下部の入力ボックスにプロンプトを入力します。モデルは 「Veo 3.1 Quality」を推奨 します。",
+  "question": "初回アクセス時に表示されるメインの作業画面は何ですか？",
+  "answer": "Scenebuilderインターフェースです。",
+  "evidence": "初回アクセス時は、メインの作業画面である Scenebuilderインターフェース が表示されます。",
+  "usage": {
+   "promptTokenCount": 260,
+   "candidatesTokenCount": 51,
+   "totalTokenCount": 1171,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 260
+    }
+   ],
+   "thoughtsTokenCount": 860,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q089",
+  "doc": "post_930",
+  "title": "Sora 2完全ガイド【2026年最新】｜使い方・料金・商用利用・Veo 3/Kling AI比較を徹底解説",
+  "passage": "曖昧な指示では期待通りの結果が得られませんが、逆に詳細すぎても破綻する場合があります。ここでは、実践的なプロンプト作成のコツを紹介します。プロンプトの基本構造 プロンプトは、以下の5要素を含めることで、AIが意図を正確に理解しやすくなります。1. 被写体（Subject） ：動画の主役となる人物、物体、動物などを明確に指定します。「女性」ではなく「30代のビジネスウーマン、黒いスーツ姿」のように、具体的な特徴を含めることで、イメージのブレを防ぎます。",
+  "question": "動画のプロンプト作成で被写体を指定する際、イメージのブレを防ぐにはどうすればよいですか？",
+  "answer": "「30代のビジネスウーマン、黒いスーツ姿」のように具体的な特徴を含めて指定します。",
+  "evidence": "「女性」ではなく「30代のビジネスウーマン、黒いスーツ姿」のように、具体的な特徴を含めることで、イメージのブレを防ぎます。",
+  "usage": {
+   "promptTokenCount": 326,
+   "candidatesTokenCount": 96,
+   "totalTokenCount": 1124,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 326
+    }
+   ],
+   "thoughtsTokenCount": 702,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q090",
+  "doc": "post_917",
+  "title": "Seedance 2.0完全ガイド【2026年最新】｜「Sora超え」と話題のAI動画生成モデルの全貌",
+  "passage": "4. 2K高解像度・高速出力 Seedance 2.0は ネイティブ2K解像度 での出力に対応している。競合のSora 2やRunway Gen-4が1080pにとどまる中、Seedance 2.0はより高精細な映像を実現した。前バージョン（Seedance 1.5）と比較して 生成速度は約30%向上 しており、1080p動画であれば2〜5分で完成する。プロの映像制作では解像度が仕上がりのクオリティを大きく左右する。",
+  "question": "Seedance 2.0で1080p動画を生成する場合、完成までにどれくらいの時間がかかりますか？",
+  "answer": "2〜5分で完成します。",
+  "evidence": "前バージョン（Seedance 1.5）と比較して 生成速度は約30%向上 しており、1080p動画であれば2〜5分で完成する。",
+  "usage": {
+   "promptTokenCount": 332,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1446,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 332
+    }
+   ],
+   "thoughtsTokenCount": 1029,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q091",
+  "doc": "post_906",
+  "title": "AIスクールおすすめ16選【2026年最新】現役AI開発会社が本音で徹底比較",
+  "passage": "ブラウザだけで学習環境が完結するため、 面倒な環境構築が一切不要 。プログラミング未経験者でもすぐに手を動かしながら学べます。6ヶ月・9ヶ月プランでは「学び放題制度」が適用され、期間内なら複数のコースを追加料金なしで受講できるのも魅力です。おすすめポイント 環境構築不要のブラウザ完結型。「Pythonを触ったことがない」という方でも、最初のハードルなく学習を始められる 学び放題制度で複数分野を横断的に学べる。",
+  "question": "6ヶ月や9ヶ月プランで適用される「学び放題制度」では、どのような受講が可能ですか？",
+  "answer": "期間内であれば、複数のコースを追加料金なしで受講することができます。",
+  "evidence": "6ヶ月・9ヶ月プランでは「学び放題制度」が適用され、期間内なら複数のコースを追加料金なしで受講できるのも魅力です。",
+  "usage": {
+   "promptTokenCount": 315,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 1056,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 315
+    }
+   ],
+   "thoughtsTokenCount": 659,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q092",
+  "doc": "post_871",
+  "title": "Claude Codeが「RAGを捨てた」理由｜開発者Boris Chernyが明かしたAgentic Searchの全貌",
+  "passage": "内部ベンチマークもあるが、 主にvibes。単純に良い感じがした 」 ― Boris Cherny, Latent Space Podcast この「vibes-based evaluation（感覚ベースの評価）」は、一見すると非科学的に聞こえます。しかし、Boris氏がここで言っていることは、AI開発における重要な真実を含んでいます。なぜ数値ベンチマークだけでは不十分なのか コード検索の品質は、単純な「Precision/Recall」では測定しきれません。",
+  "question": "コード検索の品質は、どのような指標だけでは測定しきれないとされていますか？",
+  "answer": "単純な「Precision/Recall」では測定しきれません。",
+  "evidence": "コード検索の品質は、単純な「Precision/Recall」では測定しきれません。",
+  "usage": {
+   "promptTokenCount": 303,
+   "candidatesTokenCount": 64,
+   "totalTokenCount": 1179,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 303
+    }
+   ],
+   "thoughtsTokenCount": 812,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q093",
+  "doc": "post_867",
+  "title": "Claude Code Agent Teams完全ガイド【2026年最新】｜セットアップから実践活用まで徹底解説",
+  "passage": "そのため、spawn時のプロンプトで必要なコンテキスト（ファイルパス、制約条件、完了基準）を明示的に伝える必要があります。共有タスクリスト 全エージェント間で共有されるタスクリストが、Agent Teamsの協調の基盤です。各タスクは3つの状態を持ちます。状態 英語 説明 未着手 pending まだ誰も担当していないタスク 作業中 in progress チームメイトが作業を開始したタスク 完了 completed 作業が終了したタスク チームメイトはタスクを完了すると、 次の未割り当て・未ブロックのタスクを自律的にピックアップ します。",
+  "question": "Agent Teamsにおいて、チームメイトはタスクを完了した後にどのような行動をとりますか？",
+  "answer": "次の未割り当て・未ブロックのタスクを自律的にピックアップします。",
+  "evidence": "チームメイトはタスクを完了すると、 次の未割り当て・未ブロックのタスクを自律的にピックアップ します。",
+  "usage": {
+   "promptTokenCount": 337,
+   "candidatesTokenCount": 82,
+   "totalTokenCount": 1299,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 337
+    }
+   ],
+   "thoughtsTokenCount": 880,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q094",
+  "doc": "post_865",
+  "title": "GPT-5.3-Codex完全ガイド【2026年最新】｜自己開発AI・サイバーセキュリティHigh・Claude Opus 4.6比較を徹底解説",
+  "passage": "2. 「自分で自分を作ったAI」の真実 OpenAIの公式発表 OpenAIはGPT-5.3-Codexを 「自分自身の開発に貢献した史上初のモデル」 と位置づけています。CEOのSam Altman氏はこうコメントしました。「5.3-Codexを使って5.3-Codexをどれだけ早く出荷できたかは驚くべきことだった。これは確実に今後のトレンドの兆しだ。",
+  "question": "OpenAIはGPT-5.3-Codexをどのようなモデルとして位置づけていますか？",
+  "answer": "自分自身の開発に貢献した史上初のモデル",
+  "evidence": "OpenAIはGPT-5.3-Codexを 「自分自身の開発に貢献した史上初のモデル」 と位置づけています。",
+  "usage": {
+   "promptTokenCount": 291,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1164,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 291
+    }
+   ],
+   "thoughtsTokenCount": 799,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q095",
+  "doc": "post_862",
+  "title": "Claude Opus 4.6完全ガイド【2026年最新】｜Agent Team・100万トークン・Adaptive Thinkingを徹底解説",
+  "passage": "さらにOpus 4.1時代の$15/$75から比較すると、 3分の1の価格で最高性能 を利用できます。利用可能なプラットフォーム claude.ai （Web・iOS・Android・デスクトップ） Anthropic API Amazon Bedrock Google Cloud Vertex AI Microsoft Azure Foundry GitHub Copilot （Pro/Pro+/Business/Enterpriseプラン） Snowflake Cortex AI 2. 5つの革新的な新機能 Claude Opus 4.6には、AIの使い方を根本から変える5つの新機能が搭載されています。新機能 概要 ステータス Agent Team 複数のAIエージェントがチームとして並行作業 リサーチプレビュー Adaptive Thinking 問題の難易度に応じて思考の深さを自動調整 正式リリース 100万トークンコンテキスト 書籍約8冊分の情報を一度に処理 ベータ Context Compaction 会話の自動要約で実質無限の対話を実現 ベータ 128K出力トークン 前モデルの2倍の出力量 正式リリース 以下、特に重要な3つの機能を詳しく解説します。3. Agent Team（エージェントチーム）の仕組み 従来の限界 これまでのAIアシスタントは、どれだけ高性能でも 1つのタスクを逐次的に処理 するしかありませんでした。",
+  "question": "Claude Opus 4.6の新機能「Adaptive Thinking」はどのような機能ですか？",
+  "answer": "問題の難易度に応じて思考の深さを自動調整する機能です。",
+  "evidence": "Adaptive Thinking 問題の難易度に応じて思考の深さを自動調整",
+  "usage": {
+   "promptTokenCount": 470,
+   "candidatesTokenCount": 61,
+   "totalTokenCount": 1281,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 470
+    }
+   ],
+   "thoughtsTokenCount": 750,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q096",
+  "doc": "post_855",
+  "title": "AIスクールは40代・50代でも遅くない？未経験からの始め方完全ガイド【2026年最新】",
+  "passage": "履歴書・職務経歴書の添削 面接対策 求人紹介 ポートフォリオ作成支援 40代・50代の転職は確かに簡単ではありませんが、 AIスキル×業界経験 をアピールできれば、十分に可能性があります。メリット5：補助金で費用を大幅に抑えられる 後述しますが、国の補助金・給付金を活用すれば、 受講料の最大80%が戻ってきます 。例えば、50万円のコースが実質10万円で受講できるケースもあります。",
+  "question": "国の補助金や給付金を活用すると、受講料は最大でどのくらい戻ってきますか？",
+  "answer": "受講料の最大80%が戻ってきます。",
+  "evidence": "国の補助金・給付金を活用すれば、 受講料の最大80%が戻ってきます 。",
+  "usage": {
+   "promptTokenCount": 315,
+   "candidatesTokenCount": 73,
+   "totalTokenCount": 1057,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 315
+    }
+   ],
+   "thoughtsTokenCount": 669,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q097",
+  "doc": "post_831",
+  "title": "OpenClaw完全ガイド【2026年最新】｜スマホからPCを遠隔操作できる話題のAIエージェントの使い方とリスク",
+  "passage": "方法2: npm でインストール # OpenClawをグローバルインストール npm install -g openclaw@latest # インストール確認 openclaw --version 方法2: DigitalOcean ワンクリックデプロイ DigitalOceanでは、OpenClawがプリインストールされたDropletを1クリックで作成できます。推奨スペック : s-2vcpu-4gb（2vCPU、4GB RAM）以上 方法3: ソースからビルド git clone https://github.com/openclaw/openclaw.git cd openclaw npm install npm run build 初期設定と使い方 ステップ1: オンボーディング openclaw onboard 対話形式で以下を設定します： 1. AIプロバイダーの選択（Anthropic / OpenAI / Google / ローカル） 2. APIキーの入力 3. 連携するメッセージアプリの選択 4. ホワイトリストの設定 ステップ2: メッセージアプリの連携（Discord の場合） Discord Developer Portal でBotを作成 Bot Tokenを取得 オンボーディングでTokenを入力 Botをサーバーに招待 ステップ3: ゲートウェイの起動 openclaw gateway ブラウザで管理画面（Open WebUI）が開きます。ステップ4: 動作確認 Discordから以下のメッセージを送信： @OpenClaw 今日の日付を教えて AIが応答すれば成功です。",
+  "question": "DigitalOceanでOpenClawをワンクリックデプロイする場合の推奨スペックを教えてください。",
+  "answer": "s-2vcpu-4gb（2vCPU、4GB RAM）以上が推奨されています。",
+  "evidence": "推奨スペック : s-2vcpu-4gb（2vCPU、4GB RAM）以上",
+  "usage": {
+   "promptTokenCount": 469,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 1330,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 469
+    }
+   ],
+   "thoughtsTokenCount": 785,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q098",
+  "doc": "post_826",
+  "title": "Genspark完全ガイド【2026年最新】｜ChatGPT・Gemini・Claudeを統合した次世代AIワークスペース",
+  "passage": "会社概要・創業者の経歴 {#会社概要創業者の経歴} Gensparkを運営するMainFunc社は、AI業界のベテランによって設立されました。創業者プロフィール Eric Jing（エリック・ジン）- CEO兼共同創業者 項目 内容 学歴 武漢大学・浙江大学 修士号 前職 Baidu（百度）Xiaodu事業部CEO 実績 Microsoft Bingの創設メンバー、中国版Siri「Xiaoice」の開発責任者（「Xiaoiceの父」と呼ばれる） 前会社の評価額 55億ドル（約8,250億円） Kay Zhu（ケイ・ジュー）- CTO兼共同創業者 項目 内容 前職 Google検索エンジニア 実績 2013年、世界初のディープラーニング検索ランキングモデルを本番環境に導入 専門 AI駆動型検索ランキング技術 Wen Sang（ウェン・サン）- COO兼共同創業者 項目 内容 学歴 MIT博士号 前職 Smarking創業者（Y Combinator、Khosla Ventures出資のSaaS企業） 実績 前会社をExitした連続起業家 資金調達の歴史 時期 ラウンド 調達額 評価額 2024年6月 シード 6,000万ドル（約90億円） 非公開 2025年2月 シリーズA 1億ドル（約150億円） 5.3億ドル（約795億円） 2025年11月 シリーズB 2.75億ドル（約412億円） 12.5億ドル（約1,875億円） 累計 – 4.6億ドル（約690億円） 12.5億ドル（約1,875億円） 主要投資家には Emergence Capital 、 Lanchi Ventures などが名を連ねています。わずか 構想から9ヶ月で年間売上1億ドル（ARR） を達成し、シリーズBまでの資金調達スピードはAI業界でも異例の速さです。",
+  "question": "Gensparkを運営するMainFunc社のCTO兼共同創業者であるKay Zhuには、どのような実績がありますか？",
+  "answer": "2013年に、世界初のディープラーニング検索ランキングモデルを本番環境に導入した実績があります。",
+  "evidence": "2013年、世界初のディープラーニング検索ランキングモデルを本番環境に導入",
+  "usage": {
+   "promptTokenCount": 647,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1453,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 647
+    }
+   ],
+   "thoughtsTokenCount": 721,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q099",
+  "doc": "post_813",
+  "title": "A2A（Agent-to-Agent Protocol）完全ガイド｜AIエージェント間通信の新標準を徹底解説【2026年最新】",
+  "passage": "Part種類 内容 用途例 TextPart テキストデータ タスク指示、回答文、説明 FilePart ファイルデータ（バイナリまたはURI参照） PDF、画像、CSV、音声ファイル DataPart 構造化データ（JSON形式） APIレスポンス、フォーム入力、設定値 この マルチモーダル対応 がA2Aの大きな特徴だ。テキストだけでなく、画像・音声・構造化データを含む複雑なタスクもエージェント間で受け渡しできる。A2Aの通信フロー — 3つの実行モード A2Aは、タスクの性質に応じて 3つの通信モード を使い分ける。すべてHTTPベースで動作し、JSON-RPC 2.0プロトコルで通信する。モード①：同期実行（リクエスト/レスポンス） 適用場面 ：数秒以内に完了する短いタスク フロー ：クライアント → HTTPリクエスト → リモートエージェント処理 → HTTPレスポンスで結果を返却 例 ：テキスト翻訳、データ検索、単純な計算処理 モード②：非同期実行（ポーリング） 適用場面 ：完了まで時間がかかるタスク フロー ：クライアント → タスク送信 → タスクIDを受領 → 定期的にステータスをポーリング → 完了後に結果を取得 例 ：大規模データ分析、レポート生成、機械学習モデルのトレーニング モード③：ストリーミング（SSE） 適用場面 ：リアルタイムで進捗を通知したいタスク フロー ：クライアント → タスク送信 → SSE（Server-Sent Events）で進捗・中間結果をリアルタイム受信 例 ：長時間のワークフロー実行、段階的な文書生成、リアルタイムモニタリング 通信の全体像 A2Aの通信は以下のステップで進行する。",
+  "question": "A2Aにおける通信は、どのような基盤やプロトコルで動作しますか？",
+  "answer": "HTTPベースで動作し、JSON-RPC 2.0プロトコルで通信します。",
+  "evidence": "すべてHTTPベースで動作し、JSON-RPC 2.0プロトコルで通信する。",
+  "usage": {
+   "promptTokenCount": 569,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1662,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 569
+    }
+   ],
+   "thoughtsTokenCount": 1019,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q100",
+  "doc": "post_811",
+  "title": "MCP（Model Context Protocol）とは？AIの新標準を徹底解説【2026年最新】",
+  "passage": "「MCPはAPIの延長線上にあるもの」は誤解 Dockerの公式ブログでも「開発者はMCPを『APIの延長線上にあるもの』と捉えてしまう点に問題がある」と指摘されている。MCPはREST APIやgRPCに取って代わるものではなく、 AIがそれらを安全かつ効果的に使用するための「調停レイヤー」 だ。比較表：MCP vs API 比較項目 MCP 従来のAPI（REST等） 目的 AIが外部ツール・データを利用するための標準規格 システム間でデータ・機能をやり取りする汎用的な仕組み 利用者 AIモデル（LLM）が主な利用者 人間の開発者が主な利用者 自己記述性 スキーマが必須。",
+  "question": "MCPはREST APIやgRPCに対してどのような役割を果たすものですか？",
+  "answer": "それらに取って代わるものではなく、AIが安全かつ効果的に使用するための調停レイヤーとしての役割を持ちます。",
+  "evidence": "MCPはREST APIやgRPCに取って代わるものではなく、 AIがそれらを安全かつ効果的に使用するための「調停レイヤー」 だ。",
+  "usage": {
+   "promptTokenCount": 347,
+   "candidatesTokenCount": 89,
+   "totalTokenCount": 1396,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 347
+    }
+   ],
+   "thoughtsTokenCount": 960,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q101",
+  "doc": "post_674",
+  "title": "Claude CodeでDaVinci Resolveを自動操作！無料版で検証した動画編集AIの可能性",
+  "passage": "今回、Anthropic社の Claude Code （AIコーディングアシスタント）を使って、プロ仕様の動画編集ソフト DaVinci Resolve を自動操作する実験を行いました。今回挑戦したこと 目標は 「Claude Codeの指示だけでTikTok用のショート動画を完成させる」 こと。具体的には： 動画素材のインポート タイムラインへの配置 TikTok用縦型フォーマット（9:16）への変換 テキスト・タイトルの追加 カラーグレーディング 最終的な書き出し 使用したのは 完全無料版 のDaVinci Resolve。結果として、 基本的な編集操作はある程度自動化できた ものの、テキスト追加など一部の機能では課題が残りました。実験環境 AI : Claude Code v2.1.17（Anthropic社） モデル : Claude Opus 4.5（Claude Max） 動画編集ソフト : DaVinci Resolve 20（無料版・公式サイト版） OS : macOS 自動化方式 : Luaスクリプト + AppleScript 重要な注意点 : App Store版のDaVinci Resolveではスクリプト機能が制限されています。",
+  "question": "Claude Codeを使ってDaVinci Resolveを自動操作する実験では、どのような目標が掲げられていましたか？",
+  "answer": "Claude Codeの指示だけでTikTok用のショート動画を完成させることです。",
+  "evidence": "目標は 「Claude Codeの指示だけでTikTok用のショート動画を完成させる」 こと。",
+  "usage": {
+   "promptTokenCount": 425,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 1336,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 425
+    }
+   ],
+   "thoughtsTokenCount": 842,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q102",
+  "doc": "post_665",
+  "title": "Claude Codeを無料で使う方法を検証してみた",
+  "passage": "」と期待して、実際に検証してみました。検証環境 項目 スペック マシン MacBook Pro M4 Max メモリ 128GB Claude Code v2.1.17 Ollama 最新版 検証モデル gpt-oss:20b、gpt-oss:120b ※128GBメモリという ハイスペック環境 での検証です。一般的なPCではさらに厳しい結果になる可能性があります。",
+  "question": "MacBook Pro M4 Maxを用いた検証では、どのモデルが検証対象とされましたか？",
+  "answer": "gpt-oss:20bとgpt-oss:120bです。",
+  "evidence": "検証モデル gpt-oss:20b、gpt-oss:120b",
+  "usage": {
+   "promptTokenCount": 291,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1214,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 291
+    }
+   ],
+   "thoughtsTokenCount": 853,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q103",
+  "doc": "post_657",
+  "title": "【2026年最新】Claude Coworkとは？非エンジニア向けAIアシスタントを徹底解説",
+  "passage": "プランを見せて承認を待つ 」という安全設計が嬉しい。ユーザーの承認なしに勝手にファイルを消すことは絶対にない。この「提案→承認→実行」のフローは、Coworkの全機能に一貫して適用されている設計思想だ。",
+  "question": "Coworkの全機能に一貫して適用されている設計思想のフローはどのようなものですか？",
+  "answer": "「提案→承認→実行」のフローです。",
+  "evidence": "「提案→承認→実行」のフローは、Coworkの全機能に一貫して適用されている設計思想だ。",
+  "usage": {
+   "promptTokenCount": 258,
+   "candidatesTokenCount": 71,
+   "totalTokenCount": 1189,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 258
+    }
+   ],
+   "thoughtsTokenCount": 860,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q104",
+  "doc": "post_646",
+  "title": "M4 MaxでAI動画生成！mlx-video × LTX-2 を試してみた【正直レビュー】",
+  "passage": "# 作業ディレクトリを作成 mkdir mlx-video-test && cd mlx-video-test # 仮想環境を作成 python3 -m venv venv source venv/bin/activate # mlx-videoをインストール pip install git+https://github.com/Blaizzy/mlx-video.git 動画生成コマンド # 512x512で生成 python -m mlx_video.generate --prompt \"A golden retriever dog running through a sunny meadow with flowers\" --height 512 --width 512 --num-frames 49 --output-path output.mp4 --verbose # 768x768（高品質）で生成 python -m mlx_video.generate --prompt \"A golden retriever dog running through a sunny meadow with colorful wildflowers, golden hour sunlight, cinematic depth of field, photorealistic, 8K quality\" --height 768 --width 768 --num-frames 97 --output-path output-hq.mp4 --verbose 重要：フレーム数の制約 LTX-2のフレーム数は 「1 + 8k」 （k=1,2,3…）の値でなければならない。つまり、有効な値は 9, 17, 25, 33, 41, 49, 57, 65, 73, 81, 89, 97… となる。無効な値（例：50）を指定すると、自動的に最も近い有効な値（49）に調整される。初回実行時の注意 ：モデルのダウンロード（約273GB、63ファイル）に 約2時間 かかる。",
+  "question": "LTX-2の初回実行時、モデルのダウンロードにはどのくらいの時間がかかりますか？",
+  "answer": "約2時間かかります。",
+  "evidence": "初回実行時の注意 ：モデルのダウンロード（約273GB、63ファイル）に 約2時間 かかる。",
+  "usage": {
+   "promptTokenCount": 567,
+   "candidatesTokenCount": 66,
+   "totalTokenCount": 1248,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 567
+    }
+   ],
+   "thoughtsTokenCount": 615,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q105",
+  "doc": "post_643",
+  "title": "【2026年最新】Remotion × Claude Codeで動画自動生成｜Agent Skills完全ガイド",
+  "passage": "// パーティクル生成 const particles = Array.from({ length: 50 }, (_, i) => ({ id: i, x: Math.random() * 100, y: Math.random() * 100, size: Math.random() * 4 + 2, speed: Math.random() * 0.5 + 0.3, })); // メインタイトルのアニメーション const titleProgress = spring({ frame: frame - 20, fps, config: { damping: 15, stiffness: 100 }, }); const titleScale = interpolate(titleProgress, [0, 1], [0.3, 1]); const titleOpacity = interpolate(titleProgress, [0, 1], [0, 1]); RemotionのAPIを使って、フレーム単位でアニメーションを制御している。Reactを書ける人なら、すぐに理解できるコードだ。7. プロンプトテクニック集 Claude Code × Remotionで効果的な動画を作るためのプロンプト例を紹介する。",
+  "question": "RemotionのAPIを使用すると、アニメーションをどのように制御できますか？",
+  "answer": "フレーム単位で制御できます。",
+  "evidence": "RemotionのAPIを使って、フレーム単位でアニメーションを制御している。",
+  "usage": {
+   "promptTokenCount": 423,
+   "candidatesTokenCount": 50,
+   "totalTokenCount": 1087,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 423
+    }
+   ],
+   "thoughtsTokenCount": 614,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q106",
+  "doc": "post_630",
+  "title": "Claude Code 完全攻略ガイド｜ハッカソン優勝者が明かす本当の使い方",
+  "passage": "' >&2 && exit 2)\" } ] } } GitButlerとの連携例 GitButlerユーザーは、Hooksを使って 完全自動化されたGitワークフロー を実現している： PreToolUse ：コード生成前に but claude pre-tool 実行 PostToolUse ：コード生成後に but claude post-tool 実行 Stop ：セッション終了時に変更を自動コミット・ブランチ更新 これにより、 開発→テスト→コミット→プッシュ の一連の流れが完全自動化される。5. Subagents（サブエージェント）── 並列処理で開発速度を7倍に Subagentsは、Claude Codeの 最も強力な機能 の一つ。タスクを並列実行することで、コンテキストウィンドウの制限を超えた大規模な作業が可能になる。なぜSubagentsが必要なのか？単一のAIエージェントに複雑な作業を依頼すると、 コンテキストウィンドウを使い果たし 、重要な詳細を失い始める。",
+  "question": "Claude CodeのSubagents（サブエージェント）でタスクを並列実行することには、どのようなメリットがありますか？",
+  "answer": "コンテキストウィンドウの制限を超えた大規模な作業が可能になります。",
+  "evidence": "タスクを並列実行することで、コンテキストウィンドウの制限を超えた大規模な作業が可能になる。",
+  "usage": {
+   "promptTokenCount": 400,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1188,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 400
+    }
+   ],
+   "thoughtsTokenCount": 714,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q107",
+  "doc": "post_624",
+  "title": "Google AI Studio 完全ガイド【実践編】｜世界のトップ開発者はこう使っている",
+  "passage": "」「被告に有利な証拠を時系列で整理して」——こうした質問に、AIが全資料を横断して回答する。見落としがなくなる。人間が気づかない関連性を発見することもある。30,000行のコードをまるごと読む 開発者にとって、レガシーコードの解析は悪夢だ。10年前に退職した誰かが書いた、ドキュメントもテストもないコード。",
+  "question": "AIが全資料を横断して質問に回答することにはどのようなメリットがありますか？",
+  "answer": "見落としがなくなることや、人間が気づかない関連性を発見できるメリットがあります。",
+  "evidence": "見落としがなくなる。人間が気づかない関連性を発見することもある。",
+  "usage": {
+   "promptTokenCount": 298,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1166,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 298
+    }
+   ],
+   "thoughtsTokenCount": 801,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q108",
+  "doc": "post_615",
+  "title": "Google AI Studio 完全ガイド【中級編】｜プロンプトエンジニアリングからエージェント構築まで",
+  "passage": "以下の手順で分析を行ってください： 【Step 1: 情報の整理】 与えられた情報を箇条書きで整理する 【Step 2: 前提条件の確認】 計算に必要な前提条件を明確にする 【Step 3: 計算プロセス】 各月の顧客数と収益を順番に計算する 【Step 4: 結果の検証】 計算結果が論理的に正しいか確認する 【Step 5: 結論と洞察】 結果から得られるビジネス上の示唆を述べる 1-4. Tree of Thoughts（ToT）：思考の木 Tree of Thoughts は CoT の発展形で、 複数の思考経路を並行して探索し、最良の解を選択 する技法です。ToT の活用シーン 戦略立案 ：複数のアプローチを比較検討 クリエイティブワーク ：複数のアイデアを生成・評価 リスク分析 ：様々なシナリオを検討 実践例：新規事業の戦略検討 【課題】 飲食店向け予約管理SaaSを展開する企業が、新規事業を検討しています。既存顧客基盤は3,000店舗、月額料金は平均1万円です。以下のフレームワークで分析してください： ## フェーズ1：アイデア生成 3つの異なる新規事業案を提案してください。",
+  "question": "Tree of Thoughts（ToT）とはどのような技法ですか？",
+  "answer": "CoTの発展形で、複数の思考経路を並行して探索し、最良の解を選択する技法です。",
+  "evidence": "Tree of Thoughts は CoT の発展形で、 複数の思考経路を並行して探索し、最良の解を選択 する技法です。",
+  "usage": {
+   "promptTokenCount": 467,
+   "candidatesTokenCount": 84,
+   "totalTokenCount": 1457,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 467
+    }
+   ],
+   "thoughtsTokenCount": 906,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q109",
+  "doc": "post_611",
+  "title": "Google AI Studio完全ガイド【初級編】｜無料でGemini 3 Pro・画像・動画・音楽生成を使いこなす",
+  "passage": "利用可能な5つのAIモデル Google AI Studioでは、以下の5つのモデルにアクセスできます。1. Gemini 3 Pro — 最高性能の推論モデル スペック： 100万トークン対応 / GPQA Diamond 91.9% / LMArena 1501 Elo Gemini 3 Proは、Googleの 最高性能モデル です。通常は月額$19.99（約¥2,900）のAI Proプランでしか使えませんが、 AI Studioなら無料でテスト可能 です。得意なこと： 複雑な論理的推論 長文ドキュメントの分析（最大100万トークン） 高度なコード生成 マルチステップのタスク実行 2. Gemini 3 Flash — 高速・低コストの万能モデル スペック： Proの3倍高速 / GPQA Diamond 90.4% / API: $0.50/1M入力 Gemini 3 Flashは、 Pro級の性能を3倍の速度で提供 するモデルです。日常的なタスクにはFlashで十分。",
+  "question": "Gemini 3 Flashの処理速度は、Gemini 3 Proと比べてどれくらい速いですか？",
+  "answer": "Proの3倍の速度です。",
+  "evidence": "Gemini 3 Flashは、 Pro級の性能を3倍の速度で提供 するモデルです。",
+  "usage": {
+   "promptTokenCount": 432,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1629,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 432
+    }
+   ],
+   "thoughtsTokenCount": 1130,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q110",
+  "doc": "post_603",
+  "title": "ChatGPT vs Claude vs Gemini 徹底比較【2026年最新】｜用途別の最適解を完全解説",
+  "passage": "スクリーンショットを理解してクリック位置を指定 フォーム入力、ボタンクリックを自動実行 RPAのような業務自動化が可能 5. MCP（Model Context Protocol） 外部ツールとの連携を標準化する MCP により、Claudeは様々なシステムと統合できます。データベース、API、ファイルシステムと直接連携 SlackやGitHubとの統合 カスタムツールの追加が容易 Claudeの弱み 画像生成 ：非対応。DALL-Eのような機能はない 動画理解 ：非対応。",
+  "question": "Claudeと外部ツールとの連携を標準化するプロトコルは何ですか？",
+  "answer": "MCP（Model Context Protocol）",
+  "evidence": "外部ツールとの連携を標準化する MCP により、Claudeは様々なシステムと統合できます。",
+  "usage": {
+   "promptTokenCount": 299,
+   "candidatesTokenCount": 56,
+   "totalTokenCount": 1304,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 299
+    }
+   ],
+   "thoughtsTokenCount": 949,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q111",
+  "doc": "post_514",
+  "title": "Claude完全ガイド【2026年最新】｜Claude 4.5・Cowork・Microsoft Copilot統合を徹底解説",
+  "passage": "Coworkでは、 ユーザーが許可したフォルダ内のファイルを直接読み書きできる 。具体例 「ダウンロードフォルダにある請求書PDFを全部読んで、Excelにまとめて」 こんな指示を出すと、Claudeが自律的に計画を立てて、ファイルを開いて、データを抽出して、Excelファイルを作成してくれる。安全性 「AIがファイルを操作するって、危なくないの？」と思うかもしれない。Coworkでは、すべての操作が 仮想マシン（VM）内 で行われる。",
+  "question": "Coworkにおいて、AIによるファイル操作は安全面からどこで実行されますか？",
+  "answer": "仮想マシン（VM）内で行われます。",
+  "evidence": "Coworkでは、すべての操作が 仮想マシン（VM）内 で行われる。",
+  "usage": {
+   "promptTokenCount": 301,
+   "candidatesTokenCount": 59,
+   "totalTokenCount": 933,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 301
+    }
+   ],
+   "thoughtsTokenCount": 573,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q112",
+  "doc": "post_508",
+  "title": "ChatGPT完全ガイド【2026年3月最新】料金・できること・始め方・全機能を徹底解説",
+  "passage": "Free/GoユーザーのThinking機能として提供 全プラン GPT-5.3 Instant 日常チャット 高速応答。ハルシネーション率26.8%削減。日常的な質問・翻訳・要約に最適 全プラン GPT-5.3-Codex コーディング 開発者向け最強コーディングモデル。",
+  "question": "GPT-5.3 Instantのハルシネーション率はどのくらい削減されていますか？",
+  "answer": "26.8%削減されています。",
+  "evidence": "GPT-5.3 Instant 日常チャット 高速応答。ハルシネーション率26.8%削減。",
+  "usage": {
+   "promptTokenCount": 272,
+   "candidatesTokenCount": 68,
+   "totalTokenCount": 1772,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 272
+    }
+   ],
+   "thoughtsTokenCount": 1432,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q113",
+  "doc": "post_505",
+  "title": "2026年1月のGoogle AI進化まとめ｜Gemini 3・Veo 3.1・Nano Banana・Apple提携を徹底解説",
+  "passage": "キャラクター・背景の一貫性向上 同一キャラクターを異なるシーンでも維持できるようになった。複数シーンのストーリー動画も作りやすくなっている。どこで使えるか 一般ユーザー向けには、Geminiアプリ、YouTube Shorts、YouTube Createアプリで利用可能。プロ・企業向けにはFlow、Gemini API、Vertex AI、Google Vidsで提供されている。ちなみに、すべてのAI生成動画にはSynthIDという電子透かしが自動的に付与される。",
+  "question": "AI生成動画にはどのような電子透かしが自動的に付与されますか？",
+  "answer": "SynthIDという電子透かしです。",
+  "evidence": "すべてのAI生成動画にはSynthIDという電子透かしが自動的に付与される。",
+  "usage": {
+   "promptTokenCount": 296,
+   "candidatesTokenCount": 56,
+   "totalTokenCount": 781,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 296
+    }
+   ],
+   "thoughtsTokenCount": 429,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q114",
+  "doc": "post_502",
+  "title": "AIシステム開発に必要なスキル｜TypeScript×Pythonのハイブリッド構成を解説",
+  "passage": "理由2：ReactやNext.jsとの相性 Webアプリのフロントエンドを作るとき、ReactやNext.jsを使うことが多い。これらはTypeScriptとの相性が抜群で、開発効率が上がる。チャットUIみたいなリアルタイム性が求められる画面も、Reactなら比較的簡単に作れる。理由3：チーム開発で助かる 一人で開発するなら好きな言語でいい。でも、チームで開発するなら、型があった方がコードの意図が伝わりやすい。",
+  "question": "チームで開発を行う場合、プログラミング言語に型があるとどのようなメリットがありますか？",
+  "answer": "コードの意図が伝わりやすくなるというメリットがあります。",
+  "evidence": "チームで開発するなら、型があった方がコードの意図が伝わりやすい。",
+  "usage": {
+   "promptTokenCount": 301,
+   "candidatesTokenCount": 63,
+   "totalTokenCount": 1243,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 301
+    }
+   ],
+   "thoughtsTokenCount": 879,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q115",
+  "doc": "post_499",
+  "title": "社会人がAIを学ぶには｜働きながら挫折しない学習法",
+  "passage": "この3回の復習だけで、一度学んだ内容の長期記憶への定着率が飛躍的に向上する。4. 「見る」ではなく「手を動かす」学習にする 米国国立訓練研究所（NTL）が提唱するラーニングピラミッドの概念では、講義を聴くだけの受動的学習と、自ら体験する能動的学習では 記憶定着率に大きな差 がある（ 名古屋商科大学 ）。動画を見るだけの学習で終わらせず、 学んだコードを自分で書き、改変し、エラーを自力で解決する プロセスが不可欠だ。具体的なアクション： 動画講座を見たら、必ずそのコードを自分の環境で実行する。",
+  "question": "動画を見るだけのプログラミング学習で終わらせないためには、どのようなプロセスが不可欠ですか？",
+  "answer": "学んだコードを自分で書き、改変し、エラーを自力で解決するプロセスです。",
+  "evidence": "学んだコードを自分で書き、改変し、エラーを自力で解決する プロセスが不可欠だ。",
+  "usage": {
+   "promptTokenCount": 356,
+   "candidatesTokenCount": 80,
+   "totalTokenCount": 1287,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 356
+    }
+   ],
+   "thoughtsTokenCount": 851,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q116",
+  "doc": "post_498",
+  "title": "AI独学の限界｜3ヶ月で挫折した経験から学んだこと",
+  "passage": "「ModuleNotFoundError」「ValueError」「TypeError」 エラーメッセージをそのままGoogleで検索して、Stack Overflowの回答をコピペする。でも、なぜ動いたのかわからない。「まあいいか、動いたし」と先に進む。また別のエラー。",
+  "question": "プログラムのエラーメッセージをGoogleで検索した際、どのようなウェブサイトの回答をコピペしてしまいがちですか？",
+  "answer": "Stack Overflow",
+  "evidence": "エラーメッセージをそのままGoogleで検索して、Stack Overflowの回答をコピペする。",
+  "usage": {
+   "promptTokenCount": 256,
+   "candidatesTokenCount": 62,
+   "totalTokenCount": 1420,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 256
+    }
+   ],
+   "thoughtsTokenCount": 1102,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q117",
+  "doc": "post_494",
+  "title": "AIスクールの料金を徹底比較【2026年最新】月額1万円以下で学べるスクールはあるのか？",
+  "passage": "スクール名 コース 期間 定価（税込） 給付金後の実質負担 公式サイト スタアカ ライトプラン 月額制 1,280円/月 − 公式 DIVER Learnings ライトプラン 月額制 1,010円/月 − 公式 DIVER Learnings ベーシックコース 月額制 4,980円/月 − 公式 スタアカ プレミアムプラン 買い切り 129,800円 − 公式 DMM 生成AI CAMP 基礎マスターコース 4週間 99,000円 − 公式 テックアカデミー AIコース（4週間） 4週間 174,900円 対象外 公式 テックアカデミー AIコース（16週間） 16週間 339,900円 約101,970円 公式 AIジョブカレ E資格対策パッケージ 6ヶ月 229,900円 約68,970円 公式 キカガク 生成AIビジネス実践 2ヶ月 264,000円 約52,800円 公式 Aidemy Premium AIアプリ開発講座 3ヶ月 528,000円 約158,400円 公式 キカガク AI・DS長期コース 6ヶ月 792,000円 約158,400円 公式 DMM WEBCAMP 専門技術コース 4ヶ月 910,800円 約270,800円 公式 DIVE INTO CODE 機械学習エンジニア 4ヶ月 1,077,800円 約517,800円 公式 ※料金は各スクール公式サイトの2025年2月時点のデータに基づく。キャンペーンや料金改定で変動する場合があるため、最新の料金は各公式サイトで確認してください。給付金後の実質負担は最大活用時の概算であり、個人の条件により異なります。この表を見ると、月額1万円以下のスクールが確かに存在することがわかる。",
+  "question": "Aidemy PremiumのAIアプリ開発講座の定価と、給付金適用後の実質負担額はそれぞれいくらですか？",
+  "answer": "定価は税込528,000円で、給付金適用後の実質負担額は約158,400円です。",
+  "evidence": "Aidemy Premium AIアプリ開発講座 3ヶ月 528,000円 約158,400円 公式",
+  "usage": {
+   "promptTokenCount": 647,
+   "candidatesTokenCount": 105,
+   "totalTokenCount": 1936,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 647
+    }
+   ],
+   "thoughtsTokenCount": 1184,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q118",
+  "doc": "post_491",
+  "title": "経理・会計×AIエージェント｜請求書処理・経費精算・仕訳を自動化する実践ガイド",
+  "passage": "「導入が難しそう」というイメージを持たれがちだが、主要サービスは会計ソフトとのAPI連携がプリセットされており、IT専任担当者がいない中小企業でも最短1〜2週間で本番稼働できる設計になっている。請求書処理の自動化は、 経理業務のAI化において最も費用対効果が高いエントリーポイント の一つといえる。経費精算の自動化──申請者も経理も救うAIエージェント 経費精算は、営業担当・技術者・管理職を問わず全社員が関与する業務であり、件数が多いわりに一件ごとの金額が小さいという特性上、 手作業コストが利益を圧迫しやすい 。従来の精算フローでは、領収書を集めて手入力し、勘定科目を選んで上長に押印を求め、経理担当が目視でチェックして差し戻し、申請者が修正して再承認をもらい、ようやく処理完了——という9ステップが当たり前だった。",
+  "question": "経理業務のAI化を進める際、最も費用対効果が高いエントリーポイントの一つとされる業務は何ですか？",
+  "answer": "請求書処理の自動化",
+  "evidence": "請求書処理の自動化は、 経理業務のAI化において最も費用対効果が高いエントリーポイント の一つといえる。",
+  "usage": {
+   "promptTokenCount": 416,
+   "candidatesTokenCount": 72,
+   "totalTokenCount": 2394,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 416
+    }
+   ],
+   "thoughtsTokenCount": 1906,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q119",
+  "doc": "post_489",
+  "title": "マーケティング×AIエージェント｜業務自動化で成果を最大化する実践ガイド",
+  "passage": "例えば「今月のメールキャンペーンのCVRを20%改善する」という目標を設定すると、AIエージェントは過去のキャンペーンデータを分析し、最も効果的なセグメント・件名パターン・送信タイミングを特定します。A/Bテストを自動設計・実行し、途中結果に基づいてリアルタイムで配信戦略を調整します。このサイクルを人間の介入なしに回し続けることができるのが、AIエージェントの本質的な価値です。",
+  "question": "マーケティング等においてAIエージェントが持つ本質的な価値は何ですか？",
+  "answer": "データ分析からテストの実行、戦略調整といったサイクルを、人間の介入なしに回し続けられることです。",
+  "evidence": "このサイクルを人間の介入なしに回し続けることができるのが、AIエージェントの本質的な価値です。",
+  "usage": {
+   "promptTokenCount": 299,
+   "candidatesTokenCount": 77,
+   "totalTokenCount": 1016,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 299
+    }
+   ],
+   "thoughtsTokenCount": 640,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q120",
+  "doc": "post_487",
+  "title": "カスタマーサポート×AIエージェント｜問い合わせ対応から分析まで顧客対応を革新する自動化術",
+  "passage": "人間が最終判断を行う点は変わらないため、ミスのリスクが低く、オペレーターもAIへの信頼を段階的に構築できます。コパイロットで蓄積された対話データは、後に自律型AIエージェントの学習データとして活用できるため、将来の完全自動化への布石にもなります。3. 音声AIエージェント テキストチャットに続き、音声での双方向会話が可能なAIエージェントが急速に普及しています。リアルタイム翻訳機能を組み合わせることで、日本語で問い合わせた内容を英語圏のナレッジベースから即座に検索し、日本語で回答するといった多言語音声対応も実現しています。コールセンターの「つながらない」問題を根本から解消する技術として注目されています。",
+  "question": "コパイロットで蓄積された対話データは、将来的にどのように活用できますか？",
+  "answer": "自律型AIエージェントの学習データとして活用できます。",
+  "evidence": "コパイロットで蓄積された対話データは、後に自律型AIエージェントの学習データとして活用できるため、将来の完全自動化への布石にもなります。",
+  "usage": {
+   "promptTokenCount": 362,
+   "candidatesTokenCount": 86,
+   "totalTokenCount": 1323,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 362
+    }
+   ],
+   "thoughtsTokenCount": 875,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q121",
+  "doc": "post_485",
+  "title": "営業×AIエージェント｜商談準備からフォローアップまで営業活動を革新する自動化術",
+  "passage": "各フェーズにどれだけの時間を使っているか、ボトルネックはどこか、KPIの現状値を定量的に把握する。「なんとなくAIを入れたい」ではなく、「CRM入力に週8時間かかっている、これを2時間に減らしたい」という具体的な目標を設定することが重要だ。具体的には、営業メンバーに1週間のタイムトラッキングを依頼する。商談、準備、CRM入力、メール対応、社内会議、報告書作成——各カテゴリにどれだけ時間を使っているかを記録してもらう。",
+  "question": "営業活動の各フェーズで使っている時間を定量的に把握するには、具体的にどうすればよいですか？",
+  "answer": "営業メンバーに1週間のタイムトラッキングを依頼します。",
+  "evidence": "具体的には、営業メンバーに1週間のタイムトラッキングを依頼する。",
+  "usage": {
+   "promptTokenCount": 311,
+   "candidatesTokenCount": 65,
+   "totalTokenCount": 1300,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 311
+    }
+   ],
+   "thoughtsTokenCount": 924,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q122",
+  "doc": "post_483",
+  "title": "金融×RAG｜コンプライアンスからリスク管理まで金融業務を革新するAI活用術",
+  "passage": "金融RAGアーキテクチャ図 法令データベースから検索、生成AIによる回答生成、出典付き回答までの処理フローを示す図 金融RAG アーキテクチャ 担当者の質問 ① 質問の意味解析・意図理解 法令DB 金商法・銀行法等 ガイドラインDB 監督指針・通達 社内規程DB マニュアル・手順書 判断事例DB 過去の判例・事例 Q&A DB ② ベクトル検索＋BM25 検索（Retrieval） ③ 出典付き回答の生成（Generation） 金融特化RAGの優位性 金融業界でRAGが特に有効なのは、以下の理由による。出典の明示： 回答の根拠となった法令の条項やガイドラインの章立てが明示される。これは監査対応・検査対応において極めて重要だ。「金融商品取引法第37条の3に基づき……」「監督指針III-2-3-1に記載の通り……」といった具体的な根拠が回答に含まれるため、そのまま証跡として記録できる。",
+  "question": "金融業界でRAGを活用する際に出典の明示が極めて重要とされる理由は何ですか？",
+  "answer": "回答の根拠となる法令の条項やガイドラインが明示され、監査対応や検査対応の証跡として記録できるためです。",
+  "evidence": "回答の根拠となった法令の条項やガイドラインの章立てが明示される。これは監査対応・検査対応において極めて重要だ。",
+  "usage": {
+   "promptTokenCount": 432,
+   "candidatesTokenCount": 99,
+   "totalTokenCount": 1467,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 432
+    }
+   ],
+   "thoughtsTokenCount": 936,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q123",
+  "doc": "post_481",
+  "title": "製造業×RAG｜マニュアル検索から技術伝承まで製造現場を革新するAI活用術",
+  "passage": "」 自然言語で質問すれば、数万ページのドキュメントの中から、該当箇所をピンポイントで探し出し、回答を生成する。しかも、回答には「出典」が明示される。「この情報は、〇〇設備の保守マニュアル Rev.3、第5章3節に記載されています」——必要に応じて原典を確認できる。新人でも、ベテランと同等の速度で情報にアクセスできるようになる。",
+  "question": "自然言語でドキュメントを検索・回答生成できる仕組みを使うと、新人にはどのようなメリットがありますか？",
+  "answer": "ベテランと同等の速度で情報にアクセスできるようになります。",
+  "evidence": "新人でも、ベテランと同等の速度で情報にアクセスできるようになる。",
+  "usage": {
+   "promptTokenCount": 290,
+   "candidatesTokenCount": 66,
+   "totalTokenCount": 1019,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 290
+    }
+   ],
+   "thoughtsTokenCount": 663,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q124",
+  "doc": "post_478",
+  "title": "人材・採用×RAG｜履歴書スクリーニングからマッチングまで採用業務を革新するAI活用術",
+  "passage": "「Java」「5年以上」と入力すれば、その文字列を含む候補者がリストアップされる。シンプルで高速だが、致命的な弱点がある。「Javaに近い言語の経験者」はヒットしない。",
+  "question": "「Java」「5年以上」といった文字列で候補者をリストアップする検索方法には、どのような弱点がありますか？",
+  "answer": "「Javaに近い言語の経験者」が検索結果にヒットしないことです。",
+  "evidence": "シンプルで高速だが、致命的な弱点がある。「Javaに近い言語の経験者」はヒットしない。",
+  "usage": {
+   "promptTokenCount": 244,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 1048,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 244
+    }
+   ],
+   "thoughtsTokenCount": 728,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q125",
+  "doc": "post_476",
+  "title": "不動産×RAG｜物件検索から契約書レビューまで不動産業務を革新するAI活用術",
+  "passage": "不動産業界が直面する4つの構造的課題 RAGの具体的な活用法を見る前に、まず不動産業界が長年抱えてきた構造的な課題を理解しておこう。これらの課題を正確に把握することで、なぜRAGが不動産業界にとって”切り札”となり得るのかが明確になる。不動産業界の4つの構造的課題 物件情報の分散、営業ノウハウの属人化、書類業務の膨大さ、DX推進の遅れという4つの課題を示すインフォグラフィック 不動産業界の4つの構造的課題 1. 物件情報の分散と検索の限界 ポータルサイト、自社DB、紙資料… 情報が複数システムに分散し、 横断的な検索ができない。",
+  "question": "不動産業界が長年抱えている4つの構造的課題にはどのようなものがありますか？",
+  "answer": "物件情報の分散、営業ノウハウの属人化、書類業務の膨大さ、DX推進の遅れの4つです。",
+  "evidence": "物件情報の分散、営業ノウハウの属人化、書類業務の膨大さ、DX推進の遅れ",
+  "usage": {
+   "promptTokenCount": 360,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 1060,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 360
+    }
+   ],
+   "thoughtsTokenCount": 613,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q126",
+  "doc": "post_474",
+  "title": "動画制作×AIエージェント｜競合分析からネタ出しまで自動化する方法",
+  "passage": "手動で1本分析するのに30〜60分かかる作業が、5分で終わる。来週もう1本分析する。3〜4本たまった時点で「これらの分析結果の共通パターンを抽出して」と頼めば、ジャンルの「勝ちパターン」が見えてくる。",
+  "question": "分析結果が何本ほどたまった時点で共通パターンの抽出を頼めば、ジャンルの「勝ちパターン」が見えてきますか？",
+  "answer": "3〜4本たまった時点です。",
+  "evidence": "3〜4本たまった時点で「これらの分析結果の共通パターンを抽出して」と頼めば、ジャンルの「勝ちパターン」が見えてくる。",
+  "usage": {
+   "promptTokenCount": 268,
+   "candidatesTokenCount": 86,
+   "totalTokenCount": 1036,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 268
+    }
+   ],
+   "thoughtsTokenCount": 682,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q127",
+  "doc": "post_472",
+  "title": "EC×RAG｜AIが接客するオンラインショップの作り方",
+  "passage": "これは 700人のフルタイムスタッフに相当 する業務量だ。問い合わせ解決時間は平均11分から 2分以下 に短縮された。H&M （スウェーデン・アパレル） ——AIスタイリストチャットボットの導入で CVRが3倍 に。顧客の好みをヒアリングし、パーソナライズされたスタイリングを提案する仕組みが奏功した。Amazon ——AIレコメンデーションエンジンが 総売上の35% を生み出している。",
+  "question": "Amazonにおいて、AIレコメンデーションエンジンは総売上のどれくらいの割合を生み出していますか？",
+  "answer": "35%を生み出しています。",
+  "evidence": "Amazon ——AIレコメンデーションエンジンが 総売上の35% を生み出している。",
+  "usage": {
+   "promptTokenCount": 313,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1166,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 313
+    }
+   ],
+   "thoughtsTokenCount": 786,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q128",
+  "doc": "post_467",
+  "title": "法律×RAG｜判例検索から契約レビューまで弁護士業務を革新するAI活用術",
+  "passage": "①対応法域 ——日本法のみか、英米法もカバーする必要があるか。渉外案件が多い事務所はマルチ法域対応のツールが必要になる。②セキュリティ基準 ——クライアントの機密情報を扱うため、データの保存場所（国内サーバーか否か）、テナント分離、入力データのAI学習への非利用、ISO27001やSOC2などの認証取得状況を厳密にチェックすべきだ。③既存システムとの連携 ——案件管理システム、文書管理システム、メールとの連携がスムーズにできるか。",
+  "question": "渉外案件が多い事務所では、どのような法域に対応したツールが必要になりますか？",
+  "answer": "マルチ法域対応のツールが必要です。",
+  "evidence": "渉外案件が多い事務所はマルチ法域対応のツールが必要になる。",
+  "usage": {
+   "promptTokenCount": 316,
+   "candidatesTokenCount": 54,
+   "totalTokenCount": 1519,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 316
+    }
+   ],
+   "thoughtsTokenCount": 1149,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q129",
+  "doc": "post_456",
+  "title": "病院×RAG｜医療AIの最前線と実践的な活用アプローチ",
+  "passage": "RAGを活用すれば、電子カルテの記録や検査結果を自動で参照し、文書の下書きを生成できる。具体的なワークフローとしては、医師が「退院サマリーを作成」と指示すると、RAGが当該患者の入院期間中の診療記録（日々の経過記録、検査値の推移、処方変更の履歴、看護記録のサマリー）を検索・取得し、退院サマリーの各セクション（入院目的、入院後経過、退院時処方、退院後方針）に沿った文書を自動生成する。医師は生成された下書きを確認し、必要に応じて修正するだけでよい。NECと東北大学病院の実証実験では、退院サマリーの作成時間が 47%削減 されたと報告されている。",
+  "question": "NECと東北大学病院の実証実験では、退院サマリーの作成時間はどれくらい削減されましたか？",
+  "answer": "47%削減されました。",
+  "evidence": "NECと東北大学病院の実証実験では、退院サマリーの作成時間が 47%削減 されたと報告されている。",
+  "usage": {
+   "promptTokenCount": 372,
+   "candidatesTokenCount": 73,
+   "totalTokenCount": 1017,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 372
+    }
+   ],
+   "thoughtsTokenCount": 572,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q130",
+  "doc": "post_453",
+  "title": "2026年AIエージェント最前線｜OpenAI・Anthropic・DeepMind最新研究の技術的考察",
+  "passage": "MCP（Model Context Protocol） は2024年11月に Anthropicが発表 したオープンプロトコルだ。LLMと外部データソース・ツールを接続する「USBポート」のような役割を果たす。2025年3月にOpenAIがMCPサポートを表明したことで業界標準としての地位が確立。11月に 仕様が大幅更新 され、12月には Linux Foundationに寄贈 されて中立的なガバナンスに移行した。A2A（Agent-to-Agent Protocol） は2025年4月に Googleが50以上のパートナー企業と発表 。",
+  "question": "MCP（Model Context Protocol）はどのような役割を果たすプロトコルですか？",
+  "answer": "LLMと外部データソースやツールを接続する役割を果たします。",
+  "evidence": "LLMと外部データソース・ツールを接続する「USBポート」のような役割を果たす。",
+  "usage": {
+   "promptTokenCount": 334,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1244,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 334
+    }
+   ],
+   "thoughtsTokenCount": 843,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q131",
+  "doc": "post_448",
+  "title": "AIエージェント×Slack/Teams連携｜業務効率を劇的に上げる実践ガイド【2026年版】",
+  "passage": "Slackの場合 ― 標準機能だけで始める ステップ1 : 重要なチャンネル（5〜10個に絞る）を開き、それぞれで画面上部の「要約を取得」ボタンをクリック。Slack AIが未読メッセージのポイントを箇条書きで表示します。ステップ2 : AI検索バーに「@自分の名前 が含まれる未返信メッセージ」と入力。自分宛のメンションで返信していないものが一覧表示されます。",
+  "question": "Slackで自分宛ての未返信メッセージを一覧表示するには、AI検索バーにどのように入力すればよいですか？",
+  "answer": "「@自分の名前 が含まれる未返信メッセージ」と入力します。",
+  "evidence": "AI検索バーに「@自分の名前 が含まれる未返信メッセージ」と入力。自分宛のメンションで返信していないものが一覧表示されます。",
+  "usage": {
+   "promptTokenCount": 295,
+   "candidatesTokenCount": 87,
+   "totalTokenCount": 1215,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 295
+    }
+   ],
+   "thoughtsTokenCount": 833,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q132",
+  "doc": "post_445",
+  "title": "Claude MCP入門｜Model Context Protocolの仕組み・活用事例・導入方法を徹底解説",
+  "passage": "どれだけ賢いAIでも、社内データにアクセスできなければ、業務では使い物になりません。逆に、少し性能が劣っていても、必要なツールと連携できるAIのほうが実務では役立つ。Anthropicは「AIが実際に仕事で使われる世界」を作りたかった。そのためには、自社だけでなく業界全体でツール連携を標準化する必要があったのです。",
+  "question": "Anthropicが業界全体でツール連携の標準化を目指したのはなぜですか？",
+  "answer": "「AIが実際に仕事で使われる世界」を作るためです。",
+  "evidence": "Anthropicは「AIが実際に仕事で使われる世界」を作りたかった。そのためには、自社だけでなく業界全体でツール連携を標準化する必要があったのです。",
+  "usage": {
+   "promptTokenCount": 283,
+   "candidatesTokenCount": 79,
+   "totalTokenCount": 795,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 283
+    }
+   ],
+   "thoughtsTokenCount": 433,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q133",
+  "doc": "post_439",
+  "title": "子供のAI教育は何歳から？3歳から始める新時代の学び方｜YUA子供コース",
+  "passage": "脳科学者の茂木健一郎氏によると、脳の80%は5歳頃までに基礎が完成すると言われています。特に「数をかぞえる」「カテゴリ分けする」「同じものを探す」といった論理的思考の土台は、3歳から養うことが重要だそうです。もちろん、3歳児にいきなりコードを書かせるわけではありません。",
+  "question": "脳科学者の茂木健一郎氏によると、脳の基礎の80%は何歳頃までに完成すると言われていますか？",
+  "answer": "5歳頃までです。",
+  "evidence": "脳科学者の茂木健一郎氏によると、脳の80%は5歳頃までに基礎が完成すると言われています。",
+  "usage": {
+   "promptTokenCount": 281,
+   "candidatesTokenCount": 74,
+   "totalTokenCount": 1113,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 281
+    }
+   ],
+   "thoughtsTokenCount": 758,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q134",
+  "doc": "post_358",
+  "title": "Ollamaエージェント対応モデル完全ガイド｜Nemotron・GPT-OSS・Devstralで低コストAIエージェント構築",
+  "passage": "これにより、業務自動化やソフトウェア開発の自動化が実現します。Ollamaで使えるエージェント対応モデルの進化 2025年現在、Ollamaのモデルライブラリには 100以上のモデル が登録されており、その多くがエージェント機能を備えています。特に注目すべきは、 NVIDIA Nemotron 、 OpenAI GPT-OSS 、 Mistral Devstral など、エージェント用途に特化した最新モデルです。",
+  "question": "2025年現在、Ollamaのモデルライブラリにはエージェント機能を備えたモデルがどれくらい登録されていますか？",
+  "answer": "100以上のモデルが登録されており、その多くがエージェント機能を備えています。",
+  "evidence": "2025年現在、Ollamaのモデルライブラリには 100以上のモデル が登録されており、その多くがエージェント機能を備えています。",
+  "usage": {
+   "promptTokenCount": 297,
+   "candidatesTokenCount": 106,
+   "totalTokenCount": 2911,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 297
+    }
+   ],
+   "thoughtsTokenCount": 2508,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q135",
+  "doc": "post_352",
+  "title": "AIエージェント開発フレームワーク徹底比較｜LangChain・CrewAI・AutoGen・LlamaIndexの選び方",
+  "passage": "0.2から0.4への完全リアーキテクチャ AutoGen 0.2は 会話駆動型 （ConversableAgent）アーキテクチャだった。エージェント同士が「会話」することでタスクを遂行する設計だ。しかし0.4では、設計思想が根本から変わった。AutoGen 0.4 は イベント駆動型アーキテクチャ を採用し、非同期メッセージング、プラグイン可能なランタイム、型安全なメッセージパッシングを実現した。0.2と0.4のAPIは 完全に非互換 であり、既存プロジェクトの移行には相当の工数が必要だ。",
+  "question": "AutoGen 0.4ではどのようなアーキテクチャが採用されていますか？",
+  "answer": "イベント駆動型アーキテクチャが採用されています。",
+  "evidence": "AutoGen 0.4 は イベント駆動型アーキテクチャ を採用し、非同期メッセージング、プラグイン可能なランタイム、型安全なメッセージパッシングを実現した。",
+  "usage": {
+   "promptTokenCount": 338,
+   "candidatesTokenCount": 78,
+   "totalTokenCount": 1095,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 338
+    }
+   ],
+   "thoughtsTokenCount": 679,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q136",
+  "doc": "post_350",
+  "title": "AIエージェント導入で失敗する5つの原因｜95%が成果を出せない理由と対策",
+  "passage": "そしてすべてが 金額換算可能 です。「CS人件費を年間1,800万円削減」と言えれば、AIエージェントへの初期投資500万円の妥当性をCFOは5秒で判断できます。なぜ目標が曖昧になるのか — 構造的な原因 目標が曖昧になる根本原因は「AIエージェントを導入したい」という要望が、多くの場合 経営層の号令 か 競合への焦り から生まれることにあります。業務課題を持つ現場ではなく、技術トレンドを追う経営層やIT部門が起点になるため、「何を解決するか」より「何を導入するか」が先に決まってしまうのです。",
+  "question": "AIエージェントの導入において目標が曖昧になってしまう根本的な原因は何ですか？",
+  "answer": "導入の要望が、業務課題を持つ現場からではなく、経営層の号令や競合への焦りから生まれることが根本的な原因です。",
+  "evidence": "目標が曖昧になる根本原因は「AIエージェントを導入したい」という要望が、多くの場合 経営層の号令 か 競合への焦り から生まれることにあります。",
+  "usage": {
+   "promptTokenCount": 348,
+   "candidatesTokenCount": 107,
+   "totalTokenCount": 1461,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 348
+    }
+   ],
+   "thoughtsTokenCount": 1006,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q137",
+  "doc": "post_347",
+  "title": "AIエージェント vs RPA徹底比較｜違い・使い分け・導入判断のポイントを解説",
+  "passage": "しかし、現時点ではComputer Use技術には課題もあります。処理速度が従来のRPAより遅い、操作の確実性がまだ100%でない、APIコストが高いなどです。そのため、2026年時点では「既存RPAの補完」として位置づけるのが現実的です。RPAが対応しにくかったレガシーシステム（APIなし、古いUI）への接続に、Computer Useが威力を発揮します。",
+  "question": "Computer Use技術は、どのようなシステムへの接続で威力を発揮しますか？",
+  "answer": "RPAでは対応が難しかった、APIがなく古いUIを持つレガシーシステムへの接続です。",
+  "evidence": "RPAが対応しにくかったレガシーシステム（APIなし、古いUI）への接続に、Computer Useが威力を発揮します。",
+  "usage": {
+   "promptTokenCount": 300,
+   "candidatesTokenCount": 83,
+   "totalTokenCount": 1028,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 300
+    }
+   ],
+   "thoughtsTokenCount": 645,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q138",
+  "doc": "post_344",
+  "title": "生成AI社内研修完全ガイド｜費用相場・成功事例・助成金活用法を徹底解説",
+  "passage": "EYの2025年大規模調査（29カ国・従業員15,000名対象）では、AI研修に年間81時間以上参加した従業員は 週平均14時間分の生産性向上 を報告しています（出典： EY Japan 2025年12月 ）。一方で、生産性向上効果を引き出すための十分なAI研修を受けている従業員は わずか12% に留まっており、研修の量と質の不足が世界的な課題になっています。政府もAI人材育成を最優先課題に 2025年12月に閣議決定された日本初の「 人工知能基本計画 」では、AI人材育成とリスキリング支援が4本柱の1つに位置づけられました。政府は2026年度末までに 230万人 のデジタル推進人材育成を目標に掲げ、AIに関する 1兆円規模の投資計画 も打ち出しています（出典： 日本経済新聞 ）。また経済産業省の試算では、IT人材の不足数は2030年に 最大約79万人 に達する見込みです（出典： 経済産業省 ）。",
+  "question": "経済産業省の試算によると、2030年に日本のIT人材の不足数は最大でどれくらいに達すると見込まれていますか？",
+  "answer": "最大約79万人",
+  "evidence": "経済産業省の試算では、IT人材の不足数は2030年に 最大約79万人 に達する見込みです",
+  "usage": {
+   "promptTokenCount": 455,
+   "candidatesTokenCount": 80,
+   "totalTokenCount": 1403,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 455
+    }
+   ],
+   "thoughtsTokenCount": 868,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q139",
+  "doc": "post_342",
+  "title": "Claude API企業導入完全ガイド【2026年最新】｜料金・Team/Enterpriseプラン・導入ステップを徹底解説",
+  "passage": "RAGシステムでの活用でも、より多くのコンテキストを一度に渡せるため、回答精度が向上します。強み2：企業向けセキュリティ設計 Anthropicは「AI安全性」を最重視して設計されており、企業利用に適したセキュリティ機能を備えています。入力データの学習利用なし ：APIに送信したデータはモデル学習に使用されません SOC 2 Type II認証取得 ：セキュリティ管理体制の第三者認証 データ保持期間の管理 ：リクエストログの保持期間を制御可能 SSO/SAML対応 ：Enterpriseプランで利用可能 強み3：ハルシネーション抑制設計 Claudeは「知らないことは知らないと言う」設計思想で開発されており、他のLLMと比較してハルシネーション（誤情報生成）が少ないことで知られています。金融、医療、法務など、 正確性が求められる業界 での採用が進んでいる理由です。",
+  "question": "Claudeはどのような設計思想に基づいて開発されていますか？",
+  "answer": "「知らないことは知らないと言う」設計思想に基づいて開発されています。",
+  "evidence": "Claudeは「知らないことは知らないと言う」設計思想で開発されており、他のLLMと比較してハルシネーション（誤情報生成）が少ないことで知られています。",
+  "usage": {
+   "promptTokenCount": 384,
+   "candidatesTokenCount": 79,
+   "totalTokenCount": 3086,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 384
+    }
+   ],
+   "thoughtsTokenCount": 2623,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q140",
+  "doc": "post_340",
+  "title": "AIエージェントとは？仕組み・活用事例・導入費用を徹底解説【2026年最新】",
+  "passage": "トレンド 概要 主要プレイヤー インパクト MCP標準化 AI↔ツール接続のオープン標準 Anthropic → AAIF ツール連携コスト激減 A2Aプロトコル エージェント間通信標準 Google主導、50社以上参画 マルチベンダー協調が可能に Computer Use AIがGUIを直接操作 Anthropic、OpenAI API不要のレガシー連携 コーディングエージェント 自律的にコードを書くAI Claude Code、Codex、Devin 開発生産性が飛躍的に向上 マルチエージェント 複数エージェントが協調 Anthropic、Microsoft、Google 複雑タスクの分業処理 推論モデル進化 思考過程を持つ高精度モデル Claude Opus 4.5、GPT-5、o3 エージェントの判断精度向上 MCP/A2Aの標準化が意味すること MCPがAIとツールの接続を標準化したのに対し、 A2A（Agent-to-Agent）プロトコル はエージェント同士の通信を標準化しました。Google主導で50社以上が参画するこの規格により、異なるベンダーが構築したエージェントが相互に連携できるようになります。たとえば、営業部門のSalesforceエージェントが受注を確定すると、A2Aプロトコルを介して経理部門のSAPエージェントに自動通知が送られ、請求書が発行される——こうした 部門横断のワークフロー自動化 が現実化しつつあります。MCPが「AIとツールのUSB」なら、A2Aは「AIとAIのインターネット」と考えるとわかりやすいでしょう。Computer Useの実用化 OpenAIのComputer-Using Agent（CUA） やAnthropicのComputer Useにより、AIエージェントは画面を「見て」マウスやキーボードを操作できるようになりました。",
+  "question": "A2Aプロトコルの標準化によって、異なるエージェント間でどのようなことが可能になりますか？",
+  "answer": "異なるベンダーが構築したエージェント同士が相互に連携できるようになります。",
+  "evidence": "異なるベンダーが構築したエージェントが相互に連携できるようになります。",
+  "usage": {
+   "promptTokenCount": 579,
+   "candidatesTokenCount": 69,
+   "totalTokenCount": 1609,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 579
+    }
+   ],
+   "thoughtsTokenCount": 961,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q141",
+  "doc": "post_338",
+  "title": "RAG vs ファインチューニング徹底比較｜どちらを選ぶべき？違い・コスト・使い分けを解説",
+  "passage": "2. 社内ドキュメントをAIで検索・活用したい 社内に蓄積されたナレッジを活用する用途は、RAGの最も典型的なユースケースです。社内マニュアル・FAQ・議事録の横断検索 過去の提案書・報告書からの事例検索 技術ドキュメントからのトラブルシューティング 具体例 ：ある製造業では、10万ページ超の技術マニュアルをベクトルDB化し、サポートチームの回答時間を従来の平均15分から2分に短縮した事例があります。ファインチューニングではこの規模の文書を全て学習させるのは非現実的ですが、RAGなら文書を追加するだけで検索対象を拡大できます。3. 回答の根拠・出典を明示する必要がある 「この回答はどの情報に基づいているのか」を示す必要がある場合、RAGは不可欠です。コンプライアンス・監査対応で回答根拠の記録が求められる ハルシネーション（事実と異なる生成）を最小化したい ユーザーが情報の正確性を自分で確認できる仕組みが必要 RAGでは検索結果のソース文書を回答に紐付けられるため、「この回答は社内規定第5章に基づいています」といった引用が可能です。",
+  "question": "製造業において10万ページ超の技術マニュアルをベクトルDB化した事例では、サポートチームの回答時間はどのくらい短縮されましたか？",
+  "answer": "従来の平均15分から2分に短縮されました。",
+  "evidence": "ある製造業では、10万ページ超の技術マニュアルをベクトルDB化し、サポートチームの回答時間を従来の平均15分から2分に短縮した事例があります。",
+  "usage": {
+   "promptTokenCount": 459,
+   "candidatesTokenCount": 98,
+   "totalTokenCount": 1352,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 459
+    }
+   ],
+   "thoughtsTokenCount": 795,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q142",
+  "doc": "post_334",
+  "title": "RAGとは？仕組み・メリット・導入判断を徹底解説【2026年最新】",
+  "passage": "RAGとチャットボットの違い RAGは 従来型チャットボット と根本的に異なります。ルールベースのチャットボットはあらかじめ用意されたシナリオに沿って応答するだけで、想定外の質問には対応できません。一方、 LLM（大規模言語モデル） ベースのチャットボットは柔軟な応答が可能ですが、学習データに含まれない情報は回答できず、誤った情報を自信満々に語る「ハルシネーション」のリスクがあります。RAGはこの両者の弱点を補い、社内データや最新情報を根拠とした正確かつ柔軟な応答を実現します。",
+  "question": "LLM（大規模言語モデル）ベースのチャットボットにはどのようなリスクや弱点がありますか？",
+  "answer": "学習データに含まれない情報は回答できず、誤った情報を自信満々に語る「ハルシネーション」のリスクがあります。",
+  "evidence": "学習データに含まれない情報は回答できず、誤った情報を自信満々に語る「ハルシネーション」のリスクがあります。",
+  "usage": {
+   "promptTokenCount": 332,
+   "candidatesTokenCount": 92,
+   "totalTokenCount": 1119,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 332
+    }
+   ],
+   "thoughtsTokenCount": 695,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q143",
+  "doc": "post_332",
+  "title": "RAG導入で失敗する原因と対策【2026年最新】｜Gartner調査から学ぶ成功フレームワーク",
+  "passage": "この攻撃は、RAGの検索対象データベースに悪意のあるテキストを少量混入させるだけで、LLMの出力を攻撃者の意図した方向に誘導できることを意味します。具体的には以下のようなリスクがあります。間接プロンプトインジェクション ：検索対象文書に「以下の指示に従ってください」といったLLMへの指示を埋め込み、システムの動作を改変する データ汚染によるハルシネーション誘発 ：正確に見える偽情報を混入し、LLMがそれを「取得した事実」として回答に利用するよう仕向ける 情報漏洩の誘発 ：プロンプトに含まれるシステム指示やAPI鍵を出力させる攻撃 これらのリスクは、 RAGとファインチューニングの使い分けガイド で解説しているように、RAGがリアルタイムで外部データを取得するアーキテクチャに起因する構造的な脆弱性です。ファインチューニングでは学習データが固定されるため、このような動的攻撃のリスクは低くなります。プロンプトテンプレート設計原則 RAGシステムのプロンプト設計において、以下の原則を守ることで回答品質とセキュリティの両方を向上させることができます。",
+  "question": "RAGシステムにおいて間接プロンプトインジェクションなどのリスクが生じる根本的な原因は何ですか？",
+  "answer": "RAGがリアルタイムで外部データを取得するアーキテクチャに起因する構造的な脆弱性によるものです。",
+  "evidence": "RAGがリアルタイムで外部データを取得するアーキテクチャに起因する構造的な脆弱性です。",
+  "usage": {
+   "promptTokenCount": 440,
+   "candidatesTokenCount": 85,
+   "totalTokenCount": 1239,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 440
+    }
+   ],
+   "thoughtsTokenCount": 714,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q144",
+  "doc": "post_329",
+  "title": "AI副業で月5万円稼ぐ方法｜初心者向けロードマップ・おすすめ案件・注意点を徹底解説",
+  "passage": "AI副業で最も案件が多く（全体の35.4%）、参入しやすいジャンルです。ただし AIの出力をそのまま納品するのは厳禁 。ファクトチェック・構成の見直し・オリジナルの知見を加える編集力が差別化のポイントになります。案件の探し方： クラウドワークス ・ ランサーズ で「AI ライティング」「ChatGPT 記事」で検索。",
+  "question": "AIを活用したライティング副業で差別化を図るには、どのようなポイントが重要ですか？",
+  "answer": "ファクトチェックや構成の見直しを行い、独自の知見を加える編集力を持つことです。",
+  "evidence": "ファクトチェック・構成の見直し・オリジナルの知見を加える編集力が差別化のポイントになります。",
+  "usage": {
+   "promptTokenCount": 286,
+   "candidatesTokenCount": 76,
+   "totalTokenCount": 827,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 286
+    }
+   ],
+   "thoughtsTokenCount": 465,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q145",
+  "doc": "post_328",
+  "title": "【完全ロードマップ】未経験からAIエンジニアに転職する方法｜必要スキル・年収・成功事例",
+  "passage": "年齢について ：20代が最も有利ですが、30代・40代でも業界知識やマネジメント経験を武器にすれば可能性は十分あります。特にAI分野は年齢よりもスキルと実績が重視される傾向にあります。必要な5つのスキルと学習順序 以下の順番で段階的に習得するのが最も効率的です。",
+  "question": "AI分野では、年齢よりも何が重視される傾向にありますか？",
+  "answer": "スキルと実績が重視されます。",
+  "evidence": "特にAI分野は年齢よりもスキルと実績が重視される傾向にあります。",
+  "usage": {
+   "promptTokenCount": 276,
+   "candidatesTokenCount": 52,
+   "totalTokenCount": 764,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 276
+    }
+   ],
+   "thoughtsTokenCount": 436,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q146",
+  "doc": "post_326",
+  "title": "品川で学べるAIスクール完全ガイド【2026年最新】｜通学型・オンライン・学習環境まで徹底解説",
+  "passage": "みんスク大崎校（品川区・完全無料） 転職エージェントのワークポートが運営する 完全無料 のプログラミングスクールです。品川区東五反田2丁目に教室があり、JR大崎駅から徒歩4分、五反田駅から徒歩8分。最大96名収容の大教室で、主にPHPを1ヶ月で学ぶカリキュラムです。AI特化ではありませんが、プログラミングの基礎固めとして活用でき、受講後はワークポートの転職支援を受けることができます。対象 ：転職希望者（20代中心） 料金 ：完全無料 AI対応 ：なし（PHP中心、プログラミング基礎） 最寄駅 ：大崎駅徒歩4分 / 五反田駅徒歩8分 公式サイト： みんスク キュリオステーション武蔵小山店（品川区・AI基礎コースあり） 品川区小山にある開校22年以上の実績を持つパソコン教室です。",
+  "question": "みんスク大崎校はどこの会社が運営していますか？",
+  "answer": "転職エージェントのワークポートが運営しています。",
+  "evidence": "転職エージェントのワークポートが運営する 完全無料 のプログラミングスクールです。",
+  "usage": {
+   "promptTokenCount": 408,
+   "candidatesTokenCount": 60,
+   "totalTokenCount": 1322,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 408
+    }
+   ],
+   "thoughtsTokenCount": 854,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q147",
+  "doc": "post_323",
+  "title": "AIスクール選びで失敗しない7つのポイント【2026年最新】｜チェックリスト・失敗パターンを徹底解説",
+  "passage": "受講生アンケートに基づくスクール選びの決め手や満足度の調査データも参考になります X（旧Twitter）で検索する ：「スクール名」で検索し、受講中・卒業後の生の声を確認します。「スクール名 + 後悔」「スクール名 + 辞めた」などのネガティブワードでも検索してみましょう Googleマップの口コミを確認する ：通学型のスクールであれば、Googleマップに口コミが投稿されていることがあります Yahoo!知恵袋やredditで検索する ：匿名性の高い場での評判も参考になります。ただし、匿名の口コミは信頼性にばらつきがあるため、複数の口コミの傾向を見るようにしましょう 卒業生のブログや体験記を探す ：「スクール名 + 体験談」「スクール名 + 卒業」で検索すると、詳細なレビューが見つかることがあります 口コミを読む際の注意点 極端に好意的な口コミも疑う ：いわゆる「サクラ」の可能性があります。具体的なエピソードがなく、褒め言葉だけの口コミは要注意です 1件のネガティブ口コミだけで判断しない ：個人的な相性の問題や、特殊な事情による不満の場合もあります。複数の口コミに共通する傾向を見ることが重要です 投稿時期を確認する ：2〜3年前の口コミは、カリキュラムや講師体制が変わっている可能性があります 口コミへのスクール側の対応を確認する ：ネガティブな口コミに対して誠実に対応しているスクールは信頼度が高いと言えます 良いサイン・危険なサイン 良いサイン 外部口コミサイトに一定数の口コミがあり、肯定的な口コミと否定的な口コミが混在している 否定的な口コミに対して、スクール側が建設的な回答をしている 口コミの内容が具体的で、カリキュラム・講師・サポート体制の詳細に言及している 卒業生が自主的にブログ等で体験を発信している 危険なサイン 外部口コミサイトに口コミがほとんどない（開校して間もないか、実績が少ない可能性） 口コミが公式サイト上にしか存在しない 不自然に好意的な口コミばかりで、否定的な意見が一切ない 否定的な口コミに対してスクール側が攻撃的・無視している 口コミ投稿に対してインセンティブ（割引など）を提供している形跡がある ポイント4：卒業生の実績を「自分で」検証する なぜ重要か 「卒業生○○名がAIエンジニアに転職」「平均年収○○万円アップ」といった実績の数字は、スクールの価値を判断するうえで重要な指標ですが、前述の「転職成功率のカラクリ」と同様に、 その数字の裏側にある実態を検証する必要があります 。",
+  "question": "スクール選びで口コミを調べる際、投稿時期を確認すべきなのはなぜですか？",
+  "answer": "2〜3年前の口コミは、カリキュラムや講師体制が変わっている可能性があるためです。",
+  "evidence": "2〜3年前の口コミは、カリキュラムや講師体制が変わっている可能性があります",
+  "usage": {
+   "promptTokenCount": 743,
+   "candidatesTokenCount": 70,
+   "totalTokenCount": 1292,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 743
+    }
+   ],
+   "thoughtsTokenCount": 479,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q148",
+  "doc": "post_316",
+  "title": "AIチャットボット開発の費用相場｜機能別・規模別の料金目安",
+  "passage": "主要16ベンダー料金比較【2026年最新】 ここからは、国内で人気の高いチャットボットサービス 16社の料金を一覧比較 します。初期費用・月額費用・無料プランの有無・主なタイプ・特徴を横並びで確認できます。チャットボット市場シェア（導入社数ベース） BOXIL調査に基づく国内チャットボット市場シェアの横棒グラフ。ChatPlusが13.5%でトップ チャットボット市場シェア（導入社数ベース） ChatPlus 13.5% OfficeBot 11.0% IZANAI 8.4% Zendesk 7.0% KARAKURI 6.0% sAI Chat 5.0% PKSHA 4.5% sinclo 4.0% AI Messenger 3.5% その他 37.1% 出典：BOXIL 2025年調査データを基に作成（概算値） 出典： BOXIL チャットボット市場シェア調査 2025 のデータを基に作成（概算値） 表4：主要16ベンダー 料金完全比較表（2026年3月時点） サービス名 タイプ 初期費用 月額費用 無料プラン 生成AI対応 特徴 ChatPlus シナリオ/AI 0円 1,500円〜 10日間無料 ○ 導入社数7,500超。最安級の月額で高機能 RICOH Chatbot AI型 5,000円 18,000円〜 30日間無料 ○ Excel一括登録。",
+  "question": "BOXILの調査に基づく国内チャットボット市場の導入社数シェアでトップのサービスは何ですか？",
+  "answer": "ChatPlusです。",
+  "evidence": "BOXIL調査に基づく国内チャットボット市場シェアの横棒グラフ。ChatPlusが13.5%でトップ",
+  "usage": {
+   "promptTokenCount": 554,
+   "candidatesTokenCount": 67,
+   "totalTokenCount": 1237,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 554
+    }
+   ],
+   "thoughtsTokenCount": 616,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q149",
+  "doc": "post_315",
+  "title": "ChatGPT法人導入完全ガイド｜プラン比較・費用・セキュリティ対策",
+  "passage": "2024年以降、ChatGPTの法人導入が急加速しています。OpenAI公表のデータによれば、Fortune 500企業の 92%以上 がすでにChatGPTを業務に活用。日本でも導入企業が前年比3倍に増加しました。この流れの中で登場したのが、企業向けに設計された「 ChatGPT Team 」と「 ChatGPT Enterprise 」。入力データがAI学習に使用されないセキュリティ設計により、情報漏洩リスクを懸念する企業でも安心して導入できる環境が整いました。",
+  "question": "企業向けの「ChatGPT Team」や「ChatGPT Enterprise」が、情報漏洩を懸念する企業でも安心して導入できるのはなぜですか？",
+  "answer": "入力データがAIの学習に使用されないセキュリティ設計になっているためです。",
+  "evidence": "入力データがAI学習に使用されないセキュリティ設計により、情報漏洩リスクを懸念する企業でも安心して導入できる環境が整いました。",
+  "usage": {
+   "promptTokenCount": 312,
+   "candidatesTokenCount": 86,
+   "totalTokenCount": 1166,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 312
+    }
+   ],
+   "thoughtsTokenCount": 768,
+   "serviceTier": "standard"
+  }
+ },
+ {
+  "id": "q150",
+  "doc": "post_314",
+  "title": "【完全ガイド】中小企業向けRAG構築｜費用・事例・導入ステップを徹底解説",
+  "passage": "Ollamaなどの簡易デプロイツールを使えば、コマンド数行でローカルLLMを立ち上げてRAGに組み込むことができます。月額のAPIコストを削減しながら、データの外部送信リスクをゼロにできるメリットは、コンプライアンス要件の厳しい業種（医療、金融、法律など）で特に重宝されています。RAG技術の進化マップ 2024-2026 2024年のNaive RAGから2026年のAgentic RAG、マルチモーダルRAGまでの技術進化を示すマップ RAG技術の進化マップ — 2024 → 2026 2024 Naive RAG シンプルな検索+生成 ベクトル検索のみ 固定チャンクサイズ 単一データソース 2025 Advanced RAG ハイブリッド検索（Vector+BM25） リランキング導入 セマンティックチャンキング GraphRAG登場 Corrective RAG 2026 Next-Gen RAG Agentic RAG（自律判断） マルチモーダルRAG（画像・音声） ローカルLLMの高性能化 RAG-as-a-Serviceの普及 エンタープライズ標準化 Agentic Workflow統合 2026年のトレンド：RAGは単独技術から「AIエージェントの中核コンポーネント」へと進化 中小企業は Advanced RAG レベルから始め、段階的に高度化するのが現実的 RAG構築の費用相場｜規模別・導入形態別 RAG導入を検討する際、最も気になるのが費用です。ここでは、規模別と導入形態別の2つの視点から費用相場を整理します。",
+  "question": "中小企業がRAGを導入する場合、どのレベルから始めるのが現実的ですか？",
+  "answer": "Advanced RAGレベルから始めて、段階的に高度化していくのが現実的とされています。",
+  "evidence": "中小企業は Advanced RAG レベルから始め、段階的に高度化するのが現実的",
+  "usage": {
+   "promptTokenCount": 552,
+   "candidatesTokenCount": 77,
+   "totalTokenCount": 2002,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 552
+    }
+   ],
+   "thoughtsTokenCount": 1373,
+   "serviceTier": "standard"
+  }
+ }
+]

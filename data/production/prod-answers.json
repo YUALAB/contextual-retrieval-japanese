@@ -1,0 +1,6802 @@
+{
+ "q057:rerank8": {
+  "q": "q057",
+  "arm": "rerank8",
+  "answer": "学生全員が自動でProになる制度はなく、大学が「Claude for Education」を導入しているかどうかによって決まります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2253,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 2426,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2253
+     }
+    ],
+    "thoughtsTokenCount": 148,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 142,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 290,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 142
+     }
+    ],
+    "thoughtsTokenCount": 111,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q128:rerank8": {
+  "q": "q128",
+  "arm": "rerank8",
+  "answer": "資料によると、Homebrew（brewコマンド）を用いてインストールされるツールとして**Python3**、**cloudflared**、**Git**が挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1702,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 1881,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1702
+     }
+    ],
+    "thoughtsTokenCount": 147,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 150,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 349,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 150
+     }
+    ],
+    "thoughtsTokenCount": 166,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q128:base": {
+  "q": "q128",
+  "arm": "base",
+  "answer": "資料によると、Homebrew（brewコマンド）で導入されるツールとして**Python3**、**cloudflared**、および**Git**が挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15082,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 15312,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15082
+     }
+    ],
+    "thoughtsTokenCount": 197,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 151,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 354,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 151
+     }
+    ],
+    "thoughtsTokenCount": 170,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q057:base": {
+  "q": "q057",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 14494,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 14763,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14494
+     }
+    ],
+    "thoughtsTokenCount": 264,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 122,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 288,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 122
+     }
+    ],
+    "thoughtsTokenCount": 141,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q145:rerank8": {
+  "q": "q145",
+  "arm": "rerank8",
+  "answer": "資料によると、チームメンバーが非同期でタスクを投げて結果を確認する使い方に適しています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1998,
+    "candidatesTokenCount": 21,
+    "totalTokenCount": 2237,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1998
+     }
+    ],
+    "thoughtsTokenCount": 218,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 148,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 412,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 148
+     }
+    ],
+    "thoughtsTokenCount": 223,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q145:base": {
+  "q": "q145",
+  "arm": "base",
+  "answer": "資料によると、1つの巨大なタスクを投げるのではなく、タスクを独立性のある単位に分解して待たずに複数並列（非同期）で進め、最後に統合レビューを行うような作業スタイルに向いています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15646,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 16289,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15646
+     }
+    ],
+    "thoughtsTokenCount": 595,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 175,
+    "candidatesTokenCount": 43,
+    "totalTokenCount": 475,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 175
+     }
+    ],
+    "thoughtsTokenCount": 257,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q113:base": {
+  "q": "q113",
+  "arm": "base",
+  "answer": "資料によると、Claude APIは**従量課金制**を採用しており、主に入力および出力の**トークン量**に応じて費用が請求されます。\n\nまた、キャッシュの読み取り・書き込みやBatch API（バッチ処理）、ツール使用などに応じた単価・追加費用も設定されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 10229,
+    "candidatesTokenCount": 65,
+    "totalTokenCount": 10475,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 10229
+     }
+    ],
+    "thoughtsTokenCount": 181,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 171,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 403,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 171
+     }
+    ],
+    "thoughtsTokenCount": 193,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q113:rerank8": {
+  "q": "q113",
+  "arm": "rerank8",
+  "answer": "資料によると、Claude APIは従量課金制を採用しており、モデルごとの単価（100万トークンあたり）に基づき、処理された**入力トークン数**と**出力トークン数**に応じて請求されます。\n\nまた、キャッシュの読み取り・書き込みやBatch APIの利用、ツール使用の有無などによっても費用が変動します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2484,
+    "candidatesTokenCount": 78,
+    "totalTokenCount": 2897,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2484
+     }
+    ],
+    "thoughtsTokenCount": 335,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 184,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 405,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 184
+     }
+    ],
+    "thoughtsTokenCount": 183,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q264:base": {
+  "q": "q264",
+  "arm": "base",
+  "answer": "資料によると、**LangChainの学習コストなしでマルチエージェントを構築できる点**が最大の訴求力とされています。また、直感的なAPI設計により数十行のコードで構築でき、**PoC（概念実証）の速度が全フレームワーク中最速であること**も大きな強みとして挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14460,
+    "candidatesTokenCount": 71,
+    "totalTokenCount": 14731,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14460
+     }
+    ],
+    "thoughtsTokenCount": 200,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 188,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 441,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 188
+     }
+    ],
+    "thoughtsTokenCount": 214,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q262:base": {
+  "q": "q262",
+  "arm": "base",
+  "answer": "資料によると、AIエージェントの推論エンジン（脳）となるLLMを取り入れることで、以下のような業務における一連のタスクを自律的に自動化できます。\n\n* **営業：** 商談前リサーチ、リード発掘・スコアリング、個別アプローチメール生成、提案書・見積書のドラフト作成、CRM入力、フォローアップ\n* **マーケティング：** SNS投稿・コンテンツ生成、広告クリエイティブ最適化、メール配信最適化、競合監視、レポート集計・分析\n* **ソフトウェア開発：** 仕様からのコード生成・テスト・デバッグ、コードレビュー、CI/CDパイプラインのエラー修復\n* **カスタマーサポート：** 24時間365日の問い合わせ対応、ナレッジ横断検索による回答生成、対応要約のエスカレーション\n* **経理・人事・その他：** 請求書処理・仕訳入力、経費精算の不正検知、書類選考スクリーニング、面接日程調整、論文・市場調査レポートの要約・生成、セキュリティログの監視・初期対応",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 16974,
+    "candidatesTokenCount": 235,
+    "totalTokenCount": 17757,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16974
+     }
+    ],
+    "thoughtsTokenCount": 548,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 351,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 590,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 351
+     }
+    ],
+    "thoughtsTokenCount": 190,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q262:rerank8": {
+  "q": "q262",
+  "arm": "rerank8",
+  "answer": "資料に基づくと、以下のような幅広い作業を具体的に自動化できます。\n\n* **顧客対応・社内問い合わせ**：24時間365日の問い合わせ対応、返金処理や予約変更などのアクション実行、就業規則等の社内照会対応\n* **データ分析・レポート作成**：顧客データの分析・メール送信、市場調査や競合分析レポートの生成、税務申告用データの集計\n* **営業・マーケティング**：商談議事録の作成、見込み顧客のスコアリング、契約書ドラフト作成、コンテンツ制作や広告配信の最適化\n* **経理・バックオフィス**：請求書の読取・仕訳入力、経費精算の不正検知\n* **人事・採用**：書類選考のスクリーニング、面接スケジュールの調整\n* **ソフトウェア開発**：コードの自律生成・テスト・デバッグ、コードレビュー、プルリクエスト作成\n* **セキュリティ**：24時間の監視と自動対応",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2232,
+    "candidatesTokenCount": 215,
+    "totalTokenCount": 3132,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2232
+     }
+    ],
+    "thoughtsTokenCount": 685,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 331,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 558,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 331
+     }
+    ],
+    "thoughtsTokenCount": 183,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q264:rerank8": {
+  "q": "q264",
+  "arm": "rerank8",
+  "answer": "資料によると、ロール（役割）ベースの直感的なAPIにより、10行〜数十行程度の少ないコードで素早く手軽にマルチエージェントシステムのプロトタイプを構築できる点です。",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 1951,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 2395,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1951
+     }
+    ],
+    "thoughtsTokenCount": 400,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 59,
+    "totalTokenCount": 522,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 302,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q061:rerank8": {
+  "q": "q061",
+  "arm": "rerank8",
+  "answer": "資料によると、綿かポリエステルかといった素材の種類だけでなく、裏地、伸縮性、透け感、洗濯方法（洗濯表示）をチェックすべきとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2367,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 2657,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2367
+     }
+    ],
+    "thoughtsTokenCount": 255,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 159,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 389,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 159
+     }
+    ],
+    "thoughtsTokenCount": 189,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q061:base": {
+  "q": "q061",
+  "arm": "base",
+  "answer": "資料（情報源1）によると、綿やポリエステルなどの素材の種類に加え、裏地、伸縮性、透け感、洗濯方法（手入れのしやすさ）などをチェックすべきとされています。また、場面に応じて重さ、シワになりにくさ、撥水性なども確認事項として挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 19556,
+    "candidatesTokenCount": 66,
+    "totalTokenCount": 19812,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 19556
+     }
+    ],
+    "thoughtsTokenCount": 190,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 190,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 470,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 190
+     }
+    ],
+    "thoughtsTokenCount": 230,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q210:base": {
+  "q": "q210",
+  "arm": "base",
+  "answer": "資料によると、Tree of Thoughts（ToT）はChain of Thought（CoT）の発展形で、**複数の思考経路を並行して探索し、最良の解を選択する技法**です。戦略立案やクリエイティブワーク、リスク分析などに活用されます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15191,
+    "candidatesTokenCount": 59,
+    "totalTokenCount": 15438,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15191
+     }
+    ],
+    "thoughtsTokenCount": 188,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 176,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 449,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 176
+     }
+    ],
+    "thoughtsTokenCount": 231,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q210:rerank8": {
+  "q": "q210",
+  "arm": "rerank8",
+  "answer": "Tree of Thoughts（ToT）は、Chain of Thought（CoT）の発展形で、複数の思考経路を並行して探索し、最良の解を選択する技法です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2145,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 2355,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2145
+     }
+    ],
+    "thoughtsTokenCount": 170,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 157,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 355,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 157
+     }
+    ],
+    "thoughtsTokenCount": 156,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q116:rerank8": {
+  "q": "q116",
+  "arm": "rerank8",
+  "answer": "数字を鵜呑みにせず、「誰が、何の目的で出した統計か」や計算方法・定義を確認することです。また、セキュリティ業界には脅威を大きく見せて「恐怖で売る」インセンティブがある点にも留意し、冷静に捉える必要があります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1895,
+    "candidatesTokenCount": 58,
+    "totalTokenCount": 2237,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1895
+     }
+    ],
+    "thoughtsTokenCount": 284,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 189,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 462,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 189
+     }
+    ],
+    "thoughtsTokenCount": 227,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q116:base": {
+  "q": "q116",
+  "arm": "base",
+  "answer": "資料によると、以下の点に注意して情報を捉えるべきとされています。\n\n* ベンダーには脅威を大きく見せるインセンティブがあり被害推計も各社で異なるため、数字を鵜呑みにせず**「誰が、何の目的で出した統計か」**を意識すること。\n* 被害額（間接費を含む）と支出額（直接費のみ）のように、**指標によって計算方法が根本的に異なる場合がある**点に留意すること。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17124,
+    "candidatesTokenCount": 101,
+    "totalTokenCount": 17555,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17124
+     }
+    ],
+    "thoughtsTokenCount": 330,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 232,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 476,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 232
+     }
+    ],
+    "thoughtsTokenCount": 195,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q150:base": {
+  "q": "q150",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 18991,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 19257,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18991
+     }
+    ],
+    "thoughtsTokenCount": 261,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 105,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 250,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 105
+     }
+    ],
+    "thoughtsTokenCount": 119,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q012:rerank8": {
+  "q": "q012",
+  "arm": "rerank8",
+  "answer": "資料によると、以下の工夫がされています。\n\n* 回答の末尾に次アクション候補を2〜3個示す（情報源1）\n* 最後に不安の理由を選択肢で問いかける（情報源2）",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2001,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 2340,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2001
+     }
+    ],
+    "thoughtsTokenCount": 292,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 423,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 216,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q012:base": {
+  "q": "q012",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17832,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 18687,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17832
+     }
+    ],
+    "thoughtsTokenCount": 850,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 119,
+    "candidatesTokenCount": 20,
+    "totalTokenCount": 274,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 119
+     }
+    ],
+    "thoughtsTokenCount": 135,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q008:rerank8": {
+  "q": "q008",
+  "arm": "rerank8",
+  "answer": "資料によると、**状況・目的・形**の3つの要素を提示することで、くだけた話し方（フランクな表現）でも質の高い答えを引き出すことができます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2352,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 2584,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2352
+     }
+    ],
+    "thoughtsTokenCount": 196,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 155,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 330,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 155
+     }
+    ],
+    "thoughtsTokenCount": 141,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q008:base": {
+  "q": "q008",
+  "arm": "base",
+  "answer": "資料によると、**状況・目的・形（形式）**をしっかり提示することで、くだけた話し方（フランクな表現）であっても精度の高い（質の高い）回答を引き出すことができます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18184,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 18407,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18184
+     }
+    ],
+    "thoughtsTokenCount": 181,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 362,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 167,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q150:rerank8": {
+  "q": "q150",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2596,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 2863,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2596
+     }
+    ],
+    "thoughtsTokenCount": 262,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 105,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 204,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 105
+     }
+    ],
+    "thoughtsTokenCount": 69,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q276:rerank8": {
+  "q": "q276",
+  "arm": "rerank8",
+  "answer": "資料によると、以下の効果が見込めます。\n\n* **Microsoftの研究チームの検証**：回答精度が最大+11ポイント向上\n* **Pints AIの研究チームの検証（Finetune-RAG）**：事実精度が21.2%向上し、ハルシネーション耐性が大幅に改善",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2004,
+    "candidatesTokenCount": 69,
+    "totalTokenCount": 2346,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2004
+     }
+    ],
+    "thoughtsTokenCount": 273,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 198,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 380,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 198
+     }
+    ],
+    "thoughtsTokenCount": 146,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q276:base": {
+  "q": "q276",
+  "arm": "base",
+  "answer": "資料によると、以下の効果が報告されています。\n\n* **Microsoft Researchの研究**：両者の併用（適切な使い分け）により、回答精度が**最大+11ポイント向上**（単独の改善を超える最大改善）\n* **Pints AIの研究チームの検証**：ファインチューニングとRAGの組み合わせにより、**事実精度が21.2%向上**し、ハルシネーション耐性が大幅に改善",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17786,
+    "candidatesTokenCount": 94,
+    "totalTokenCount": 18099,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17786
+     }
+    ],
+    "thoughtsTokenCount": 219,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 223,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 400,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 223
+     }
+    ],
+    "thoughtsTokenCount": 130,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q155:rerank8": {
+  "q": "q155",
+  "arm": "rerank8",
+  "answer": "資料によると、WebアプリケーションやAPIサービスなどの中規模プロジェクトでは、**SkillsとHooksによる半自動TDD**が適しています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2161,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2309,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2161
+     }
+    ],
+    "thoughtsTokenCount": 120,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 356,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 156
+     }
+    ],
+    "thoughtsTokenCount": 168,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q204:base": {
+  "q": "q204",
+  "arm": "base",
+  "answer": "情報源1によると、従業員4人以上の企業（営利企業）です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 10413,
+    "candidatesTokenCount": 18,
+    "totalTokenCount": 10533,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 10413
+     }
+    ],
+    "thoughtsTokenCount": 102,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 124,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 338,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 124
+     }
+    ],
+    "thoughtsTokenCount": 182,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q204:rerank8": {
+  "q": "q204",
+  "arm": "rerank8",
+  "answer": "資料によると、従業員が4人以上の企業です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1863,
+    "candidatesTokenCount": 12,
+    "totalTokenCount": 2034,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1863
+     }
+    ],
+    "thoughtsTokenCount": 159,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 118,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 316,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 118
+     }
+    ],
+    "thoughtsTokenCount": 154,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q175:base": {
+  "q": "q175",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17636,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 17957,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17636
+     }
+    ],
+    "thoughtsTokenCount": 316,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 139,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 276,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 139
+     }
+    ],
+    "thoughtsTokenCount": 112,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q175:rerank8": {
+  "q": "q175",
+  "arm": "rerank8",
+  "answer": "資料によると、実在する人物のAI動画生成における肖像権への法的対応は以下の通りです。\n\n* **アメリカ**：州法レベルで規制が進められています。\n* **日本**：明確な法整備はないものの、判例上認められた肖像権・パブリシティ権の侵害にあたる可能性が高いとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2212,
+    "candidatesTokenCount": 73,
+    "totalTokenCount": 2510,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2212
+     }
+    ],
+    "thoughtsTokenCount": 225,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 207,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 418,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 207
+     }
+    ],
+    "thoughtsTokenCount": 169,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q037:base": {
+  "q": "q037",
+  "arm": "base",
+  "answer": "アプリを分解して窓口を探す作業が、専門家が何時間もかける手間のかかる作業だったためです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15025,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 15228,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15025
+     }
+    ],
+    "thoughtsTokenCount": 177,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 366,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 163,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q155:base": {
+  "q": "q155",
+  "arm": "base",
+  "answer": "資料に基づき、AIを活用したテスト駆動開発（TDD）を円滑に行うための主な手法は以下の通りです。\n\n1. **`CLAUDE.md` 等によるルールの制度化**  \n   テスト方針やカバレッジ要件、GREENフェーズにおける「テストをパスさせるためのコード以外は一切書かない（最小実装）」といった制約を事前に明文化します。\n2. **「1テスト・1実装」と3フェーズの厳密な分離**  \n   一度に多数のテストや実装を作らせず、段階的なプロンプトによって「①失敗するテスト作成（RED）→ ②最小実装（GREEN）→ ③振る舞いを変えないクリーンアップ（REFACTOR）」のサイクルを1つずつ反復させます。\n3. **Hooksによるテストの自動実行**  \n   コード変更後に全テストを自動実行するゲート（PostToolUse Hookなど）を設け、失敗時に即座にAIへフィードバックを与えて修正を強制します。\n4. **マルチエージェントによるコンテキスト分離**  \n   テスト作成エージェントと実装エージェントを物理的に隔離し、AIが実装しやすいようにテストを歪める「コンテキスト汚染」を防ぎます。\n5. **テスト品質の検証とCI/CD統合**  \n   ミューテーションテストを用いてAIが生成したテスト自体の検証能力を測るとともに、CI/CDパイプラインに自動検証ゲートを組み込みます。",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 15828,
+    "candidatesTokenCount": 322,
+    "totalTokenCount": 16848,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15828
+     }
+    ],
+    "thoughtsTokenCount": 698,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 450,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 758,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 450
+     }
+    ],
+    "thoughtsTokenCount": 267,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q037:rerank8": {
+  "q": "q037",
+  "arm": "rerank8",
+  "answer": "アプリを分解して窓口（外部との接点）を探すのは、専門家が何時間もかける手間のかかる作業だったからです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2190,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 2381,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2190
+     }
+    ],
+    "thoughtsTokenCount": 162,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 165,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 412,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 165
+     }
+    ],
+    "thoughtsTokenCount": 206,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q261:base": {
+  "q": "q261",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 11025,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 11537,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 11025
+     }
+    ],
+    "thoughtsTokenCount": 507,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 122,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 228,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 122
+     }
+    ],
+    "thoughtsTokenCount": 81,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q261:rerank8": {
+  "q": "q261",
+  "arm": "rerank8",
+  "answer": "24時間いつでもアクセス可能なオンライン教材を使って、自分のペースで何度でも復習できます（保護者と一緒に教材を見ながら学ぶことも可能です）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2197,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 2392,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2197
+     }
+    ],
+    "thoughtsTokenCount": 166,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 147,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 461,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 147
+     }
+    ],
+    "thoughtsTokenCount": 268,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q211:rerank8": {
+  "q": "q211",
+  "arm": "rerank8",
+  "answer": "資料では、以下の切り口（分析観点）で調べるよう設定されています。\n\n* 新製品・サービスの発表\n* 価格変更\n* 経営陣の異動\n* 資金調達・M&A\n* メディア露出・PR活動",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1548,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 1966,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1548
+     }
+    ],
+    "thoughtsTokenCount": 363,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 203,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 404,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 203
+     }
+    ],
+    "thoughtsTokenCount": 175,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q216:base": {
+  "q": "q216",
+  "arm": "base",
+  "answer": "資料によると、以下の用途（タスク）での利用が適しています。\n\n* 複雑な数学・科学の問題\n* マルチシステムのバグ調査\n* アーキテクチャ設計・リファクタリング提案\n* 戦略立案・意思決定支援",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15211,
+    "candidatesTokenCount": 54,
+    "totalTokenCount": 15429,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15211
+     }
+    ],
+    "thoughtsTokenCount": 164,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 186,
+    "candidatesTokenCount": 56,
+    "totalTokenCount": 451,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 186
+     }
+    ],
+    "thoughtsTokenCount": 209,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q211:base": {
+  "q": "q211",
+  "arm": "base",
+  "answer": "資料（情報源1）の「競合分析の自動化」の例では、直近3ヶ月の動向を対象に、以下の切り口で情報を収集・分析するよう設定されています。\n\n* **直近のニュース**（見出し、日付、要約、情報源URL）\n* **製品のアップデート**\n* **市場での立ち位置（市場ポジション）**\n* **脅威**\n* **機会**",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 12199,
+    "candidatesTokenCount": 94,
+    "totalTokenCount": 12702,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12199
+     }
+    ],
+    "thoughtsTokenCount": 409,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 242,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 575,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 242
+     }
+    ],
+    "thoughtsTokenCount": 281,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q216:rerank8": {
+  "q": "q216",
+  "arm": "rerank8",
+  "answer": "資料によると、Extended Thinking機能は以下のような用途に適しています。\n\n* 複雑な数学・科学の問題\n* コードデバッグやマルチシステムのバグ調査\n* アーキテクチャ設計・リファクタリング提案\n* 戦略立案・意思決定支援（新規事業の企画書作成など）",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1988,
+    "candidatesTokenCount": 65,
+    "totalTokenCount": 2192,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1988
+     }
+    ],
+    "thoughtsTokenCount": 139,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 197,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 480,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 197
+     }
+    ],
+    "thoughtsTokenCount": 232,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q186:base": {
+  "q": "q186",
+  "arm": "base",
+  "answer": "資料によると、経済産業省の試算では2030年にIT人材が**最大約79万人**不足すると見込まれています（なお、AI人材については最大12.4万人不足すると推計されています）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 16015,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 16287,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16015
+     }
+    ],
+    "thoughtsTokenCount": 224,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 166,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 352,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 166
+     }
+    ],
+    "thoughtsTokenCount": 152,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q039:rerank8": {
+  "q": "q039",
+  "arm": "rerank8",
+  "answer": "資料によると、要素が画面外に出るなどレイアウトに問題がある場合は、**px単位で位置を指定する**ことで対策できます。また、生成結果が気に入らない場合は**「Regenerate」で再生成する**ことも可能です。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2359,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 2799,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2359
+     }
+    ],
+    "thoughtsTokenCount": 389,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 167,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 403,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 167
+     }
+    ],
+    "thoughtsTokenCount": 200,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q039:base": {
+  "q": "q039",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 15420,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 16202,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15420
+     }
+    ],
+    "thoughtsTokenCount": 777,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 121,
+    "candidatesTokenCount": 21,
+    "totalTokenCount": 214,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 121
+     }
+    ],
+    "thoughtsTokenCount": 72,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q186:rerank8": {
+  "q": "q186",
+  "arm": "rerank8",
+  "answer": "経済産業省の試算・調査によると、2030年にIT人材は**最大約79万人**不足すると予測されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2532,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 2820,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2532
+     }
+    ],
+    "thoughtsTokenCount": 258,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 149,
+    "candidatesTokenCount": 22,
+    "totalTokenCount": 292,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 149
+     }
+    ],
+    "thoughtsTokenCount": 121,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q112:rerank8": {
+  "q": "q112",
+  "arm": "rerank8",
+  "answer": "2026年初頭に「Claude Agent SDK」に改められました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1310,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 1425,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1310
+     }
+    ],
+    "thoughtsTokenCount": 98,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 139,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 303,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 139
+     }
+    ],
+    "thoughtsTokenCount": 128,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q112:base": {
+  "q": "q112",
+  "arm": "base",
+  "answer": "2026年初頭に「**Claude Agent SDK**」という名称に改められました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13011,
+    "candidatesTokenCount": 21,
+    "totalTokenCount": 13153,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13011
+     }
+    ],
+    "thoughtsTokenCount": 121,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 143,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 311,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 143
+     }
+    ],
+    "thoughtsTokenCount": 130,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q291:rerank8": {
+  "q": "q291",
+  "arm": "rerank8",
+  "answer": "資料によると、「自治体・公共」における費用の目安は以下の通りです。\n\n* **初期費用（初期投資）：** 50〜500万円\n* **月額費用（運用コスト）：** 5〜30万円",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2767,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 3020,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2767
+     }
+    ],
+    "thoughtsTokenCount": 201,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 192,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 444,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 192
+     }
+    ],
+    "thoughtsTokenCount": 225,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q278:base": {
+  "q": "q278",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16378,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 16794,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16378
+     }
+    ],
+    "thoughtsTokenCount": 411,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 113,
+    "candidatesTokenCount": 18,
+    "totalTokenCount": 224,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 113
+     }
+    ],
+    "thoughtsTokenCount": 93,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q278:rerank8": {
+  "q": "q278",
+  "arm": "rerank8",
+  "answer": "資料によると、ベクトル検索における類似度の計算手法として、**コサイン類似度**や**ドット積**が挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2132,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2337,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2132
+     }
+    ],
+    "thoughtsTokenCount": 177,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 136,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 283,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 136
+     }
+    ],
+    "thoughtsTokenCount": 115,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q265:base": {
+  "q": "q265",
+  "arm": "base",
+  "answer": "資料に基づくと、条件分岐やループ処理を含む複雑なワークフローを制御する場合、**LangGraph**（LangChain / LangGraph）が適しており、最も強力なツール（最適）として挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 16446,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 16874,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16446
+     }
+    ],
+    "thoughtsTokenCount": 384,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 159,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 356,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 159
+     }
+    ],
+    "thoughtsTokenCount": 170,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q291:base": {
+  "q": "q291",
+  "arm": "base",
+  "answer": "資料によると、官公庁などの公的機関が対象となるフルスクラッチ開発（超大規模エンタープライズ）の場合、相場は以下のとおりです。\n\n* **初期費用**：1,000万円以上（3,000万円超〜5,000万円超）\n* **月額運用費**：50万〜200万円（規模別サマリーでは100万〜300万円）",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17529,
+    "candidatesTokenCount": 100,
+    "totalTokenCount": 18040,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17529
+     }
+    ],
+    "thoughtsTokenCount": 411,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 240,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 599,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 240
+     }
+    ],
+    "thoughtsTokenCount": 308,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q275:rerank8": {
+  "q": "q275",
+  "arm": "rerank8",
+  "answer": "資料によると、73%です（73%のセッション／エージェントタスクでHuman-in-the-loopが採用・介在されています）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2112,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 2335,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2112
+     }
+    ],
+    "thoughtsTokenCount": 188,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 154,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 337,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 154
+     }
+    ],
+    "thoughtsTokenCount": 150,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q215:rerank8": {
+  "q": "q215",
+  "arm": "rerank8",
+  "answer": "NotebookLM（ノートブックLM）です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1842,
+    "candidatesTokenCount": 9,
+    "totalTokenCount": 1951,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1842
+     }
+    ],
+    "thoughtsTokenCount": 100,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 111,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 233,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 111
+     }
+    ],
+    "thoughtsTokenCount": 96,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q215:base": {
+  "q": "q215",
+  "arm": "base",
+  "answer": "資料に基づくと、そのサービスの名前は**NotebookLM**（ノートブックLM）です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12815,
+    "candidatesTokenCount": 19,
+    "totalTokenCount": 12985,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12815
+     }
+    ],
+    "thoughtsTokenCount": 151,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 121,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 278,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 121
+     }
+    ],
+    "thoughtsTokenCount": 134,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q275:base": {
+  "q": "q275",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16322,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 16796,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16322
+     }
+    ],
+    "thoughtsTokenCount": 469,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 124,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 231,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 124
+     }
+    ],
+    "thoughtsTokenCount": 80,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q219:base": {
+  "q": "q219",
+  "arm": "base",
+  "answer": "資料によると、「Plus」プラン（月額3,000円）に申し込むと広告なしで利用できます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12851,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 13023,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12851
+     }
+    ],
+    "thoughtsTokenCount": 146,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 138,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 363,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 138
+     }
+    ],
+    "thoughtsTokenCount": 190,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q265:rerank8": {
+  "q": "q265",
+  "arm": "rerank8",
+  "answer": "**LangGraph**です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2004,
+    "candidatesTokenCount": 6,
+    "totalTokenCount": 2186,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2004
+     }
+    ],
+    "thoughtsTokenCount": 176,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 121,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 287,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 121
+     }
+    ],
+    "thoughtsTokenCount": 140,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q219:rerank8": {
+  "q": "q219",
+  "arm": "rerank8",
+  "answer": "Plusプラン（月3,000円／20ドル）以上のプラン（PlusプランやProプランなど）に申し込む必要があります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2691,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 2878,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2691
+     }
+    ],
+    "thoughtsTokenCount": 157,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 142,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 350,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 142
+     }
+    ],
+    "thoughtsTokenCount": 169,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q051:rerank8": {
+  "q": "q051",
+  "arm": "rerank8",
+  "answer": "資料によると、ChatGPTには以下の誤りがありました。\n\n* **電池時間の取り違え**：Anker Soundcore P40iについて、ノイズキャンセリングOFF（通常モード）時の最大再生時間である「12時間」を、ノイズキャンセリングON時の時間（実際は10時間）として回答しました。\n* **価格のずれ**：EarFun Air Pro 4について、セール価格の7,989円ではなく、セール前の参考価格である約9,990円と案内しました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1921,
+    "candidatesTokenCount": 114,
+    "totalTokenCount": 2384,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1921
+     }
+    ],
+    "thoughtsTokenCount": 349,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 219,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 503,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 219
+     }
+    ],
+    "thoughtsTokenCount": 247,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q051:base": {
+  "q": "q051",
+  "arm": "base",
+  "answer": "資料によると、以下の誤りがありました。\n\n* **再生時間の取り違え**：Anker Soundcore P40iにおいて、通常モード（ノイズキャンセリングOFF時）の「12時間」を、ノイズキャンセリングON時の再生時間として案内しました（実際は10時間）。\n* **価格のずれ**：EarFun Air Pro 4において、Amazonでのセール価格（7,989円）ではなく、セール前の参考価格（約9,990円）を案内しました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14136,
+    "candidatesTokenCount": 113,
+    "totalTokenCount": 14613,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14136
+     }
+    ],
+    "thoughtsTokenCount": 364,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 218,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 504,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 218
+     }
+    ],
+    "thoughtsTokenCount": 252,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q028:base": {
+  "q": "q028",
+  "arm": "base",
+  "answer": "資料によると、初めて制作を依頼する際は以下の項目・条件を盛り込むとスムーズに進められます。\n\n* **目的**：誰が何を決める（何に使う）ためのものか\n* **材料**：どの手元資料を原本・優先とするか（確定情報と未確認情報を分ける）\n* **形式**：納品形式、列名、章立て、ファイル名など\n* **合格条件**：人が客観的にチェックできる基準（3〜5項目程度）\n* **制約**：行動範囲の限定（原本を変更しない、送信・購入・公開をしない、不足情報を推測で埋めず「未定・未確認」とするなど）\n* **報告**：作業終了時に保存先、参照資料、未確認事項を報告させる指示",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 17623,
+    "candidatesTokenCount": 171,
+    "totalTokenCount": 18397,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17623
+     }
+    ],
+    "thoughtsTokenCount": 603,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 290,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 711,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 290
+     }
+    ],
+    "thoughtsTokenCount": 374,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q028:rerank8": {
+  "q": "q028",
+  "arm": "rerank8",
+  "answer": "資料によると、以下の6つの項目を盛り込むことでスムーズに進められます。\n\n* **目的**：誰が何を決めるためのものか（用途や前提知識）\n* **材料**：手元の資料の優先順位や、情報が矛盾した際の扱い\n* **形式**：列名、ページ数、章立て、ファイル名など後で使う形式（編集可能かなど）\n* **合格条件**：人が確認できる具体的な条件（初回は3〜5項目）\n* **制約**：原本を変更せず別名・コピーで出力することや、送信・公開をしないなどの行動範囲\n* **報告**：終了時の保存先、使った資料、実施した確認、未確認事項の提示\n\nまた、手元の資料だけで整理するのか外部調査を許可するのかなど、指示に矛盾がないようにすることも挙げられています。",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 2219,
+    "candidatesTokenCount": 183,
+    "totalTokenCount": 2925,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2219
+     }
+    ],
+    "thoughtsTokenCount": 523,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 302,
+    "candidatesTokenCount": 58,
+    "totalTokenCount": 817,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 302
+     }
+    ],
+    "thoughtsTokenCount": 457,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q148:rerank8": {
+  "q": "q148",
+  "arm": "rerank8",
+  "answer": "資料によると、判断が困難な場合、A2A層を通じて専門エージェント（品質管理エージェントや法務エージェントなど）に相談・委譲します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2064,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 2494,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2064
+     }
+    ],
+    "thoughtsTokenCount": 391,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 166,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 403,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 166
+     }
+    ],
+    "thoughtsTokenCount": 198,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q208:rerank8": {
+  "q": "q208",
+  "arm": "rerank8",
+  "answer": "資料によると、Newo.aiの報告では、騒がしい環境でもメインスピーカーを識別し、会話の途中で言語を切り替えても追従できる、驚くほど自然で感情的に表現力のある音声が実現できるとされています。\n\n（※なお、顧客満足度の向上やコスト削減といった効果については、資料内では別企業である11Sightの事例として記載されています）",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2223,
+    "candidatesTokenCount": 85,
+    "totalTokenCount": 3086,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2223
+     }
+    ],
+    "thoughtsTokenCount": 778,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 205,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 490,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 205
+     }
+    ],
+    "thoughtsTokenCount": 243,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q148:base": {
+  "q": "q148",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16927,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 18275,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16927
+     }
+    ],
+    "thoughtsTokenCount": 1343,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 132,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 261,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 132
+     }
+    ],
+    "thoughtsTokenCount": 104,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q229:base": {
+  "q": "q229",
+  "arm": "base",
+  "answer": "資料によると、フリーランス（個人事業主）として独立した場合の平均月額単価は**約85万円**（年収換算で約1,020万円）とされています。\n\nまた、案件例として業務委託のAIプロンプトエンジニアで月額80万〜150万円、フリーランスのAIアプリ開発で案件単価50万円〜という記載もあります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 11625,
+    "candidatesTokenCount": 89,
+    "totalTokenCount": 11900,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 11625
+     }
+    ],
+    "thoughtsTokenCount": 186,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 195,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 436,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 195
+     }
+    ],
+    "thoughtsTokenCount": 213,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q208:base": {
+  "q": "q208",
+  "arm": "base",
+  "answer": "提供された資料には、Newo.aiの報告による「電話対応の改善によって得られる好影響」についての記載はないため、**資料からはわかりません**。\n\n（※なお、Newo.aiの報告としては、騒がしい環境でもメインスピーカーを識別し、会話の途中で言語を切り替え、自然で感情表現豊かな音声を実現しているという内容のみが記載されています。通話解決率の改善により顧客満足度の向上やオペレーターの負担軽減、コスト削減が得られたと記載されているのは「11Sight」の事例です。）",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 15394,
+    "candidatesTokenCount": 119,
+    "totalTokenCount": 17379,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15394
+     }
+    ],
+    "thoughtsTokenCount": 1866,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 239,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 581,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 239
+     }
+    ],
+    "thoughtsTokenCount": 292,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q229:rerank8": {
+  "q": "q229",
+  "arm": "rerank8",
+  "answer": "資料によると、フリーランス（個人事業主）のAIエンジニアの月額報酬は、平均で**約85万円**（情報源1）、または平均**83万〜105万円**（情報源2）が目安とされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2368,
+    "candidatesTokenCount": 54,
+    "totalTokenCount": 2678,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2368
+     }
+    ],
+    "thoughtsTokenCount": 256,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 428,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 234,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q090:rerank8": {
+  "q": "q090",
+  "arm": "rerank8",
+  "answer": "資料によると、すでに気に入っているイヤホンがある場合は、眼鏡とイヤホンが「ひとつにまとまる便利さ」にどれくらい価値を感じるかを基準に検討するとよいとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2104,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 2607,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2104
+     }
+    ],
+    "thoughtsTokenCount": 464,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 168,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 404,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 168
+     }
+    ],
+    "thoughtsTokenCount": 213,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q090:base": {
+  "q": "q090",
+  "arm": "base",
+  "answer": "資料によると、眼鏡とイヤホンが「ひとつにまとまる便利さ」にどれくらい価値を感じるかを基準に検討することが挙げられています。また、周囲の音を聞きたいか、電車内など周りの音が大きい場所で音楽に集中したいかといった音の聴き方や使用環境も判断の目安となります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15876,
+    "candidatesTokenCount": 68,
+    "totalTokenCount": 16327,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15876
+     }
+    ],
+    "thoughtsTokenCount": 383,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 197,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 490,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 197
+     }
+    ],
+    "thoughtsTokenCount": 241,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q017:rerank8": {
+  "q": "q017",
+  "arm": "rerank8",
+  "answer": "資料によると、遊ぶには**元のゲームを持っている（所有している）こと**が前提条件となります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1933,
+    "candidatesTokenCount": 21,
+    "totalTokenCount": 2122,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1933
+     }
+    ],
+    "thoughtsTokenCount": 168,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 132,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 323,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 132
+     }
+    ],
+    "thoughtsTokenCount": 160,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q017:base": {
+  "q": "q017",
+  "arm": "base",
+  "answer": "資料によると、マッシュアップMODで遊ぶには**元のゲームを（2本とも）所有・購入していること**が前提条件とされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15321,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 15538,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15321
+     }
+    ],
+    "thoughtsTokenCount": 185,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 143,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 333,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 143
+     }
+    ],
+    "thoughtsTokenCount": 158,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q104:base": {
+  "q": "q104",
+  "arm": "base",
+  "answer": "Nemotron-3-Superには、差別化のポイントとして**Mamba-2**（線形時間処理）、**Transformer**（連想記憶）、およびNVIDIA独自の**LatentMoE**を組み合わせた「ハイブリッド・アーキテクチャ」が採用されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13280,
+    "candidatesTokenCount": 59,
+    "totalTokenCount": 13529,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13280
+     }
+    ],
+    "thoughtsTokenCount": 190,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 185,
+    "candidatesTokenCount": 43,
+    "totalTokenCount": 476,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 185
+     }
+    ],
+    "thoughtsTokenCount": 248,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q200:rerank8": {
+  "q": "q200",
+  "arm": "rerank8",
+  "answer": "資料によると、Windows環境では**Hyper-V上のLinux VM（仮想マシン）**で動作する仕組みになっています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1873,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 2034,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1873
+     }
+    ],
+    "thoughtsTokenCount": 137,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 143,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 302,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 143
+     }
+    ],
+    "thoughtsTokenCount": 127,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q200:base": {
+  "q": "q200",
+  "arm": "base",
+  "answer": "資料によると、Windows環境では**Hyper-V上のLinux VM（仮想マシン）**の上で稼働する仕組みになっています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14262,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 14359,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14262
+     }
+    ],
+    "thoughtsTokenCount": 71,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 145,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 266,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 145
+     }
+    ],
+    "thoughtsTokenCount": 97,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q104:rerank8": {
+  "q": "q104",
+  "arm": "rerank8",
+  "answer": "資料によると、Nemotron-3-Superには以下の技術を組み合わせた「ハイブリッド・アーキテクチャ」が採用されています。\n\n* **Mamba-2**（線形時間処理を行う状態空間モデル）\n* **Transformer Attention**（ピンポイントで情報を検索する連想記憶）\n* **LatentMoE**（トークン埋め込みを低ランクの潜在空間に圧縮して処理するNVIDIA独自のMoE）\n\n特に、Mamba-2による線形時間処理とLatentMoEの組み合わせが差別化ポイントとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1954,
+    "candidatesTokenCount": 120,
+    "totalTokenCount": 2308,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1954
+     }
+    ],
+    "thoughtsTokenCount": 234,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 246,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 471,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 246
+     }
+    ],
+    "thoughtsTokenCount": 176,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q137:base": {
+  "q": "q137",
+  "arm": "base",
+  "answer": "「Google Gemini無料版でできること完全ガイド【2026年3月最新】」（情報源3）をチェックしてください。Webブラウザから「gemini.google.com」にアクセスしてGoogleアカウントでログインすることで利用できる機能について解説されています。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 14697,
+    "candidatesTokenCount": 56,
+    "totalTokenCount": 14940,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14697
+     }
+    ],
+    "thoughtsTokenCount": 187,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 167,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 397,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 167
+     }
+    ],
+    "thoughtsTokenCount": 192,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q137:rerank8": {
+  "q": "q137",
+  "arm": "rerank8",
+  "answer": "「Google Gemini無料版でできること完全ガイド【2026年3月最新】」をチェックするとよいです。ブラウザで「gemini.google.com」にアクセスし、Googleアカウントでログインして利用を始める手順が解説されています。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 1796,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 2203,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1796
+     }
+    ],
+    "thoughtsTokenCount": 352,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 166,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 509,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 166
+     }
+    ],
+    "thoughtsTokenCount": 309,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q183:rerank8": {
+  "q": "q183",
+  "arm": "rerank8",
+  "answer": "OpenAI Frontierは、エンタープライズ向けのAIエージェント管理プラットフォームです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1797,
+    "candidatesTokenCount": 19,
+    "totalTokenCount": 1972,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1797
+     }
+    ],
+    "thoughtsTokenCount": 156,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 135,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 292,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 135
+     }
+    ],
+    "thoughtsTokenCount": 120,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q183:base": {
+  "q": "q183",
+  "arm": "base",
+  "answer": "資料によると、OpenAI Frontierは**エンタープライズ向けのAIエージェント管理プラットフォーム**です。\n\nAIエージェントに「従業員ID」を付与してスコープされた権限で業務を遂行させたり、社内システム（CRMやデータウェアハウス）との統合、ガバナンス機能（監査ログなど）を提供することで、AIエージェントの企業導入を管理・加速させる役割を持っています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17271,
+    "candidatesTokenCount": 93,
+    "totalTokenCount": 17542,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17271
+     }
+    ],
+    "thoughtsTokenCount": 178,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 210,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 511,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 210
+     }
+    ],
+    "thoughtsTokenCount": 253,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q135:base": {
+  "q": "q135",
+  "arm": "base",
+  "answer": "資料によると、ツールやAIだけに任せきりにせず人が一つずつ確認する体制や、AIリサーチサイエンティスト等の専門家が直接担当し、事前に点検範囲や日時、方法を書面で定めて秘密保持契約を結ぶ体制で実施することが示されています。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 14741,
+    "candidatesTokenCount": 59,
+    "totalTokenCount": 15286,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14741
+     }
+    ],
+    "thoughtsTokenCount": 486,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 184,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 534,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 184
+     }
+    ],
+    "thoughtsTokenCount": 306,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q207:base": {
+  "q": "q207",
+  "arm": "base",
+  "answer": "資料によると、テスト駆動開発（TDD）は**Red-Green-Refactor**の3つのフェーズを繰り返す順序（「ONE test → ONE implementation → repeat」）で進めます。\n\n1. **RED**：実装が存在しない状態で、期待する振る舞いを定義した「失敗するテスト」を先に書く\n2. **GREEN**：そのテストをパスさせるための「最小限の実装」を行う\n3. **REFACTOR**：テストがパスし続ける状態を保ちながら、振る舞いを変えずにコードを改善（リファクタリング）する",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14555,
+    "candidatesTokenCount": 129,
+    "totalTokenCount": 14933,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14555
+     }
+    ],
+    "thoughtsTokenCount": 249,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 249,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 508,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 249
+     }
+    ],
+    "thoughtsTokenCount": 218,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q135:rerank8": {
+  "q": "q135",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2405,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 3341,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2405
+     }
+    ],
+    "thoughtsTokenCount": 931,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 130,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 238,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 130
+     }
+    ],
+    "thoughtsTokenCount": 84,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q236:rerank8": {
+  "q": "q236",
+  "arm": "rerank8",
+  "answer": "営業組織全体へ展開する段階において、最も重要になる要素は**「研修」**と**「チャンピオン制度」**です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2355,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2506,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2355
+     }
+    ],
+    "thoughtsTokenCount": 123,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 141,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 322,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 141
+     }
+    ],
+    "thoughtsTokenCount": 150,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q236:base": {
+  "q": "q236",
+  "arm": "base",
+  "answer": "資料によると、全営業チームへ展開する段階において最も重要となるのは、**「研修」**と**「チャンピオン制度」**です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18425,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 18620,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18425
+     }
+    ],
+    "thoughtsTokenCount": 165,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 142,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 305,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 142
+     }
+    ],
+    "thoughtsTokenCount": 132,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q207:rerank8": {
+  "q": "q207",
+  "arm": "rerank8",
+  "answer": "資料によると、以下の「Red-Green-Refactor」の3フェーズサイクルを1テスト・1実装ずつ繰り返す順序です。\n\n1. **RED**：コード実装前にテストを先に書き、失敗することを確認する（期待する振る舞いの定義）\n2. **GREEN**：テストをパスさせる最小限のコードを実装する\n3. **REFACTOR**：テストが通る状態を維持したまま、コードの改善（リファクタリング）を行う",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1748,
+    "candidatesTokenCount": 104,
+    "totalTokenCount": 2378,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1748
+     }
+    ],
+    "thoughtsTokenCount": 526,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 224,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 585,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 224
+     }
+    ],
+    "thoughtsTokenCount": 314,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q053:rerank8": {
+  "q": "q053",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2566,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 2942,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2566
+     }
+    ],
+    "thoughtsTokenCount": 371,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 130,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 290,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 130
+     }
+    ],
+    "thoughtsTokenCount": 136,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q172:base": {
+  "q": "q172",
+  "arm": "base",
+  "answer": "資料によると、バックグラウンド生成には非対応のため、生成が中断されます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13745,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 13931,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13745
+     }
+    ],
+    "thoughtsTokenCount": 169,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 126,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 238,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 126
+     }
+    ],
+    "thoughtsTokenCount": 86,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q053:base": {
+  "q": "q053",
+  "arm": "base",
+  "answer": "資料に記載されている見積もり（試算）は以下の通りです。\n\n* **Claude Cowork（30名マーケティング部門の試算）**\n  * **月額コスト**：600ドル/月（年額 7,200ドル ※年払い20ドル/席/月×30名）\n* **EC×RAG導入（B社モデルケースの試算）**\n  * **初期費用**：250万円\n  * **月額運用費**：20万円（初年度年間総コスト：490万円）",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 15313,
+    "candidatesTokenCount": 128,
+    "totalTokenCount": 16245,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15313
+     }
+    ],
+    "thoughtsTokenCount": 804,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 253,
+    "candidatesTokenCount": 43,
+    "totalTokenCount": 434,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 253
+     }
+    ],
+    "thoughtsTokenCount": 138,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q239:rerank8": {
+  "q": "q239",
+  "arm": "rerank8",
+  "answer": "資料によると、Phase 3のパイロット運用フェーズでは主に以下の作業を進めます。\n\n* **一部部門での実運用・先行導入**（実務環境での運用）\n* **ユーザーからのフィードバック収集**\n* **精度のチューニング・最適化**（回答品質の継続的な改善）\n* **運用手順の確立**\n* **監査体制の構築**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2509,
+    "candidatesTokenCount": 83,
+    "totalTokenCount": 2960,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2509
+     }
+    ],
+    "thoughtsTokenCount": 368,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 206,
+    "candidatesTokenCount": 45,
+    "totalTokenCount": 523,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 206
+     }
+    ],
+    "thoughtsTokenCount": 272,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q172:rerank8": {
+  "q": "q172",
+  "arm": "rerank8",
+  "answer": "資料によると、バックグラウンド生成には非対応のため、生成が中断されます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2272,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 2437,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2272
+     }
+    ],
+    "thoughtsTokenCount": 148,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 126,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 249,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 126
+     }
+    ],
+    "thoughtsTokenCount": 95,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q110:base": {
+  "q": "q110",
+  "arm": "base",
+  "answer": "特別なコマンドを覚える必要はなく、Claude Codeを起動した状態で、**自然な日本語で具体的に「〜というフォルダを作って」「〜を作って、完成したらブラウザで開いて」とそのまま指示を伝える**だけで実行できます（途中で許可を求められた場合は「y」キーを押して進めます）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15066,
+    "candidatesTokenCount": 67,
+    "totalTokenCount": 15384,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15066
+     }
+    ],
+    "thoughtsTokenCount": 251,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 194,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 452,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 194
+     }
+    ],
+    "thoughtsTokenCount": 210,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q110:rerank8": {
+  "q": "q110",
+  "arm": "rerank8",
+  "answer": "Claude Codeに対して、普段話すような自然な日本語で「〜というフォルダを作って」「〜を作って」「完成したらブラウザで開いて」のように直接伝える（頼む）だけで実行させることができます。実行時に許可を求められた場合は「y」キーを押してEnterを押します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1724,
+    "candidatesTokenCount": 60,
+    "totalTokenCount": 2014,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1724
+     }
+    ],
+    "thoughtsTokenCount": 230,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 186,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 442,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 186
+     }
+    ],
+    "thoughtsTokenCount": 219,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q214:base": {
+  "q": "q214",
+  "arm": "base",
+  "answer": "資料によると、会話の横（隣）で以下のようなコンテンツを作成・編集できます。\n\n* 模型やスライダーなど、操作して試せるアプリ・図や教材の作成\n* 編集できる文書（Claude Docs）、発表用スライド（Claude Slides）、一枚物の視覚資料やデザイン（Claude Design）の作成および編集・見直し",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13568,
+    "candidatesTokenCount": 73,
+    "totalTokenCount": 13960,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13568
+     }
+    ],
+    "thoughtsTokenCount": 319,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 181,
+    "candidatesTokenCount": 43,
+    "totalTokenCount": 462,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 181
+     }
+    ],
+    "thoughtsTokenCount": 238,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q239:base": {
+  "q": "q239",
+  "arm": "base",
+  "answer": "資料には「Phase 3のパイロット運用フェーズ」についての記載はないため、**資料からはわかりません**。\n\nなお、資料内で類似する項目として以下の記載があります。\n\n* **Phase 3：基盤整備・自律化（情報源1）**\n  * AIプラットフォームの統一（ツール乱立の防止）\n  * 自動化パイプラインの構築\n  * 基幹システムとの連携開始\n  * 月次KPIレビューの定着\n  * AI人材の育成プログラム実施\n* **Step 3：パイロット導入（情報源2）**\n  * 3〜5名の選抜チームで1〜2機能に絞って運用\n  * 週次での効果測定とフィードバック収集\n  * プロンプトやワークフローの調整",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17458,
+    "candidatesTokenCount": 171,
+    "totalTokenCount": 19152,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17458
+     }
+    ],
+    "thoughtsTokenCount": 1523,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 294,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 530,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 294
+     }
+    ],
+    "thoughtsTokenCount": 207,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q214:rerank8": {
+  "q": "q214",
+  "arm": "rerank8",
+  "answer": "資料によると、Artifactsを利用すると以下のようなことができます。\n\n* 会話の中でリアルタイムにコンテンツを生成・編集する\n* 会話の横で開く小さなアプリや資料として、文書、図、HTML、簡単なツールなどの操作できるインタラクティブなコンテンツを作成・修正する\n* Docs、Slides、Designなどの制作機能や、Dashboards（グラフ）やMotion（アニメーション）の完成品を保持・表示する",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2144,
+    "candidatesTokenCount": 91,
+    "totalTokenCount": 2484,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2144
+     }
+    ],
+    "thoughtsTokenCount": 249,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 199,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 493,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 199
+     }
+    ],
+    "thoughtsTokenCount": 245,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q098:base": {
+  "q": "q098",
+  "arm": "base",
+  "answer": "資料によると、Stitchの本来の凄さや強みは以下の点にあります。\n\n* **デザインプロセスの圧倒的な圧縮：** ビジネス目標や感情などを入力するだけで、従来プロが数日かけていた初期探索をわずか数十秒で完了させ、非デザイナーでも数分でプロ品質のUIを得られます。\n* **開発ツールとのシームレスな接続：** 単体のデザインツールにとどまらず、DESIGN.mdやMCPサーバーを通じてClaude CodeやCursorなどのAIコーディングツールと直結し、「AI駆動の開発パイプラインの入口」として機能します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14932,
+    "candidatesTokenCount": 127,
+    "totalTokenCount": 15447,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14932
+     }
+    ],
+    "thoughtsTokenCount": 388,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 249,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 530,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 249
+     }
+    ],
+    "thoughtsTokenCount": 241,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q009:base": {
+  "q": "q009",
+  "arm": "base",
+  "answer": "資料によると、Meta Model APIとプログラミング支援サービス「Muse Code」です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 11606,
+    "candidatesTokenCount": 18,
+    "totalTokenCount": 11814,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 11606
+     }
+    ],
+    "thoughtsTokenCount": 190,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 122,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 359,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 122
+     }
+    ],
+    "thoughtsTokenCount": 210,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q139:base": {
+  "q": "q139",
+  "arm": "base",
+  "answer": "ツールによって以下のコマンドを入力します。\n\n* **Claude Codeの場合：** `/compact`\n* **Gemini CLIの場合：** `/compress`",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12834,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 12972,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12834
+     }
+    ],
+    "thoughtsTokenCount": 108,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 144,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 308,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 144
+     }
+    ],
+    "thoughtsTokenCount": 130,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q259:base": {
+  "q": "q259",
+  "arm": "base",
+  "answer": "資料によると、以下のような設定が可能です。\n\n* 「売上データへのアクセスを許可し、顧客の個人情報へのアクセスは禁止する」といったデータごとの細かいアクセス制御\n* 「読み取りのみ」で済む場面には書き込み権限を付与しないなど、権限を必要最小限に絞る設定",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 10239,
+    "candidatesTokenCount": 70,
+    "totalTokenCount": 10652,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 10239
+     }
+    ],
+    "thoughtsTokenCount": 343,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 192,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 493,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 192
+     }
+    ],
+    "thoughtsTokenCount": 259,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q139:rerank8": {
+  "q": "q139",
+  "arm": "rerank8",
+  "answer": "ツールによって以下のコマンドを入力します。\n\n* **Claude Codeの場合**：`/compact`\n* **Gemini CLIの場合**：`/compress`",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1871,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 1976,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1871
+     }
+    ],
+    "thoughtsTokenCount": 75,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 144,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 406,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 144
+     }
+    ],
+    "thoughtsTokenCount": 227,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q098:rerank8": {
+  "q": "q098",
+  "arm": "rerank8",
+  "answer": "資料によると、Stitchの凄さや強みは主に以下の点にあります。\n\n* **デザインプロセスの圧縮**: プロが3日かける初期探索を「Vibe Design」により30秒で終わらせ、高品質な複数のデザイン案を即座に提示できる点\n* **AI開発パイプラインの入口としての機能**: 単体のデザインツールにとどまらず、MCP連携によりClaude CodeやCursorなどのコーディングツールと接続し、デザインから実装までの全自動パイプラインを実現できる点\n* **デザインと開発の壁を消す「DESIGN.md」**: デザインシステムをMarkdown化してAIコーディングツール等へシームレスに伝達できる点\n* **マルチスクリーン設計**: 最大6画面の同時生成が可能な点\n* **無料かつAIネイティブ**である点",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1811,
+    "candidatesTokenCount": 173,
+    "totalTokenCount": 2409,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1811
+     }
+    ],
+    "thoughtsTokenCount": 425,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 295,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 623,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 295
+     }
+    ],
+    "thoughtsTokenCount": 284,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q259:rerank8": {
+  "q": "q259",
+  "arm": "rerank8",
+  "answer": "資料に基づくと、MCPでは以下のような具体的なアクセス制限の設定ができます。\n\n* **許可・拒否リスト（settings.json）**: `allowedMcpServers` や `deniedMcpServers` を使い、サーバー名（`serverName`）、起動コマンドパス（`serverCommand`）、接続先URL（`serverUrl`）をワイルドカード等で指定して制御できます。\n* **URL・ネットワーク制限**: `allowedUrls` / `deniedUrls` やURLパターン設定により、社内ドメインや特定サービスのみを許可し、非暗号化通信（HTTP）やローカルホスト（`localhost`、`127.0.0.1`）へのリモート接続を拒否できます。\n* **管理者による強制・排他的制御（managed-mcp.json）**: 管理者がサーバーを一元管理でき、`\"exclusive\": true` に設定することで定義外のサーバー使用を一切禁止できます。\n* **ユーザー承認とサンドボックス**: ツール実行前のユーザーの明示的な許可要求（Permission Prompts）や、ツールごとの実行権限の最小化、Dockerコンテナ内実行によるファイルシステム・ネットワーク制限が可能です。\n* **データ別のアクセス制御**: 売上データへのアクセスは許可し、顧客の個人情報へのアクセスは禁止するといった細かい権限制御が可能です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1496,
+    "candidatesTokenCount": 289,
+    "totalTokenCount": 2269,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1496
+     }
+    ],
+    "thoughtsTokenCount": 484,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 411,
+    "candidatesTokenCount": 53,
+    "totalTokenCount": 593,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 411
+     }
+    ],
+    "thoughtsTokenCount": 129,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q087:base": {
+  "q": "q087",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16140,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 16362,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16140
+     }
+    ],
+    "thoughtsTokenCount": 217,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 123,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 222,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 123
+     }
+    ],
+    "thoughtsTokenCount": 72,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q087:rerank8": {
+  "q": "q087",
+  "arm": "rerank8",
+  "answer": "Eleven v4では、調整機能として「Style」と「Speed（速度）」のスライダーがなく、音声制御マークアップとしては「SSML」に対応していません。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1965,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 2166,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1965
+     }
+    ],
+    "thoughtsTokenCount": 167,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 152,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 372,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 152
+     }
+    ],
+    "thoughtsTokenCount": 183,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q009:rerank8": {
+  "q": "q009",
+  "arm": "rerank8",
+  "answer": "資料によると、開発者向けの「Meta Model API」とプログラミング支援サービス「Muse Code」です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1889,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 2152,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1889
+     }
+    ],
+    "thoughtsTokenCount": 240,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 127,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 376,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 127
+     }
+    ],
+    "thoughtsTokenCount": 213,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q002:rerank8": {
+  "q": "q002",
+  "arm": "rerank8",
+  "answer": "指定された3つの列の項目名は以下の通りです。\n\n* **約束したこと**\n* **わかりやすく言うと**\n* **ChatGPTを使う人への影響**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2196,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 2455,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2196
+     }
+    ],
+    "thoughtsTokenCount": 223,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 173,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 338,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 173
+     }
+    ],
+    "thoughtsTokenCount": 139,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q002:base": {
+  "q": "q002",
+  "arm": "base",
+  "answer": "資料（情報源1）によると、指定された3つの列の項目名は以下のとおりです。\n\n* **「約束したこと」**\n* **「わかりやすく言うと」**\n* **「ChatGPTを使う人への影響」**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18063,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 18311,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18063
+     }
+    ],
+    "thoughtsTokenCount": 198,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 187,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 380,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 187
+     }
+    ],
+    "thoughtsTokenCount": 164,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q105:rerank8": {
+  "q": "q105",
+  "arm": "rerank8",
+  "answer": "資料（情報源1）によると、ライセンスの具体的な制約条件（再配布条件、派生モデルの扱いなど）を**法務部門で確認すること**が推奨されています。また、特定ベンダーへのロックインリスクを考慮することも挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2271,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 2539,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2271
+     }
+    ],
+    "thoughtsTokenCount": 213,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 194,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 425,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 194
+     }
+    ],
+    "thoughtsTokenCount": 179,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q033:rerank8": {
+  "q": "q033",
+  "arm": "rerank8",
+  "answer": "資料によると、自社システムだけでなく、会員情報やデータなどを預けている**外部サービス（委託先・取引先）**までを守りの範囲（防御の対象）として捉える必要があります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2523,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 2801,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2523
+     }
+    ],
+    "thoughtsTokenCount": 236,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 168,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 398,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 168
+     }
+    ],
+    "thoughtsTokenCount": 194,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q191:rerank8": {
+  "q": "q191",
+  "arm": "rerank8",
+  "answer": "資料に基づくと、各ツールの有料プラン等において、以下のような成果物や用途がビジネスへの活用（商用利用）として許可されています。\n\n* **動画・広告コンテンツ**：ブランドプロモーション動画、SNS広告（Instagram、TikTok、YouTube等）、YouTube動画（収益化含む）、ECサイトの商品紹介動画、放送コンテンツなど\n* **ビジネス・教育向け資料**：企業のプレゼンテーション資料、営業資料・提案書への組み込み、オンライン講座・教育コンテンツなど\n* **受託・Web制作物**：クライアント向け制作物、Webサイト、画像など",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2012,
+    "candidatesTokenCount": 124,
+    "totalTokenCount": 2509,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2012
+     }
+    ],
+    "thoughtsTokenCount": 373,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 237,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 420,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 237
+     }
+    ],
+    "thoughtsTokenCount": 150,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q191:base": {
+  "q": "q191",
+  "arm": "base",
+  "answer": "情報源1によると、有料プラン（Standard以上）で生成した動画について、以下の用途での商用利用が認められています。\n\n* ブランドプロモーション動画\n* SNS広告（Instagram、TikTok、YouTube等）\n* ECサイトの商品紹介動画\n* 企業のプレゼンテーション資料\n* クライアント向け制作物\n* 放送コンテンツ\n* オンライン講座・教育コンテンツ\n* 営業資料・提案書への組み込み",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 16375,
+    "candidatesTokenCount": 92,
+    "totalTokenCount": 16626,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16375
+     }
+    ],
+    "thoughtsTokenCount": 159,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 204,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 540,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 204
+     }
+    ],
+    "thoughtsTokenCount": 295,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q033:base": {
+  "q": "q033",
+  "arm": "base",
+  "answer": "資料によると、自社システムだけでなく、**会員情報やデータを預けている「外部サービス」や「委託先のシステム（サプライチェーン）」**までを守りの範囲として捉える必要があります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14313,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 14658,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14313
+     }
+    ],
+    "thoughtsTokenCount": 305,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 166,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 407,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 166
+     }
+    ],
+    "thoughtsTokenCount": 205,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q218:base": {
+  "q": "q218",
+  "arm": "base",
+  "answer": "資料によると、ChatGPT Plusプランは**月額20ドル**（日本円の参考表示では**3,000円**）です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13799,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 13986,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13799
+     }
+    ],
+    "thoughtsTokenCount": 155,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 146,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 378,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 146
+     }
+    ],
+    "thoughtsTokenCount": 196,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q122:rerank8": {
+  "q": "q122",
+  "arm": "rerank8",
+  "answer": "指定されている文字コードの条件は、「UTF-8 BOM付き」です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1918,
+    "candidatesTokenCount": 16,
+    "totalTokenCount": 2085,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1918
+     }
+    ],
+    "thoughtsTokenCount": 151,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 127,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 263,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 127
+     }
+    ],
+    "thoughtsTokenCount": 108,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q218:rerank8": {
+  "q": "q218",
+  "arm": "rerank8",
+  "answer": "ChatGPTのPlusプランは、月額20ドル（日本円の参考表示では月額3,000円）です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2359,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 2603,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2359
+     }
+    ],
+    "thoughtsTokenCount": 215,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 143,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 306,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 143
+     }
+    ],
+    "thoughtsTokenCount": 129,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q105:base": {
+  "q": "q105",
+  "arm": "base",
+  "answer": "資料（情報源1）に基づくと、以下の対応を行うことが推奨されています。\n\n* **法務部門での確認**: ライセンス（NVIDIA Nemotron Open Model License）の具体的な制約条件（再配布条件や派生モデルの扱いなど）を確認すること\n* **性能の実測**: 日本語で本格運用を検討する場合、自社のユースケースで事前に実測して評価すること\n* **リスクの考慮**: 特定ベンダーへのロックインリスクを考慮すること",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17515,
+    "candidatesTokenCount": 100,
+    "totalTokenCount": 17933,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17515
+     }
+    ],
+    "thoughtsTokenCount": 318,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 239,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 508,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 239
+     }
+    ],
+    "thoughtsTokenCount": 220,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q122:base": {
+  "q": "q122",
+  "arm": "base",
+  "answer": "資料では、**UTF-8 BOM付き**と指定されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18036,
+    "candidatesTokenCount": 14,
+    "totalTokenCount": 18204,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18036
+     }
+    ],
+    "thoughtsTokenCount": 154,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 125,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 264,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 125
+     }
+    ],
+    "thoughtsTokenCount": 110,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q149:base": {
+  "q": "q149",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 14410,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 14695,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14410
+     }
+    ],
+    "thoughtsTokenCount": 280,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 130,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 289,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 130
+     }
+    ],
+    "thoughtsTokenCount": 134,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q149:rerank8": {
+  "q": "q149",
+  "arm": "rerank8",
+  "answer": "資料によると、新メンバーのオンボーディング期間は「2週間」から「3日」になり、**79%短縮**されます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2113,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 2237,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2113
+     }
+    ],
+    "thoughtsTokenCount": 93,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 363,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 156
+     }
+    ],
+    "thoughtsTokenCount": 184,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q240:rerank8": {
+  "q": "q240",
+  "arm": "rerank8",
+  "answer": "経験豊富な技術者の「勘」に頼っていました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2416,
+    "candidatesTokenCount": 11,
+    "totalTokenCount": 2660,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2416
+     }
+    ],
+    "thoughtsTokenCount": 233,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 127,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 258,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 127
+     }
+    ],
+    "thoughtsTokenCount": 95,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q274:base": {
+  "q": "q274",
+  "arm": "base",
+  "answer": "資料によると、マッキンゼーの調査でAIエージェントの活用が最も進んでいる分野は、「ソフトウェアエンジニアリング」と「カスタマーサービス」の2領域です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17348,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 17494,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17348
+     }
+    ],
+    "thoughtsTokenCount": 106,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 155,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 327,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 155
+     }
+    ],
+    "thoughtsTokenCount": 139,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q274:rerank8": {
+  "q": "q274",
+  "arm": "rerank8",
+  "answer": "McKinseyの調査によると、「ソフトウェアエンジニアリング」と「カスタマーサービス」の2領域です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2093,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 2242,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2093
+     }
+    ],
+    "thoughtsTokenCount": 126,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 136,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 320,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 136
+     }
+    ],
+    "thoughtsTokenCount": 148,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q240:base": {
+  "q": "q240",
+  "arm": "base",
+  "answer": "資料によると、従来は経験豊富な技術者の「勘」や記憶を頼りに対処・原因の特定を行っていました（経験がない場合は手当たり次第に調べていました）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 19015,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 19322,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 19015
+     }
+    ],
+    "thoughtsTokenCount": 271,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 151,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 389,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 151
+     }
+    ],
+    "thoughtsTokenCount": 201,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q003:base": {
+  "q": "q003",
+  "arm": "base",
+  "answer": "研究チームはこれを「**デジタル粘菌**」や「**ショウジョウバエの群れ**」に例えて表現しています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15024,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 15266,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15024
+     }
+    ],
+    "thoughtsTokenCount": 211,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 157,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 359,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 157
+     }
+    ],
+    "thoughtsTokenCount": 178,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q003:rerank8": {
+  "q": "q003",
+  "arm": "rerank8",
+  "answer": "資料によると、研究チームはこれを「デジタル粘菌」や「ショウジョウバエの群れ」にたとえています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2348,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2540,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2348
+     }
+    ],
+    "thoughtsTokenCount": 164,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 154,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 375,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 154
+     }
+    ],
+    "thoughtsTokenCount": 181,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q254:base": {
+  "q": "q254",
+  "arm": "base",
+  "answer": "AnthropicのComputer Useは、APIとSDKを通じて開発者が自社アプリに機能を組み込むことができる「開発者向けSDK型」として設計されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13754,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 13885,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13754
+     }
+    ],
+    "thoughtsTokenCount": 99,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 150,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 329,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 150
+     }
+    ],
+    "thoughtsTokenCount": 140,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q254:rerank8": {
+  "q": "q254",
+  "arm": "rerank8",
+  "answer": "AnthropicのComputer Useは「開発者向けSDK型」として設計されており、APIやSDKを通じて開発者が自社アプリケーションに機能を組み込める形態となっています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2062,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 2289,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2062
+     }
+    ],
+    "thoughtsTokenCount": 193,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 152,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 338,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 152
+     }
+    ],
+    "thoughtsTokenCount": 151,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q258:base": {
+  "q": "q258",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 15383,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 15796,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15383
+     }
+    ],
+    "thoughtsTokenCount": 408,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 110,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 260,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 110
+     }
+    ],
+    "thoughtsTokenCount": 119,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q258:rerank8": {
+  "q": "q258",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2568,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 2974,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2568
+     }
+    ],
+    "thoughtsTokenCount": 401,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 110,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 231,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 110
+     }
+    ],
+    "thoughtsTokenCount": 86,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q159:rerank8": {
+  "q": "q159",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2377,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 2560,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2377
+     }
+    ],
+    "thoughtsTokenCount": 178,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 110,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 264,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 110
+     }
+    ],
+    "thoughtsTokenCount": 123,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q159:base": {
+  "q": "q159",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 18781,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 19252,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18781
+     }
+    ],
+    "thoughtsTokenCount": 466,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 110,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 223,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 110
+     }
+    ],
+    "thoughtsTokenCount": 78,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q088:base": {
+  "q": "q088",
+  "arm": "base",
+  "answer": "資料（情報源1）では、歌詞がAIっぽく聞こえるときの工夫として以下の方法が挙げられています。\n\n* **自分の言葉を一行入れる**：自分だけが覚えている場面の短いひと言や、自分が選んだ具体的なものを一行だけ置く。\n* **感情を言いすぎず、具体的な行動を書く**：「寂しい」「悲しい」と感情を重ねるのではなく、何をしている人なのかを書く。\n* **入力前に声に出して読んでみる**：普段話す速さで読み、息が続かない場合は行を分けるなどして、歌いやすさや強調したい言葉を確かめる。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18890,
+    "candidatesTokenCount": 135,
+    "totalTokenCount": 19183,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18890
+     }
+    ],
+    "thoughtsTokenCount": 158,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 257,
+    "candidatesTokenCount": 43,
+    "totalTokenCount": 499,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 257
+     }
+    ],
+    "thoughtsTokenCount": 199,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q088:rerank8": {
+  "q": "q088",
+  "arm": "rerank8",
+  "answer": "資料によると、一行だけ自分の言葉を入れてみるのがおすすめとされています。長い物語を作る必要はなく、自分だけが覚えている場面の短いひと言や、具体的なものを一つ入れるとよいとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2206,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 2462,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2206
+     }
+    ],
+    "thoughtsTokenCount": 215,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 163,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 406,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 163
+     }
+    ],
+    "thoughtsTokenCount": 192,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q185:base": {
+  "q": "q185",
+  "arm": "base",
+  "answer": "資料によると、通常の入力料金の**10分の1（0.1倍／90%割引）**になります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15051,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 15370,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15051
+     }
+    ],
+    "thoughtsTokenCount": 294,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 141,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 304,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 141
+     }
+    ],
+    "thoughtsTokenCount": 138,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q185:rerank8": {
+  "q": "q185",
+  "arm": "rerank8",
+  "answer": "資料によると、通常の入力料金の**10分の1（0.1倍／90%割引）**になります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2426,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 2685,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2426
+     }
+    ],
+    "thoughtsTokenCount": 233,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 141,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 296,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 141
+     }
+    ],
+    "thoughtsTokenCount": 123,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q069:rerank8": {
+  "q": "q069",
+  "arm": "rerank8",
+  "answer": "資料によると、注文直前の画面（購入ボタンを押す前）では、以下の点を自らの目で確認・照合すべきとされています。\n\n* **総支払額（商品価格＋送料−適用済みクーポン）**\n* **配送先**\n* **適用されたクーポン**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2276,
+    "candidatesTokenCount": 59,
+    "totalTokenCount": 2620,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2276
+     }
+    ],
+    "thoughtsTokenCount": 285,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 181,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 326,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 181
+     }
+    ],
+    "thoughtsTokenCount": 111,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q188:base": {
+  "q": "q188",
+  "arm": "base",
+  "answer": "資料によると、エージェントコアはユーザーの指示を分析し、AIモデルの推論能力を使って数十ステップの具体的な操作計画（実行計画）を策定します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13956,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 14202,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13956
+     }
+    ],
+    "thoughtsTokenCount": 209,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 167,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 456,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 167
+     }
+    ],
+    "thoughtsTokenCount": 248,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q069:base": {
+  "q": "q069",
+  "arm": "base",
+  "answer": "資料によると、注文を完了（確定）させる直前の画面では、以下の点などを自ら確認すべきとされています。\n\n* **総支払額（商品価格＋送料－適用されたクーポン）**\n* **適用されたクーポン**\n* **配送先**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18696,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 18995,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18696
+     }
+    ],
+    "thoughtsTokenCount": 244,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 177,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 384,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 177
+     }
+    ],
+    "thoughtsTokenCount": 172,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q188:rerank8": {
+  "q": "q188",
+  "arm": "rerank8",
+  "answer": "ユーザーの指示を分析し、AIモデルの推論能力を使って数十ステップに及ぶ実行計画（操作計画）を策定します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2032,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 2284,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2032
+     }
+    ],
+    "thoughtsTokenCount": 222,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 390,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 187,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q077:rerank8": {
+  "q": "q077",
+  "arm": "rerank8",
+  "answer": "資料によると、「事実」「推測」「未確認」（あるいは決定事項と未決定事項）を見た目から分かるように明確に分けることが効果的です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2455,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 2749,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2455
+     }
+    ],
+    "thoughtsTokenCount": 261,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 161,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 379,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 161
+     }
+    ],
+    "thoughtsTokenCount": 177,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q023:base": {
+  "q": "q023",
+  "arm": "base",
+  "answer": "資料によると、相手の立体的なデジタルの姿をはじめ、写真のように精細な表情やリアルタイムの反応、身ぶり、目線（視線）などを目にすることができます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12023,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 12353,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12023
+     }
+    ],
+    "thoughtsTokenCount": 291,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 440,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 156
+     }
+    ],
+    "thoughtsTokenCount": 242,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q023:rerank8": {
+  "q": "q023",
+  "arm": "rerank8",
+  "answer": "資料によると、相手の表情や反応、空間に立体的に再現された姿、視線（目線）、身ぶりなどを目にすることができます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1986,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2450,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1986
+     }
+    ],
+    "thoughtsTokenCount": 436,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 146,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 330,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 146
+     }
+    ],
+    "thoughtsTokenCount": 150,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q285:base": {
+  "q": "q285",
+  "arm": "base",
+  "answer": "資料にはG検定の合格率や受験費用に関する記載はないため、資料からはわかりません。（なお、スクールの「G検定対策講座」の料金として29,700円という記載はあります。）",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 15371,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 15822,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15371
+     }
+    ],
+    "thoughtsTokenCount": 404,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 171,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 364,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 171
+     }
+    ],
+    "thoughtsTokenCount": 163,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q285:rerank8": {
+  "q": "q285",
+  "arm": "rerank8",
+  "answer": "資料によると、G検定に関する情報は以下のとおりです。\n\n* **合格率**：資料からはわかりません（※E資格の合格率は記載されていますが、G検定の合格率は記載がありません）。\n* **受ける際にかかる金額（受験料）**：13,200円です（なお、スクールの対策講座の費用としては29,700円の例が記載されています）。",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 2515,
+    "candidatesTokenCount": 90,
+    "totalTokenCount": 3061,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2515
+     }
+    ],
+    "thoughtsTokenCount": 456,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 214,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 439,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 214
+     }
+    ],
+    "thoughtsTokenCount": 197,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q192:base": {
+  "q": "q192",
+  "arm": "base",
+  "answer": "資料によると、悪意あるエージェントが正規のエージェントになりすました場合、**機密データの窃取**や**タスクの不正操作**が行われるリスクが想定されています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 13796,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 13955,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 13796
+     }
+    ],
+    "thoughtsTokenCount": 118,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 174,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 397,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 174
+     }
+    ],
+    "thoughtsTokenCount": 184,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q192:rerank8": {
+  "q": "q192",
+  "arm": "rerank8",
+  "answer": "資料によると、**機密データの窃取**や**タスクの不正操作**が行われるリスクが想定されます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2181,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 2337,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2181
+     }
+    ],
+    "thoughtsTokenCount": 131,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 158,
+    "candidatesTokenCount": 42,
+    "totalTokenCount": 359,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 158
+     }
+    ],
+    "thoughtsTokenCount": 159,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q077:base": {
+  "q": "q077",
+  "arm": "base",
+  "answer": "資料に基づくと、社内ドキュメントでの誤解やトラブルを防ぐには、記載内容を次のように整理することが効果的です。\n\n* **「決定事項（確定情報）」と「未決定・未確認の事項（提案や検討中）」を明確に分ける**：推測で埋めず、不明な担当や期限、数値は「未定」や空欄として残します。\n* **「次の担当者」や「次に行う確認・行動」を明記する**：誰が何を確認・判断するのかを曖昧にしないようにします。\n* **表現の強さや数値の条件を正確に保つ**：「可能性がある・検討中」が「実施する・確定」にすり替わっていないか、金額の条件（税込・税抜など）や日付・固有名詞を元情報と照合して記載します。\n* **結論や次の行動を先に置く**：冒頭に現状の結論と担当を置き、理由や未確認事項、詳細資料は後ろに分ける構成にします。",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 18378,
+    "candidatesTokenCount": 229,
+    "totalTokenCount": 19278,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18378
+     }
+    ],
+    "thoughtsTokenCount": 671,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 358,
+    "candidatesTokenCount": 69,
+    "totalTokenCount": 988,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 358
+     }
+    ],
+    "thoughtsTokenCount": 561,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q019:rerank8": {
+  "q": "q019",
+  "arm": "rerank8",
+  "answer": "資料によると、Gmail、Googleドライブ、カレンダーなど、Google自身のアプリをまたぐ調べものや資料作りといった作業です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1962,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 2120,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1962
+     }
+    ],
+    "thoughtsTokenCount": 131,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 146,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 426,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 146
+     }
+    ],
+    "thoughtsTokenCount": 247,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q019:base": {
+  "q": "q019",
+  "arm": "base",
+  "answer": "資料によると、日本国内で当面すぐに役立つのは、Gmail、Googleドライブ、Googleカレンダーなど、Google自身のアプリをまたぐ調べものや資料作成といった作業です。資料を読み込んで長い手順を最後までやり切る仕事に適しているとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17027,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 17247,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17027
+     }
+    ],
+    "thoughtsTokenCount": 165,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 174,
+    "candidatesTokenCount": 37,
+    "totalTokenCount": 446,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 174
+     }
+    ],
+    "thoughtsTokenCount": 235,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q024:base": {
+  "q": "q024",
+  "arm": "base",
+  "answer": "資料によると、Meta VR Glassesのホログラム通話とは以下のような内容です。\n\n* **姿の作成と表示**：スマートフォンでセルフ撮影して作成した精細なデジタルの自分（ホログラム）を用い、グラス着用者の目の前の空間に相手の姿や表情を立体的に再現します。\n* **音声**：空間オーディオにより、相手の姿がある方向から声が聞こえます。\n* **参加方法**：相手がスマートフォンやPCから参加する場合は相手の画面上にホログラムが表示され、お互いがグラスを着ければ相互の空間で姿を見ながら会話できます（WhatsAppやZoomなどの通話アプリに対応予定）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12024,
+    "candidatesTokenCount": 143,
+    "totalTokenCount": 12365,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12024
+     }
+    ],
+    "thoughtsTokenCount": 198,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 275,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 544,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 275
+     }
+    ],
+    "thoughtsTokenCount": 223,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q024:rerank8": {
+  "q": "q024",
+  "arm": "rerank8",
+  "answer": "Meta VR Glassesのホログラム通話とは、事前にスマートフォンで作成した自身のデジタルの姿を使い、相手の表情や姿を立体的に再現して会話できる機能です。グラス装着者には相手が目の前の空間に現れ、声もその方向から聞こえる（空間オーディオ）ほか、スマホやPCで参加する相手の画面にもホログラムが表示されます。WhatsAppやZoomなどのアプリに対応し、2027年春の製品発売時に提供予定とされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2200,
+    "candidatesTokenCount": 106,
+    "totalTokenCount": 2670,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2200
+     }
+    ],
+    "thoughtsTokenCount": 364,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 238,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 640,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 238
+     }
+    ],
+    "thoughtsTokenCount": 353,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q266:rerank8": {
+  "q": "q266",
+  "arm": "rerank8",
+  "answer": "資料によると、技術は動いていても「PoCの成功」と「事業成果」の間に巨大なギャップがあり、損益計算書に載せられる成果が出ていないという問題があります。また、「現場は便利だと言っている」といった定性的な手応えを免罪符にして財務的な検証を先送りし、このギャップの存在に気づいていない企業が多いことも背景として挙げられています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2231,
+    "candidatesTokenCount": 88,
+    "totalTokenCount": 2799,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2231
+     }
+    ],
+    "thoughtsTokenCount": 480,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 210,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 486,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 210
+     }
+    ],
+    "thoughtsTokenCount": 228,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q075:base": {
+  "q": "q075",
+  "arm": "base",
+  "answer": "資料に基づくと、契約や設定を通じて事前に把握・確認しておくべき事項は以下のとおりです。\n\n* **モデル学習への利用有無**: 契約上、入力データがAIの学習に利用されない保証（商用利用規約やオプトアウト/デフォルトOFF設定など）があるか\n* **データ保持期間と削除**: データの標準保持期間（例: 30日間）や、保持を行わない「Zero Data Retention（ZDR）」等の適用可否\n* **データの送信先・処理環境**: 直接API利用か、データが外部に渡らない自社クラウド環境内（AWS BedrockやGoogle Vertex AI等）で完結できるか\n* **入力・権限の管理と承認**: 機密区分に応じた入力制限、最小権限の設定（閲覧・編集・実行等の分離）、および重要な操作に対する人の承認フローの有無\n* **除外設定とセキュリティ機能**: 機密ファイルの読み取り除外設定（`.claudeignore`等）、コマンドの拒否（deny）ルール、サンドボックス環境の利用\n* **監査ログと認証**: 操作ログの保存・監査体制、およびコンプライアンス認証（SOC 2、ISO 27001、HIPAA BAA、GDPRなど）への対応状況",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15083,
+    "candidatesTokenCount": 270,
+    "totalTokenCount": 15918,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15083
+     }
+    ],
+    "thoughtsTokenCount": 565,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 397,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 610,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 397
+     }
+    ],
+    "thoughtsTokenCount": 165,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q075:rerank8": {
+  "q": "q075",
+  "arm": "rerank8",
+  "answer": "資料に基づき、契約や設定を通じて事前に確認しておくべき主な運用事項は以下の通りです。\n\n* **データの学習不使用・保持期間**：入力データがAIの機械学習やモデル改善に利用されないことが契約（利用規約）上保証されているか、およびデータの保持期間や保存場所の確認。\n* **法令・規約との整合性**：社内規定や顧客との契約に抵触しないか、プライバシーポリシー公表済みの利用目的に合致しているか、第三者提供やGDPR対応（データ処理契約の締結など）に問題がないかの確認。\n* **権限管理と除外設定**：職場で利用可能な情報範囲の確認、IAM等の最小権限の設定、および機密ファイルやテレメトリ（通信ログ等）の除外・送信無効化設定の確認。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2321,
+    "candidatesTokenCount": 182,
+    "totalTokenCount": 3168,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2321
+     }
+    ],
+    "thoughtsTokenCount": 665,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 309,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 575,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 309
+     }
+    ],
+    "thoughtsTokenCount": 216,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q266:base": {
+  "q": "q266",
+  "arm": "base",
+  "answer": "資料によると、以下の問題が背景として挙げられています。\n\n* **財務的な検証や厳密なROI測定の先送り**：「現場が便利と言っている」などの定性的な手応えや、「時間が経てば成果が出る」という期待を言い訳にして、測定を後回しにしていること。\n* **ギャップへの無自覚**：「技術が動く（PoCの成功）」ことと「損益計算書（P&L）に載る事業成果」の間にある巨大なギャップに多くの企業が気づいていないこと。\n* **目的の曖昧さ**：経営層の号令などで「何を解決するか」より導入自体が先行し、問題を探している解決策（ソリューション・イン・サーチ・オブ・ア・プロブレム）になっていること。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 18172,
+    "candidatesTokenCount": 172,
+    "totalTokenCount": 19096,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 18172
+     }
+    ],
+    "thoughtsTokenCount": 752,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 294,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 523,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 294
+     }
+    ],
+    "thoughtsTokenCount": 191,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q193:base": {
+  "q": "q193",
+  "arm": "base",
+  "answer": "資料によると、以下の対策が有効です。\n\n* **データの分類ラベル付けとフィルタリング**の実施\n* 組織間通信における**許可リスト方式の採用**（明示的に許可されたデータのみ転送する）\n* **データ分類と伝播制御**、および**PII（個人情報）のマスキング**の適用",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14528,
+    "candidatesTokenCount": 73,
+    "totalTokenCount": 14887,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14528
+     }
+    ],
+    "thoughtsTokenCount": 286,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 200,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 447,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 200
+     }
+    ],
+    "thoughtsTokenCount": 206,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q193:rerank8": {
+  "q": "q193",
+  "arm": "rerank8",
+  "answer": "資料によると、以下の対策が有効です。\n\n* **データの分類ラベル付けとフィルタリング**（伝播制御）\n* **組織間通信での許可リスト方式の採用**（明示的に許可されたデータのみ転送）\n* **PII（個人情報）のマスキング**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1907,
+    "candidatesTokenCount": 62,
+    "totalTokenCount": 2190,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1907
+     }
+    ],
+    "thoughtsTokenCount": 221,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 189,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 396,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 189
+     }
+    ],
+    "thoughtsTokenCount": 173,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q049:base": {
+  "q": "q049",
+  "arm": "base",
+  "answer": "資料によると、前夜からの会話を続けることで、**家族の備蓄、家の状況、通勤先**を踏まえた相談やアドバイスを受けられます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12573,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 12792,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12573
+     }
+    ],
+    "thoughtsTokenCount": 186,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 154,
+    "candidatesTokenCount": 45,
+    "totalTokenCount": 366,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 154
+     }
+    ],
+    "thoughtsTokenCount": 167,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q049:rerank8": {
+  "q": "q049",
+  "arm": "rerank8",
+  "answer": "資料（情報源1）によると、家族の備蓄、家の状況、通勤先を踏まえた上で相談・アドバイスを受けられます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2510,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 2733,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2510
+     }
+    ],
+    "thoughtsTokenCount": 194,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 150,
+    "candidatesTokenCount": 47,
+    "totalTokenCount": 356,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 150
+     }
+    ],
+    "thoughtsTokenCount": 159,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q147:base": {
+  "q": "q147",
+  "arm": "base",
+  "answer": "資料によると、Claude CodeをOllama経由で動かすのが適しているのは以下のような状況です。\n\n* 初期投資ゼロでAIコーディングツールを試してみたい場合\n* 学習目的でClaude Codeの操作感を掴みたい場合\n* 個人プロジェクトで品質を少し妥協しつつAIアシスタントを使いたい場合\n* コードを外部に送信せず、プライバシーを最優先したい場合（ローカル実行）\n* サブマシンで補助的に利用したい場合",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 11970,
+    "candidatesTokenCount": 101,
+    "totalTokenCount": 12235,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 11970
+     }
+    ],
+    "thoughtsTokenCount": 164,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 230,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 443,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 230
+     }
+    ],
+    "thoughtsTokenCount": 167,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q015:base": {
+  "q": "q015",
+  "arm": "base",
+  "answer": "Codexの標準のサブエージェントには、次の2種類が用意されています。\n\n* **explorer**：コードを読み込んで調べるエージェント\n* **worker**：実装や修正をするエージェント",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15690,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 15818,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15690
+     }
+    ],
+    "thoughtsTokenCount": 82,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 179,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 403,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 179
+     }
+    ],
+    "thoughtsTokenCount": 186,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q147:rerank8": {
+  "q": "q147",
+  "arm": "rerank8",
+  "answer": "資料によると、Ollama経由での利用は以下の状況に適しています。\n\n* 初期投資ゼロでAIコーディングツールを試してみたい\n* 学習目的でClaude Codeの操作感を覚えたい\n* 品質は少し妥協できる個人プロジェクトでAIアシスタントが欲しい\n* プライバシーが最優先で、コードを外部に送りたくない（ローカル実行の場合）",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1878,
+    "candidatesTokenCount": 81,
+    "totalTokenCount": 2227,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1878
+     }
+    ],
+    "thoughtsTokenCount": 268,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 210,
+    "candidatesTokenCount": 48,
+    "totalTokenCount": 497,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 210
+     }
+    ],
+    "thoughtsTokenCount": 239,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q015:rerank8": {
+  "q": "q015",
+  "arm": "rerank8",
+  "answer": "資料によると、標準では以下の2種類が用意されています。\n\n* **explorer**：コードを読み込んで調べるエージェント\n* **worker**：実装や修正をするエージェント",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1898,
+    "candidatesTokenCount": 40,
+    "totalTokenCount": 2070,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1898
+     }
+    ],
+    "thoughtsTokenCount": 132,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 174,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 360,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 174
+     }
+    ],
+    "thoughtsTokenCount": 152,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q070:rerank8": {
+  "q": "q070",
+  "arm": "rerank8",
+  "answer": "自分がその選択肢を選んだ理由に、論理の飛躍や読み落としがないかを確認するのがよいとされています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2328,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 2485,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2328
+     }
+    ],
+    "thoughtsTokenCount": 131,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 147,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 328,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 147
+     }
+    ],
+    "thoughtsTokenCount": 142,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q234:rerank8": {
+  "q": "q234",
+  "arm": "rerank8",
+  "answer": "資料によると、本格稼働まで**3〜6ヶ月**が一般的です（PoCまでの目安は2〜4ヶ月）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2468,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 2825,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2468
+     }
+    ],
+    "thoughtsTokenCount": 331,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 144,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 369,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 144
+     }
+    ],
+    "thoughtsTokenCount": 195,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q070:base": {
+  "q": "q070",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16640,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 17332,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16640
+     }
+    ],
+    "thoughtsTokenCount": 687,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 125,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 239,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 125
+     }
+    ],
+    "thoughtsTokenCount": 97,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q234:base": {
+  "q": "q234",
+  "arm": "base",
+  "answer": "資料によると、本格導入までの準備期間の目安は**3〜6ヶ月**（現状分析からFAQ整備、PoC、本格導入・エスカレーション設計まで）とされています。\n\nなお、システムの導入形態や規模によっても異なり、手軽なSaaS型であれば即日〜4週間程度、カスタム開発や大規模・フルスクラッチ開発では1ヶ月〜12ヶ月程度見込まれます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 17524,
+    "candidatesTokenCount": 88,
+    "totalTokenCount": 18185,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17524
+     }
+    ],
+    "thoughtsTokenCount": 573,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 205,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 431,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 205
+     }
+    ],
+    "thoughtsTokenCount": 188,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q295:base": {
+  "q": "q295",
+  "arm": "base",
+  "answer": "資料に基づき、プロジェクト初期の運用フロー構築においてルール化しておくべき主な項目は以下の通りです。\n\n* **作業手順と完了定義**：進行フロー（計画・実行・検証・報告）、完了前の「検証ログ提出」の必須化\n* **タスク管理・再発防止**：進捗やログの記録方法（`todo.md`等）、失敗時の学習・再発防止策の蓄積ルール（`lessons.md`等）\n* **コーディング規約・編集ルール**：命名規約、ディレクトリ構成、コード変更の影響範囲最小化\n* **テスト方針**：テストフレームワーク、カバレッジ目標、テストの先行作成ルール\n* **セキュリティ・権限・承認**：本番操作の明示承認、認証・権限境界、秘密情報の管理、破壊的コマンドの禁止\n* **禁止事項・制約**：初期に「やらないこと」（機能制限など）の明記、残置コードの禁止\n* **提出要件・運用KPI**：追うべき指標の定義や、週次等の改善リズム・役割分担の策定",
+  "score": 1,
+  "usage": [
+   {
+    "promptTokenCount": 17875,
+    "candidatesTokenCount": 241,
+    "totalTokenCount": 19004,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17875
+     }
+    ],
+    "thoughtsTokenCount": 888,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 381,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 653,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 381
+     }
+    ],
+    "thoughtsTokenCount": 220,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q181:base": {
+  "q": "q181",
+  "arm": "base",
+  "answer": "資料によると、言語は**Rust**（外部crateへの依存なし、標準ライブラリのみ）で、**約100,000行（10万行）**の規模のコードが書かれました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12685,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 12865,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12685
+     }
+    ],
+    "thoughtsTokenCount": 131,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 193,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 423,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 193
+     }
+    ],
+    "thoughtsTokenCount": 186,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q181:rerank8": {
+  "q": "q181",
+  "arm": "rerank8",
+  "answer": "約100,000行（約10万行）のRustで書かれました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1808,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 1986,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1808
+     }
+    ],
+    "thoughtsTokenCount": 155,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 167,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 406,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 167
+     }
+    ],
+    "thoughtsTokenCount": 198,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q295:rerank8": {
+  "q": "q295",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2351,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 4244,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2351
+     }
+    ],
+    "thoughtsTokenCount": 1888,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 145,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 284,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 145
+     }
+    ],
+    "thoughtsTokenCount": 122,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q189:rerank8": {
+  "q": "q189",
+  "arm": "rerank8",
+  "answer": "cronジョブなどを用いて、Gatewayを定期的（日次または週に一度）に再起動することが有効です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1698,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 1863,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1698
+     }
+    ],
+    "thoughtsTokenCount": 140,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 150,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 334,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 150
+     }
+    ],
+    "thoughtsTokenCount": 150,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q189:base": {
+  "q": "q189",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 15557,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 15914,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15557
+     }
+    ],
+    "thoughtsTokenCount": 352,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 130,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 290,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 130
+     }
+    ],
+    "thoughtsTokenCount": 129,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q086:base": {
+  "q": "q086",
+  "arm": "base",
+  "answer": "資料によると、Artificial Analysisには以下の評価の枠組みがあります。\n\n* **Intelligence Index**：AIモデルの総合力を測る総合指標\n* **Provider Voice Arena**：各社が用意した声を聴き比べ、どちらを好むかという投票を基にした評価（音声モデルの評価）",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15796,
+    "candidatesTokenCount": 64,
+    "totalTokenCount": 16081,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15796
+     }
+    ],
+    "thoughtsTokenCount": 221,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 167,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 294,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 167
+     }
+    ],
+    "thoughtsTokenCount": 96,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q086:rerank8": {
+  "q": "q086",
+  "arm": "rerank8",
+  "answer": "資料によると、Artificial Analysisには以下の評価の枠組み（指標・部門）があります。\n\n* **Provider Voice Arena**：各社が用意した声を聴き比べ、好みを投票に基づいて評価する枠組み（米国・英国の英語を対象）。\n* **Intelligence Index**：AIの総合力を測る総合指標。\n* **「音声つきの文章→動画」部門**：生成された動画を人が見比べて投票する方式で性能を比べる部門。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2136,
+    "candidatesTokenCount": 100,
+    "totalTokenCount": 2472,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2136
+     }
+    ],
+    "thoughtsTokenCount": 236,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 203,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 419,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 203
+     }
+    ],
+    "thoughtsTokenCount": 181,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q153:rerank8": {
+  "q": "q153",
+  "arm": "rerank8",
+  "answer": "DB MCPサーバーが現在のスキーマを読み取り、Claude Codeがカラム名の重複や外部キーの参照先の存在確認を行うためです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1785,
+    "candidatesTokenCount": 29,
+    "totalTokenCount": 1907,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1785
+     }
+    ],
+    "thoughtsTokenCount": 93,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 145,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 347,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 145
+     }
+    ],
+    "thoughtsTokenCount": 156,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q153:base": {
+  "q": "q153",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 14827,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 15202,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14827
+     }
+    ],
+    "thoughtsTokenCount": 370,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 121,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 283,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 121
+     }
+    ],
+    "thoughtsTokenCount": 135,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q222:rerank8": {
+  "q": "q222",
+  "arm": "rerank8",
+  "answer": "資料によると、バグの温床を減らせるメリットがあります。また、チーム開発においてコードの意図が伝わりやすくなる（関数が何を受け取って何を返すのかが明確になる）メリットもあります。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2322,
+    "candidatesTokenCount": 45,
+    "totalTokenCount": 2598,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2322
+     }
+    ],
+    "thoughtsTokenCount": 231,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 45,
+    "totalTokenCount": 457,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 156
+     }
+    ],
+    "thoughtsTokenCount": 256,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q222:base": {
+  "q": "q222",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17399,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 17861,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17399
+     }
+    ],
+    "thoughtsTokenCount": 457,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 115,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 244,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 115
+     }
+    ],
+    "thoughtsTokenCount": 112,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q195:rerank8": {
+  "q": "q195",
+  "arm": "rerank8",
+  "answer": "資料（情報源6）によると、ミディアム（部門導入）の場合、毎月発生する運用コストは**15万〜40万円**です。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2747,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 3116,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2747
+     }
+    ],
+    "thoughtsTokenCount": 334,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 149,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 287,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 149
+     }
+    ],
+    "thoughtsTokenCount": 108,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q195:base": {
+  "q": "q195",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 17415,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 18066,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 17415
+     }
+    ],
+    "thoughtsTokenCount": 646,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 119,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 315,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 119
+     }
+    ],
+    "thoughtsTokenCount": 165,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q267:rerank8": {
+  "q": "q267",
+  "arm": "rerank8",
+  "answer": "資料に基づくと、費用を抑えて効果的に進めるには以下の手順を踏むことが推奨されています。\n\n1. **事前見積もりと課題の特定**: 隠れコスト（データ整備費やAPI利用料など）やTCO（総保有コスト）を事前に考慮した上で、対象業務やKPIを明確にします。\n2. **スモールスタート（PoC）**: いきなり全社・大規模に導入せず、無料トライアルや安価なSaaS型などを使い、限定的な範囲（1チームや定型業務1つなど）で小さく効果を検証します。\n3. **効果の確認と段階的な拡張**: 数値やROIを確認・証明できた後に、本格的なツール導入や他業務への横展開、カスタム開発へと段階的にスケールさせます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2470,
+    "candidatesTokenCount": 169,
+    "totalTokenCount": 3234,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2470
+     }
+    ],
+    "thoughtsTokenCount": 595,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 305,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 521,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 305
+     }
+    ],
+    "thoughtsTokenCount": 172,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q267:base": {
+  "q": "q267",
+  "arm": "base",
+  "answer": "資料によると、いきなり高額な開発に投資するのではなく、まずはSaaS型やローコード型を活用して小さくPoC（概念実証）を実施し、効果を確認してから本格投資を判断する段階的なアプローチが効果的とされています。\n\n具体的な手順としては、以下の5つのステップが挙げられています。\n\n1. **課題と目的の明確化**\n2. **データの棚卸しと整理**\n3. **PoC実施**（限定データでの検証と本格導入の判断）\n4. **本番環境構築**\n5. **運用と継続改善**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 16846,
+    "candidatesTokenCount": 126,
+    "totalTokenCount": 17563,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16846
+     }
+    ],
+    "thoughtsTokenCount": 591,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 262,
+    "candidatesTokenCount": 44,
+    "totalTokenCount": 559,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 262
+     }
+    ],
+    "thoughtsTokenCount": 253,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q201:base": {
+  "q": "q201",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16469,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 17067,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16469
+     }
+    ],
+    "thoughtsTokenCount": 593,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 137,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 256,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 137
+     }
+    ],
+    "thoughtsTokenCount": 95,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q201:rerank8": {
+  "q": "q201",
+  "arm": "rerank8",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 2403,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 3059,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2403
+     }
+    ],
+    "thoughtsTokenCount": 651,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 137,
+    "candidatesTokenCount": 26,
+    "totalTokenCount": 251,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 137
+     }
+    ],
+    "thoughtsTokenCount": 88,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q225:base": {
+  "q": "q225",
+  "arm": "base",
+  "answer": "資料によると、ログが積み重なることで「ここまで続けたのにやめるのはもったいない」というサンクコスト効果が働き、途中で投げ出しにくくなるためです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 11209,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 11418,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 11209
+     }
+    ],
+    "thoughtsTokenCount": 171,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 159,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 351,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 159
+     }
+    ],
+    "thoughtsTokenCount": 162,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q225:rerank8": {
+  "q": "q225",
+  "arm": "rerank8",
+  "answer": "ログ（記録）が積み重なっていくことで、「ここまで続けたのにやめるのはもったいない」というサンクコスト効果が働くためです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2225,
+    "candidatesTokenCount": 32,
+    "totalTokenCount": 2415,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2225
+     }
+    ],
+    "thoughtsTokenCount": 158,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 154,
+    "candidatesTokenCount": 31,
+    "totalTokenCount": 379,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 154
+     }
+    ],
+    "thoughtsTokenCount": 194,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q256:base": {
+  "q": "q256",
+  "arm": "base",
+  "answer": "資料によると、Fortune 500の約70%がMicrosoft 365 Copilotを導入しています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14909,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 15007,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14909
+     }
+    ],
+    "thoughtsTokenCount": 73,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 146,
+    "candidatesTokenCount": 34,
+    "totalTokenCount": 353,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 146
+     }
+    ],
+    "thoughtsTokenCount": 173,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q074:rerank8": {
+  "q": "q074",
+  "arm": "rerank8",
+  "answer": "資料によると、モデル名が分かっただけでは自分の画面に現れる（実際に使えるようになる）タイミングまでは分からないという点です（発表された日と実際に利用できるようになる日は同じではないという点）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2115,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 2422,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2115
+     }
+    ],
+    "thoughtsTokenCount": 266,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 166,
+    "candidatesTokenCount": 30,
+    "totalTokenCount": 415,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 166
+     }
+    ],
+    "thoughtsTokenCount": 219,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q256:rerank8": {
+  "q": "q256",
+  "arm": "rerank8",
+  "answer": "資料によると、Fortune 500の約70%がMicrosoft 365 Copilotを導入（採用）しています。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1962,
+    "candidatesTokenCount": 28,
+    "totalTokenCount": 2105,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1962
+     }
+    ],
+    "thoughtsTokenCount": 115,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 149,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 278,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 149
+     }
+    ],
+    "thoughtsTokenCount": 94,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q074:base": {
+  "q": "q074",
+  "arm": "base",
+  "answer": "資料（情報源1）によると、新機能の名称が分かったとしても「自分の画面に現れるタイミングまでは分からない」という点です（発表・先行提供・一般提供は別の出来事であり、発表されたからといってすぐに自分が使えるわけではない点）。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 16627,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 17005,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16627
+     }
+    ],
+    "thoughtsTokenCount": 323,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 180,
+    "candidatesTokenCount": 45,
+    "totalTokenCount": 447,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 180
+     }
+    ],
+    "thoughtsTokenCount": 222,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q032:base": {
+  "q": "q032",
+  "arm": "base",
+  "answer": "情報源1によると、**11種類**の個人情報を対象としていました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 12161,
+    "candidatesTokenCount": 17,
+    "totalTokenCount": 12302,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 12161
+     }
+    ],
+    "thoughtsTokenCount": 124,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 131,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 263,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 131
+     }
+    ],
+    "thoughtsTokenCount": 107,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q076:rerank8": {
+  "q": "q076",
+  "arm": "rerank8",
+  "answer": "資料によると、ProやMaxの利用枠の消費は**利用するモデル**や**会話の長さ**（長い会話やファイルの扱いなど）によって変わります。また、Claude Codeやチャットでの利用枠の共有も影響します。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2380,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 2704,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2380
+     }
+    ],
+    "thoughtsTokenCount": 273,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 173,
+    "candidatesTokenCount": 33,
+    "totalTokenCount": 418,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 173
+     }
+    ],
+    "thoughtsTokenCount": 212,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q076:base": {
+  "q": "q076",
+  "arm": "base",
+  "answer": "資料によると、有料プラン（ProやMax）の利用枠の消費ペースには以下の要素が影響します。\n\n* **利用するモデル**\n* **会話の長さ**\n* **指示の具体性やタスクの大きさ**（曖昧な指示による試行錯誤や、一度に扱うファイル数など）\n* **実行するタスクの種類**（計算集約的なCoworkなどのタスクは通常チャットより大幅にトークンを消費する）",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 14275,
+    "candidatesTokenCount": 100,
+    "totalTokenCount": 14831,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 14275
+     }
+    ],
+    "thoughtsTokenCount": 456,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 222,
+    "candidatesTokenCount": 41,
+    "totalTokenCount": 407,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 222
+     }
+    ],
+    "thoughtsTokenCount": 144,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q032:rerank8": {
+  "q": "q032",
+  "arm": "rerank8",
+  "answer": "ミュンヘン工科大学の研究では、**11種類**の個人情報を対象としていました。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2440,
+    "candidatesTokenCount": 22,
+    "totalTokenCount": 2593,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2440
+     }
+    ],
+    "thoughtsTokenCount": 131,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 137,
+    "candidatesTokenCount": 25,
+    "totalTokenCount": 264,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 137
+     }
+    ],
+    "thoughtsTokenCount": 102,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q190:rerank8": {
+  "q": "q190",
+  "arm": "rerank8",
+  "answer": "資料によると、スライド作成、Webサイト構築、データ分析、動画生成などを1つの画面で行うことができます。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 1795,
+    "candidatesTokenCount": 24,
+    "totalTokenCount": 1906,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 1795
+     }
+    ],
+    "thoughtsTokenCount": 87,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 139,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 362,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 139
+     }
+    ],
+    "thoughtsTokenCount": 185,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q190:base": {
+  "q": "q190",
+  "arm": "base",
+  "answer": "資料によると、Gensparkではツールを切り替えることなく、以下の業務などを1つの画面で完結して行えます。\n\n* **調査・リサーチ（レポート作成）**\n* **データ分析（スプレッドシート処理）**\n* **スライド（プレゼン資料）作成**\n* **Webサイト・アプリの構築や公開**\n* **画像や動画の生成**\n* **AIチャット（文章生成・校正など）**",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 15540,
+    "candidatesTokenCount": 100,
+    "totalTokenCount": 15992,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 15540
+     }
+    ],
+    "thoughtsTokenCount": 352,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 215,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 450,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 215
+     }
+    ],
+    "thoughtsTokenCount": 199,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q179:rerank8": {
+  "q": "q179",
+  "arm": "rerank8",
+  "answer": "条文検索（正確性）と類似判例検索（類似度）の両方が必要とされるためです。",
+  "score": 2,
+  "usage": [
+   {
+    "promptTokenCount": 2189,
+    "candidatesTokenCount": 23,
+    "totalTokenCount": 2330,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 2189
+     }
+    ],
+    "thoughtsTokenCount": 118,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 158,
+    "candidatesTokenCount": 39,
+    "totalTokenCount": 429,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 158
+     }
+    ],
+    "thoughtsTokenCount": 232,
+    "serviceTier": "standard"
+   }
+  ]
+ },
+ "q179:base": {
+  "q": "q179",
+  "arm": "base",
+  "answer": "資料からはわかりません。",
+  "score": 0,
+  "usage": [
+   {
+    "promptTokenCount": 16214,
+    "candidatesTokenCount": 5,
+    "totalTokenCount": 16889,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 16214
+     }
+    ],
+    "thoughtsTokenCount": 670,
+    "serviceTier": "standard"
+   },
+   {
+    "promptTokenCount": 140,
+    "candidatesTokenCount": 27,
+    "totalTokenCount": 254,
+    "promptTokensDetails": [
+     {
+      "modality": "TEXT",
+      "tokenCount": 140
+     }
+    ],
+    "thoughtsTokenCount": 87,
+    "serviceTier": "standard"
+   }
+  ]
+ }
+}
